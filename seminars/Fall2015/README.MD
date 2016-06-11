@@ -6,14 +6,14 @@ The Fall, 2010, Senior Seminar conference is 1:30-5pm in Sci 2200 on Saturday, 4
 
 | Time | Speaker  | Title       | Slides  |
 | -----|----------|-------------|---------|
-|10:00am| 	Justin Yadeau| 	Thermal Interaction & 3D Data Visualization (Yadeau.pdf) |	[slides](Yadeau-slides.pdf) | 
-|10:30am| 	Zachary Vink| 	Topic Discovery and Evolution Through Social Media (Vink.pdf)|	[slides](Vink-slides.pdf) |
-|11:00am |	Kristin Rachor| 	Image Resizing using Seam Carving (Rachor.pdf)|	[slides](Rachor-slides.pdf) |
-|11:30am| 	Nic Ricci| 	Rowhammering: a physical approach to gaining unauthorized access (Ricci.pdf)| [slides](Ricci-slides.pdf) |
+|10:00am| 	Justin Yadeau| 	[Thermal Interaction & 3D Data Visualization] (Yadeau.pdf) |	[slides](Yadeau-slides.pdf) | 
+|10:30am| 	Zachary Vink| 	[Topic Discovery and Evolution Through Social Media] (Vink.pdf)|	[slides](Vink-slides.pdf) |
+|11:00am |	Kristin Rachor| 	[Image Resizing using Seam Carving] (Rachor.pdf)|	[slides](Rachor-slides.pdf) |
+|11:30am| 	Nic Ricci| [	Rowhammering: a physical approach to gaining unauthorized access] (Ricci.pdf)| [slides](Ricci-slides.pdf) |
 |12:00pm ||	  30 minute break 	  	  	 
-|12:30pm |	Jacob Opdahl| 	Concurrent Compaction in JVM Garbage Collection (Opdahl.pdf)|	[slides](Opdahl-slides.pdf) |
-|1:00pm |	Brandon Stock| 	Fingerprinting for Dynamic Honeypots (Stock.pdf) |	  	
-|1:30pm |	Maggie Casale| 	Assisted Touchscreen Interaction for Users with Motor Impairments (Casale.pdf) |	   
+|12:30pm |	Jacob Opdahl| 	[Concurrent Compaction in JVM Garbage Collection] (Opdahl.pdf)|	[slides](Opdahl-slides.pdf) |
+|1:00pm |	Brandon Stock| [	Fingerprinting for Dynamic Honeypots] (Stock.pdf) |	  	
+|1:30pm |	Maggie Casale| [	Assisted Touchscreen Interaction for Users with Motor Impairments] (Casale.pdf) |	   
 
 # Senior seminar papers and slides, Fall 2010
 
