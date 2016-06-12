@@ -1,6 +1,6 @@
 # Senior seminar papers and slides, Fall 2012
 
-The Fall, 2012, Senior Seminar conference is 11:30-4pm in Sci 2200 on Saturday, 1 Dec, 2012.
+The Fall, 2012, Senior Seminar conference is 11:30-4pm in Sci 1020 on Saturday, 1 Dec, 2012.
 
 ## Papers and slides
 
