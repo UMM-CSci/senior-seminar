@@ -6,7 +6,7 @@ The Fall, 2010, Senior Seminar conference is 1:30-5pm in Sci 2200 on Saturday, 4
 
 | Time | Speaker  | Title       | Slides  |
 | -----|----------|-------------|---------|
-|12:30pm| 	Drake Arvidson| [	Using Participatory Sensing to Monitor and Self-Manage Chronic Illnesses 	(Ardvidson.pdf) | [slides](Ardvidson-slides.pdf) |
+|12:30pm| 	Drake Arvidson| [	Using Participatory Sensing to Monitor and Self-Manage Chronic Illnesses] 	(Ardvidson.pdf) | [slides](Ardvidson-slides.pdf) |
 |1pm| 	Joe Einertson| [	A Comparison of Generics in Major Imperative Programming Languages] 	(Einertson.pdf) | [slides](Einertson-slides.pdf) |
 |1:30pm |	Lucas Ellgren |	[Evolving Game-Playing Agents Through Coevolution ](Ellgren.pdf) | [slides](Ellgren-slides.pdf) |
 |2pm ||	break| 	  	 
