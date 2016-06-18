@@ -11,7 +11,7 @@ The CSci discipline invites you to Spring 2016 Senior Seminar conference on Satu
 |12:30pm| 	Tom Harren| [	Security of Near Field Communication: Does My Phone Need A Tinfoil Hat? ](harren.pdf) | [slides](harren-slides.pdf) | 
 |1:00pm |	|  	1 hour break 	  	  	 
 |2:00pm| 	Josh Chapman| [	Using Dropout to Reduce Overfitting in Neural Networks ]	 (chapman.pdf)|
-|2:30pm |	Ben Simondet| 	[Using Principal Component Analysis to Improve Accessibility] (simondet.pdf) | [slides](simondet-slides.pdf) |	
+|2:30pm |	Ben Simondet| 	[Using Principal Component Analysis to Improve Accessibility] (simondet.pdf) | [slides](http://slides.com/simon998/deck#/) |	
 |3:00pm |	Brennan Gensch |[	Evolving Moving Target Defense Configurations ]	(chapman.pdf)	|	
 |3:30pm |	Resa Brockman |[	Influence Maximization in Online Social Networks ]	(brockman.pdf) | [slides](brockmanslides.pdf) |
  Room Science 3650 
