@@ -2,6 +2,8 @@
 
 The Fall, 2012, Senior Seminar conference is 11:30-4pm in Sci 1020 on Saturday, 1 Dec, 2012.
 
+Many thanks to alumni reviewers who provided feedback for our students: Stephen Adams, Missy Helgeson, Robert Jansen, Elijah Mayfield, Justin Mullin, Casey Robinson, Chad Seibert, and Jacob Thebault-Spieker.
+
 ## Papers and slides
 
 | Time | Speaker  | Title       | Slides  |

@@ -2,6 +2,8 @@
 
 The Fall, 2011, Senior Seminar conference is 1:30-5pm in Sci 1020 on Saturday, 4 Dec, 2010.
 
+Many thanks to alumni reviewers who provided feedback for our students: Kevin Arhelger, Sara Drenner, Justin Mullin, Chris Olson, Chad Seibert, and Jacob Thebault-Spieker.
+
 ## Papers and slides
 
 | Time | Speaker  | Title       | Slides  |

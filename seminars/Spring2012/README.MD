@@ -1,6 +1,8 @@
 # Senior seminar papers and slides, FSpring 2012
 The CSci discipline invites you to Spring 2012 Senior Seminar conference on Saturday, April 28th, starting at 12:30pm in Sci 1020. Refreshments will be served. 
 
+Many thanks to alumni reviewers who provided feedback for our students: Kevin Arhelger, Ellery Crane, Robert Jansen, Matthew Justin, Missy Helgeson, Wayne Manselle, Elijah Mayfield, Justin Mullin, and Chad Seibert.
+
 ## Papers and slides
 
 | Time | Speaker  | Title       | Slides  |
