@@ -17,3 +17,5 @@ Papers and presentations that were evaluated as deserving a distinction are mark
 | 3:00pm | Jeffrey Lindblom | 🌟 [Modern Considerations of Garbage Collection in the Java HotSpot Virtual Machine](Lindblom.pdf) | 🌟 [slides](Lindblomslides.pdf) |
 | 3:30pm | Will Martin | 🌟 [Implementation of Kd-Trees on the GPU to Achieve Real Time Graphics Processing](Martin.pdf) | [slides](Martinslides.pdf) |
 | 4:00pm | Asher Vitek  | [Service Oriented Cloud Computing Architectures](Vitek.pdf) | [slides](Vitekslides.pdf) |
+
+*To download good quality pdfs, click on the pdf file to open a preview, and then click "raw" at the upper right corner* 
