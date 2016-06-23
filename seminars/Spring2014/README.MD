@@ -2,6 +2,8 @@
 
 The CSci discipline invites you to Spring2014 Senior Seminar conference on Saturday, 7 December 2013. The time and room is yet to be finalized, but it will probably be something like 1-4:30pm, and probably in Sci 1020. Refreshments will be served. 
 
+Papers and presentations that were evaluated as deserving a distinction are marked with 🌟 (this will be done after the conference). 
+
 ## Papers and slides
 
 | Time | Speaker  | Title       | Slides  |
@@ -15,14 +17,14 @@ The CSci discipline invites you to Spring2014 Senior Seminar conference on Satur
 | 4:30pm | Eugene Butler | [Automated sentiment analysis](butler.pdf) | [slides](butlerslides.pdf) |
 |5:00pm| 	Gabe Grimley| 	[Implanted User Devices] 	(Grimsley.pdf) | [slides](Grimsleyslides.pdf) |
 |5:30pm |	Alexander Gunness| 	[Using Video Games to Teach Introductory Computer Science Classes] 	(Gunnes.pdf) | [slides](Gunnessslides.pdf) |
-|6:00pm |	Todd Malone| 	[Interoperability in Programming Languages] 	(Malone.pdf) | [slides](Maloneslides.pdf)|
+|6:00pm |	Todd Malone| 	[Interoperability in Programming Languages] 	(Malone.pdf)🌟 | [slides](Maloneslides.pdf)|
 |6:40pm| 	Matthew G. Perrault| 	[Improving the Efficiency of Cloud Computing] (Perraul.pdf) | [slides](Perrsultslides.pdf) |
-|7:10pm| 	Adrian T. Schiller| [	Applying Evolutionary Computation to Robotics] (Schiller.pdf)| 
+|7:10pm| 	Adrian T. Schiller| [	Applying Evolutionary Computation to Robotics] (Schiller.pdf)🌟| 
 
 | Time | Speaker  | Title       | Slides  |
 | -----|----------|-------------|---------|
-|5:00pm| 	Eric C. Collom |	[Applying Genetic Programming to Bytecode and Assembly] 		(Collom.pdf) | [slides](Collom-slides.pdf)|
-|5:30pm| 	M. Kirbie Dramdahl| 	[Morphological Operations Applied to Digital Art Restoration] (Dramdahl.pdf) | [slides](Dramdahl-slides.pdf)|
+|5:00pm| 	Eric C. Collom |	[Applying Genetic Programming to Bytecode and Assembly] 		(Collom.pdf)🌟 | [slides](Collom-slides.pdf)🌟|
+|5:30pm| 	M. Kirbie Dramdahl| 	[Morphological Operations Applied to Digital Art Restoration] (Dramdahl.pdf)🌟 | [slides](Dramdahl-slides.pdf)🌟|
 |6:00pm ||	10 minute break 	  	 
 |6:10pm| 	Braden Luthi| 	[Improving Security of Mobile Devices] 	(Luthi.pdf) | [slides](Luthi-slides.pdf)|
 |6:40pm| 	Geoffrey G. Schumacher| [	A Quantum Triangle Finding Algorithm and Quipper 	]	(Schumacher.pdf) | [slides](Schumacher-slides.pdf)|
