@@ -26,5 +26,5 @@ Papers and presentations that were evaluated as deserving a distinction are mark
 |5:00pm| 	Eric C. Collom |	[Applying Genetic Programming to Bytecode and Assembly] 		(Collom.pdf) | [slides](Collomslides.pdf)|
 |5:30pm| 	M. Kirbie Dramdahl| 	[Morphological Operations Applied to Digital Art Restoration] (Dramdahl.pdf) | [slides](Dramdahlslides.pdf)|
 |6:00pm ||	10 minute break 	  	 
-|6:10pm| 	Braden Luthi| 	[Improving Security of Mobile Devices] 	(Luthi.pdf) | [slides](Luthi-slides.pdf)|
+|6:10pm| 	Braden Luthi| 	[Improving Security of Mobile Devices] 	(Luthi.pdf) | [slides](Luthislides.pdf)|
 |6:40pm| 	Geoffrey G. Schumacher| [	A Quantum Triangle Finding Algorithm and Quipper 	]	(Schumacher.pdf) | [slides](Schumacherslides.pdf)|
