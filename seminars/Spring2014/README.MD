@@ -1,6 +1,6 @@
-# Senior seminar papers and slides, Spring 201
+# Senior seminar papers and slides, Spring 2014
 
-The CSci discipline invites you to Spring2014 Senior Seminar conference on Saturday, 7 December 2013. The time and room is yet to be finalized, but it will probably be something like 1-4:30pm, and probably in Sci 1020. Refreshments will be served. 
+The CSci discipline invites you to Spring2014 Senior Seminar conference on Monday, April 28 and Tuesday, April 29 2014. Refreshments will be served. 
 
 ## Papers and slides
 
@@ -21,8 +21,8 @@ The CSci discipline invites you to Spring2014 Senior Seminar conference on Satur
 
 | Time | Speaker  | Title       | Slides  |
 | -----|----------|-------------|---------|
-|5:00pm| 	Eric C. Collom |	[Applying Genetic Programming to Bytecode and Assembly] 		(Collom.pdf) | [slides](Collom-slides.pdf)|
-|5:30pm| 	M. Kirbie Dramdahl| 	[Morphological Operations Applied to Digital Art Restoration] (Dramdahl.pdf) | [slides](Dramdahl-slides.pdf)|
+|5:00pm| 	Eric C. Collom |	[Applying Genetic Programming to Bytecode and Assembly] 		(Collom.pdf) | [slides](Collomslides.pdf)|
+|5:30pm| 	M. Kirbie Dramdahl| 	[Morphological Operations Applied to Digital Art Restoration] (Dramdahl.pdf) | [slides](Dramdahlslides.pdf)|
 |6:00pm ||	10 minute break 	  	 
 |6:10pm| 	Braden Luthi| 	[Improving Security of Mobile Devices] 	(Luthi.pdf) | [slides](Luthi-slides.pdf)|
-|6:40pm| 	Geoffrey G. Schumacher| [	A Quantum Triangle Finding Algorithm and Quipper 	]	(Schumacher.pdf) | [slides](Schumacher-slides.pdf)|
+|6:40pm| 	Geoffrey G. Schumacher| [	A Quantum Triangle Finding Algorithm and Quipper 	]	(Schumacher.pdf) | [slides](Schumacherslides.pdf)|
