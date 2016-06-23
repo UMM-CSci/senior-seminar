@@ -3,18 +3,19 @@ The CSci discipline invites you to Spring 2012 Senior Seminar conference on Satu
 
 Many thanks to alumni reviewers who provided feedback for our students: Kevin Arhelger, Ellery Crane, Robert Jansen, Matthew Justin, Missy Helgeson, Wayne Manselle, Elijah Mayfield, Justin Mullin, and Chad Seibert.
 
+ Papers and presentations that were evaluated as deserving a distinction are marked with 🌟
 ## Papers and slides
 
 | Time | Speaker  | Title       | Slides  |
 | -----|----------|-------------|---------|
 |12:30pm| 	Drake Arvidson| [	Using Participatory Sensing to Monitor and Self-Manage Chronic Illnesses] 	(Ardvidson.pdf) | [slides](Ardvidsonslides.pdf) |
 |1pm| 	Joe Einertson| [	A Comparison of Generics in Major Imperative Programming Languages] 	(Einertson.pdf) | [slides](Einertsonslides.pdf) |
-|1:30pm |	Lucas Ellgren |	[Evolving Game-Playing Agents Through Coevolution ](Ellgren.pdf) | [slides](Ellgrenslides.pdf) |
+|1:30pm |	Lucas Ellgren |	[Evolving Game-Playing Agents Through Coevolution ](Ellgren.pdf) 🌟| [slides](Ellgrenslides.pdf) |
 |2pm ||	break| 	  	 
 |2:15pm| 	Jay Lapham| [	Data Center Energy Efficiency Improvements through Machine Learning]	(Lapham.pdf)| 	 
 |2:45pm |	Kaitlyn Mulcrone |	[Detecting Emotion in Text ]	(Mulcrone.pdf) | [slides](Mulcroneslides.pdf) |
-|3:15pm |	Casey Summers Robinson| [	Artificial Intelligence and Novelty] 	(Robison.pdf) | [slides](Robisonslides.pdf) |
+|3:15pm |	Casey Summers Robinson| [	Artificial Intelligence and Novelty] 	(Robison.pdf) | [slides](Robisonslides.pdf) 🌟|
 |3:45pm| 	break |	  	 
 |4pm |	Gregory Schumacher |	[Elliptical Curve Problem Solving with Hardware ]		(Schumacher.pdf)| 
 |4:30pm |	Zachary Smith |	[Overview of Operational Transformation] 		(Smith.pdf) |
-|5pm |	Cody Sutherland| 	[Usability and Security of Text-based CAPTCHAs]	(Sutherland.pdf)|
+|5pm |	Cody Sutherland| 	[Usability and Security of Text-based CAPTCHAs]	(Sutherland.pdf)🌟|
