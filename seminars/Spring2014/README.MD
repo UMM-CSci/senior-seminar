@@ -2,6 +2,8 @@
 
 The CSci discipline invites you to Spring2014 Senior Seminar conference on Monday, April 28 and Tuesday, April 29 2014. Refreshments will be served. 
 
+Papers and presentations that were evaluated as deserving a distinction are marked with 🌟 (this will be done after the conference). 
+
 ## Papers and slides
 
 | Time | Speaker  | Title       | Slides  |
@@ -15,9 +17,9 @@ The CSci discipline invites you to Spring2014 Senior Seminar conference on Monda
 | 4:30pm | Eugene Butler | [Automated sentiment analysis](butler.pdf) | [slides](butlerslides.pdf) |
 |5:00pm| 	Gabe Grimley| 	[Implanted User Devices] 	(Grimsley.pdf) | [slides](Grimsleyslides.pdf) |
 |5:30pm |	Alexander Gunness| 	[Using Video Games to Teach Introductory Computer Science Classes] 	(Gunnes.pdf) | [slides](Gunnessslides.pdf) |
-|6:00pm |	Todd Malone| 	[Interoperability in Programming Languages] 	(Malone.pdf) | [slides](Maloneslides.pdf)|
+|6:00pm |	Todd Malone| 	[Interoperability in Programming Languages] 	(Malone.pdf)🌟 | [slides](Maloneslides.pdf)|
 |6:40pm| 	Matthew G. Perrault| 	[Improving the Efficiency of Cloud Computing] (Perraul.pdf) | [slides](Perrsultslides.pdf) |
-|7:10pm| 	Adrian T. Schiller| [	Applying Evolutionary Computation to Robotics] (Schiller.pdf)| 
+|7:10pm| 	Adrian T. Schiller| [	Applying Evolutionary Computation to Robotics] (Schiller.pdf)🌟| 
 
 | Time | Speaker  | Title       | Slides  |
 | -----|----------|-------------|---------|
