@@ -29,7 +29,7 @@ If you are referencing an online article, use the following in your .bib file:
   howpublished = {\url{http://...}}
 } 
 
-Here is more information (caution: you must use ACM bibliography style so suggestions to change the style aren't applicable).
+[Here](http://www.tex.ac.uk/FAQ-citeURL.html) is more information (caution: you must use ACM bibliography style so suggestions to change the style aren't applicable).
 
 ###How do I balance the last two columns if \balancecolumns has no effect?
 
@@ -39,13 +39,13 @@ Here is more information (caution: you must use ACM bibliography style so sugges
 > \balance
 \end{document} 
 
-Here is more information.
+[Here](balance.pdf) is more information.
 
 ###How do I check if my paper uses A4 or Letter Paper?
 Using the templates from the senior seminar github fixes this issue Open it in Adobe Reader, go to File menu, and select Properties. In the tab Description it should show Paper Size as 8.5in by 11in (letter paper size). Otherwise it's A4. Note that the difference may not be visible on screen, but might show up when you are trying to print and A4 will mess up the final proceedings if left unchanged.
 
 ###How do change my page size from A4 to Letter Paper?
-Using the templates from the senior seminar github fixes this issue Some LaTeX formatting programs allow you to set the paper size. For most of them, however, it's difficult to find and the setting may be overwritten later by A4 again. For the seminar proceedings use the sig-alternate.cls linked to the resources page. It has a line
+Using the templates from the senior seminar github fixes this issue Some LaTeX formatting programs allow you to set the paper size. For most of them, however, it's difficult to find and the setting may be overwritten later by A4 again. For the seminar proceedings use the sig-alternate.cls linked to the [resources page](seniorsemresources.md). It has a line
 
 > \usepackage[letterpaper]{geometry}
 
