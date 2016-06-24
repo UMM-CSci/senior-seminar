@@ -8,13 +8,6 @@ Papers and presentations that were evaluated as deserving a distinction are mark
 
 | Time | Speaker  | Title       | Slides  |
 | -----|----------|-------------|---------|
-| 1:30pm | Stephen Adams | [An overview of brain-computer interfaces](adams.pdf) | [slides](adamsslides.pdf) |
-| 2:00pm | Justin Mullin | [Designing professional instruments for computer music performance](mullin.pdf) | [slides](mullinslides.pdf) |
-| 2:30pm | Martin Powers | [Methods to improve the accuracy of recommender systems](powers.pdf) | [slides](powersslides.pdf) |
-| 3:00pm | | 30 minute break 
-| 3:30pm | Brian Goslinga | [What macros are and how to write correct ones](goslinga.pdf) | [slides](goslingaslides.pdf) |
-| 4:00pm | Jacob Thebault-Spieker | [Are distributed peer-to-peer overlay networks worth the effort?](thebault-spieker.pdf) | [slides](thebault-spiekerslides.pdf) |
-| 4:30pm | Eugene Butler | [Automated sentiment analysis](butler.pdf) | [slides](butlerslides.pdf) |
 |5:00pm| 	Gabe Grimley| 	[Implanted User Devices] 	(Grimsley.pdf) | [slides](Grimsleyslides.pdf) |
 |5:30pm |	Alexander Gunness| 	[Using Video Games to Teach Introductory Computer Science Classes] 	(Gunnes.pdf) | [slides](Gunnessslides.pdf) |
 |6:00pm |	Todd Malone| 	[Interoperability in Programming Languages] 	(Malone.pdf)🌟 | [slides](Maloneslides.pdf)|
