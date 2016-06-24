@@ -1,12 +1,12 @@
 Senior Seminar Resources
 
-    Finding research papers
-    Sample annotated bibliography
-    Writing
-    LaTeX and formatting
-    ACM Computing Categories and General Terms
-    Creative Commons licensing
-    Sample beamer slides 
+    - [Finding research papers](#Finding-research-papers)
+   - [Sample annotated bibliography](#Sample-annotated-bibliography)
+   - [Writing](#Writing)
+   - [LaTeX and formatting](#LaTeX and formatting)
+   - [ACM Computing Categories and General Terms](#ACM-Computing-Categories-and-General-Terms)
+   - [Creative Commons licensing](#Creative-Commons-licensing)
+   - [Sample beamer slides](#Sample-beamer-slides)
 
 ###Finding research papers
 
@@ -65,14 +65,14 @@ the ability to pull down changes we make to the master project, and the ability 
 make that you think would be of value to other students.
 
     LaTeX resources:
-        [Wiki Book on LaTeX ](http://www.xm1math.net/texmaker/)
-        ["not so short" introduction to LaTeX](lshort.pdf)
-        [Texmaker - a multi-platform LaTeX editor](http://www.xm1math.net/texmaker/)
-        [TeXShop - A Mac OS LaTeX editor](http://pages.uoregon.edu/koch/texshop/)
-        [A really cool tool: draw a symbol and get a list of suggestions for its LaTeX encoding](http://pages.uoregon.edu/koch/texshop/)
-       [ A cool wikibook for figures in latex i ran across a few years ago](https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions)
-        Mangling_image_from_pdfs.pdf: [Mangling_image_from_pdfs.pdf](mangling-image-from-pdfs.pdf) 
-    [LaTeXFormattingFAQ](LatexFomatingFAQ.md)
+[Wiki Book on LaTeX ](http://www.xm1math.net/texmaker/)
+["not so short" introduction to LaTeX](lshort.pdf)
+[Texmaker - a multi-platform LaTeX editor](http://www.xm1math.net/texmaker/)
+[TeXShop - A Mac OS LaTeX editor](http://pages.uoregon.edu/koch/texshop/)
+[A really cool tool: draw a symbol and get a list of suggestions for its LaTeX encoding](http://pages.uoregon.edu/koch/texshop/)
+[ A cool wikibook for figures in latex i ran across a fewyearsago](https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions)
+Mangling_image_from_pdfs.pdf: [Mangling_image_from_pdfs.pdf](mangling-image-from-pdfs.pdf) 
+[LaTeXFormattingFAQ](LatexFomatingFAQ.md)
 
 ###ACM Computing Categories and General Terms
 
@@ -86,6 +86,6 @@ make that you think would be of value to other students.
 
 ###Sample beamer slides
 
-    [MarthasPresentation.pdf](marthaspresentation.pdf): A presentation generated in LaTeX package beamer 
+[MarthasPresentation.pdf](marthaspresentation.pdf): A presentation generated in LaTeX package beamer 
 
-    [MarthasPresentation.tex](marthaspresentation.pdf): The .tex source for Martha's presentation 
+[MarthasPresentation.tex](marthaspresentation.pdf): The .tex source for Martha's presentation 
