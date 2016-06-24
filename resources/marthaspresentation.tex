@@ -1,0 +1,308 @@
+\documentclass{beamer}
+\setbeamertemplate{navigation symbols}{}
+\usepackage[normalem]{ulem}
+
+\mode<presentation>
+{
+  \usetheme{Berkeley}
+  \setbeamercovered{invisible}
+}
+
+\begin{document}
+\title{Methods of Reducing Verbose Queries}  
+\author{Martha Enderby}
+\institute[University of Minnesota, Morris] % (optional, but mostly needed)
+{
+ % \inst{1}%
+  University of Minnesota, Morris
+}
+
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+\section{Introduction and Background}
+\begin{frame}[fragile]\frametitle{What Are Verbose Queries?}
+``Explain some methods of reducing verbose queries into
+keyword-focused queries''
+\begin{itemize} 
+\item Long natural language search queries
+\item ``Wh-'' queries: ``What are some methods of reducing verbose queries?''
+\item ``terms'' are single words (``reduce'') or a small group of connected words (``University of Minnesota'')
+\end{itemize}
+\end{frame}
+
+\begin{frame}[fragile]\frametitle{Why Is Reduction Important?}
+\begin{itemize}
+\item{Many words in verbose queries are not useful} \pause
+\item{Perfect reduction can improve search \linebreak performance by 30\% [2]} \pause
+\item{Around 10\% of search queries are verbose [1]}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[fragile]\frametitle{Reduction Methods}
+\textbf{Weighting} \pause
+
+\scriptsize{Explain} \tiny{some} \normalsize{methods} \tiny{of}
+\large {reducing} \Large{verbose queries} \tiny{into}
+\small{keyword-focused queries} \vspace*{1cm} \pause
+
+\textbf{Elimination} \pause
+
+\sout{Explain some} methods \sout{of} reducing verbose queries
+\sout{into keyword-focused queries}
+\end{frame}
+
+\begin{frame}[fragile]\frametitle{Collections and Training}
+Text REtrieval Conference (TREC): An ongoing series of workshops about
+information retrieval. \pause
+
+TREC documents consist of a title, summary, and document \pause
+
+\begin{itemize} 
+\item{Wt10g} - web archive, 1.7M documents \pause
+\item{Robust2004} - workshop, 500K documents \pause
+\item{Gov2} - web archive, 25.2M documents \pause
+\item{TREC123} - TREC proceedings, 150 documents
+\end{itemize} \vspace*{.5cm}\pause
+
+Training: teaching a program to evolve based on data, in this
+case the search performance a sub-query
+
+All methods discussed here were trained with RankSVM, a pairwise
+learning-to-rank algorithm.
+
+\end{frame}
+
+\section{Dependency Parsing}
+
+\begin{frame}[fragile]\frametitle{Dependency Parsing (2010)}
+\begin{itemize}
+\item{Weighting} \pause
+\item{Developed by Jae-Hyun Park and W. Bruce Croft from the Center for Intelligent Information Retrieval} \pause
+\item{Based on dependencies between words} \pause
+\item Utilize dependency parsing trees 
+\end{itemize}
+\end{frame}
+
+\begin{frame}[fragile]\frametitle{Parse Trees}
+\begin{center}
+\begin{figure}
+\includegraphics[width=80mm]{text.jpg}
+\caption{from [3]}
+\end{figure}
+\end{center}
+dobj = direct object\linebreak
+amod = modifying adjective\linebreak
+prep\_of = the preposition ``of'' \linebreak
+nn = noun
+\end{frame}
+
+
+\begin{frame}[fragile]\frametitle{Ranking Terms}
+Data comes from parse trees, term ranking yields labels.
+
+Ranking equation for a term $t$:
+
+\begin{equation*}
+E(t) = \frac{1}{N_m}\cdot\sum_{c\epsilon C_{m}}\left ( \varphi \left (c, t  \right ) - \varphi \left ( c \right ) \right )
+\end{equation*}
+$m$ = number of terms in a query, excluding $t$ \linebreak$C_m$ = all possible combinations of $m$ terms
+\linebreak$c$ = a combination in $C_m$ \linebreak$N_m$ = number of terms in $C_m$ \linebreak$\varphi(c)$
+= search performance of $c$ \linebreak$\varphi(c,t)$ = search performance of $c$ and $t$ together
+\end{frame}
+
+\section{Query Quality Predictors}
+
+\begin{frame}[fragile]\frametitle{Query Quality Predictors (2009)}
+\begin{itemize}
+\item Elimination \pause
+\item Developed by Giridhar Kumaran and Vitor R. Carvalho from Microsoft \pause
+\item Depend on the collection of documents \pause
+\item Attempts to find the single best subquery \pause
+\item Query quality predictors (QQPs) are measurable heuristic properties of a query \pause
+\item QQPs can be pre-retrieval or post-retrieval \pause
+\item QQPs are also called ``features''
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}[fragile]\frametitle{Some Query Quality Predictors}
+\begin{center}
+\large \textbf{Query Quality Predictors} \vspace*{1cm}
+\begin{tabular}{| p{2.5cm} | p{5cm} |}
+\hline
+\textbf{QQP Name} & \textbf{Description} \\ \hline
+Mutual\linebreak Information & Dependency between terms. High MI indicates closely-related terms.  \\ \hline
+Sub-Query Length & Number of terms in a sub-query. Optimally \linebreak between 3 and 6. \\ \hline
+Inverse Document\linebreak Frequency & Relative rarity of a term within a collection. High
+IDF indicates a term is rare enough to be worth searching for. \\
+\hline
+\end{tabular}
+\end{center}
+\end{frame}
+
+\begin{frame}[fragile]\frametitle{More Query Quality Predictors}
+\begin{center}
+\large \textbf{Query Quality Predictors} \vspace*{.5cm}
+\begin{tabular}{| p{3cm} | p{5cm} |}
+\hline
+\textbf{QQP Name} & \textbf{Description} \\ \hline
+Query Clarity & Post-retrieval divergence between returned documents and the collection as a whole. 
+High QC indicates specificity.  \\ \hline
+Simplified Clarity Score & Less-expensive version of query clarity. \\ \hline
+Similarity \linebreak Collection/Query & Similarity of query to\linebreak collection. High
+SCQ\linebreak indicates high similarity. \\
+\hline
+\end{tabular}
+\end{center}
+\end{frame}
+
+\begin{frame}[fragile]\frametitle{Query Quality Predictor Comparisons}
+\begin{center}
+\textbf{Most Important QQPs by Collection} \vspace*{.5cm}
+\begin{tabular}{| l | p{3cm} | p{3cm} |}
+\hline
+\small{\textbf{Rank}} & \small{\textbf{TREC123}} & \small{\textbf{Robust2004}} \\ \hline
+1 & Clarity & Clarity \\ \hline 
+2 & $IDF_{max}$/$IDF_{min}$ & MI \\ \hline
+3 & Total IDF & SCQ \\
+\hline
+\end{tabular}
+\end{center} \vspace*{.5cm}
+\begin{itemize}
+\item Query Clarity and Simplified Clarity Score were the most useful QQPs
+\item Other QQPs varied in usefulness
+\end{itemize}
+\end{frame}
+
+\section{Subset Distribution}
+
+\begin{frame}[fragile]\frametitle{Subset Distribution (2010)}
+\begin{itemize}
+\item Elimination \pause
+\item Developed by Xiaobing Xue, Samuel Huston and W. Bruce Croft from the Center for
+Intelligent Information Retrieval \pause
+\item Average performance of all sub-queries between 3-6 terms \pause
+\item Also uses heuristic features \pause
+\item Uses retrieval models, which predict what a user will find relevant
+\end{itemize}
+\end{frame}
+
+\begin{frame}[fragile]\frametitle{Features}
+\textbf{Independency Features}: look at a single word. \pause
+
+Example: single-word frequency \vspace*{.5cm} \pause
+
+\textbf{Local Dependency Features}: look at the relationships between
+query words \pause
+
+Example: An arc in a dependency parsing tree \vspace*{.5cm} \pause
+
+\textbf{Global Dependency Features}: look at all the words in a sub-query \pause
+
+Example: Query length
+\end{frame}
+
+\begin{frame}[fragile]\frametitle{Retrieval Models}
+\textbf{Query Likelihood Model (QL)}: The probability that a document contains
+a given query. \vspace*{.5cm}
+
+\textbf{Sequential Dependency Model (DM)}: The probability that two adjacent
+terms in a query are related. \vspace*{1cm}
+
+This method was trained using these models on both the original verbose query and
+on generated sub-queries. ``Sub-'' indicates that the model was used on sub-queries.
+
+Models used: QL, DM, SubQL, SubDM, QL+SubQL, DM+SubQL
+\end{frame}
+
+\begin{frame}[fragile]\frametitle{CRF-perf}
+A conditional random field (CRF) labels and segments data. \pause
+
+Used to generate $P(\textbf{y} | \textbf{x})$ where \textbf{x} is a sequence of words
+and \textbf{y} a sequence of labels. Here, $y$ can be 0 or 1.\pause
+
+CRF-perf is a type of CRF intended to optimize performance. It can be used without
+knowledge of the ``gold standard'' sub-query.
+\end{frame}
+
+\begin{frame}[fragile]\frametitle{CRF-perf Equation}
+\begin{equation*}
+P_M(y|x) = \frac{\exp(\sum_{k=1}^{K}\lambda_kf_k(\mathbf{x},
+\mathbf{y}))m(Q_{s},M)}{Z_m(\mathbf{x})}
+\end{equation*}
+
+\begin{equation*}
+Z_M(x) = \sum_{y}\exp(\sum_{k=1}^{K}\lambda_kf_k(\mathbf{x},\mathbf{y}))m(Q_{s},M)
+\end{equation*}
+
+$Q_s$ = a sub-query
+\linebreak \textbf{x} = set of words in $Q_s$
+\linebreak \textbf{y} = set of labels for \textbf{x}
+\linebreak$M$ = a retrieval method such as subQL
+\linebreak$m(Q_s, M)$ = the search performance of $Q_s$ using $M$
+\linebreak$K$ = the number of features $Q_s$ has
+\linebreak$f_k$ = a specific feature 
+\linebreak$\lambda_k$ = the weight of $f_k$
+\end{frame}
+
+\begin{frame}[fragile]\frametitle{Retrieval Method Comparisons}
+\begin{center}
+\textbf{Most Useful Retrieval Methods by Collection}
+\begin{tabular}{| l | p{2cm} | p{2cm} | p{2cm} |}
+\hline
+\small{\textbf{Rank}} & \small{\textbf{Robust2004}} & \small{\textbf{Wt10g}} & \small{\textbf{Gov2}} \\ \hline
+1 & DM+SubQL & DM+SubQL & DM+SubQL \\ \hline
+2 & SubDM & DM & SubDM \\ \hline
+3 & DM & SubDM & DM \\
+\hline
+\end{tabular}
+\end{center}
+\begin{itemize}
+\item Combining DM on the original query with QL on the subquery works best
+\item The Sequential Dependency Model is extremely useful for improving query quality
+\end{itemize}
+\end{frame}
+
+\section{Conclusions}
+
+\begin{frame}[fragile]\frametitle{Results Summary}
+\begin{center}
+\textbf{Improvement Over Unreduced Verbose Queries}
+\begin{tabular}{| p{2cm} | c | c | c | c |}
+\hline
+Method & \small{\textbf{Robust2004}} & \small{\textbf{Wt10g}} & \small{\textbf{Gov2}} & \small{\textbf{TREC123}} \\ \hline
+Dependency Parsing & 8.9\% & 9.3\% &  &  \\ \hline
+Query Quality Predictors & 10.0\% &  &  & 6.8\% \\ \hline
+Subset \linebreak Distribution & 11.7\% & 19.1\% & 13.6\% &  \\
+\hline
+\end{tabular}
+\end{center}
+\end{frame}
+
+\begin{frame}[fragile]\frametitle{Conclusions}
+\begin{itemize}
+\item Subset Distribution is the strongest of the three
+\item None of these methods yield perfect reductions
+\end{itemize}
+\end{frame}
+
+\begin{frame}[fragile]\frametitle{Acknowledgments}
+Thank you to Elena Machkasova who was my advisor for this project, and to Elijah Mayfield for his proofreading feedback.
+\end{frame}
+
+
+\begin{frame}[fragile]\frametitle{References}
+\textbf{References} \vspace*{1cm}
+\begin{itemize}
+\item [1] Bendersky, Michael and Croft, W. Bruce: Discovering Key Concepts in Verbose Queries, 2008
+\item [2] Kumaran, Giridhar and Vitor R. Carvalho: Reducing Long Queries Using Query Quality Predictors, 2009.
+\item [3] Park, Jae-Hyun and Croft, W. Bruce: Query Term Ranking based on Dependency Parsing of Verbose Queries, 2010.
+\item [4] Xue, Xiaobing; Huston, Samuel; and Croft, W. Bruce: Improving Verbose Queries Using Subset Distribution, 2010.
+\end{itemize}
+\end{frame}
+
+
+\end{document}
