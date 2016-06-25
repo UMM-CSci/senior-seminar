@@ -4,17 +4,17 @@ We have consistently found that often students don't see the "big picture" of th
 
 Academic papers tend to contribute at least one new thing to further work in an area, and the authors usually describe 
 their contributions by situating their work compared to other (previous) work in the area. 
-####Key points of your paper show your understanding of contributions of your sources.
+#####Key points of your paper show your understanding of contributions of your sources.
 
 They may be written as a bullet list or 2-4 paragraphs. You should answer the following questions:
 
--What main problem(s) or question(s) does the research address?
+- What main problem(s) or question(s) does the research address?
     Be specific about the important context or assumptions. For example, are the approaches applicable to centralized networks, or peer-to-peer networks? Can you effectively train the systems on smaller data sets, or do you need hundreds of thousands of classified training instances?
     Clearly position it within the areas of the discipline. For example, if one of your papers is in machine learning, are their algorithms unsupervised or guided? Are their parallel algorithms intended to be run on a large distributed cluster or on tightly coupled graphics processing units (GPUs)? 
--What are the key contributions of each of your main sources? Describe what each approach assumes as initially given and what it produces or provides. Essentially what are the paper's "inputs" and what are its subsequent "outputs"?
--How are the main sources related to each other? Does one approach extend another? Is it possible to compare different approaches, or are their assumptions different enough that they are essentially apples and oranges?
--What is the state of the research that you are describing. Has it been implemented? Tested? If yes, do they provide appropriate and detailed result data? Can you summarize and share those results?
--What background material will you need to present in order for your audience to understand the research? What do you assume your audience already knows? 
+- What are the key contributions of each of your main sources? Describe what each approach assumes as initially given and what it produces or provides. Essentially what are the paper's "inputs" and what are its subsequent "outputs"?
+- How are the main sources related to each other? Does one approach extend another? Is it possible to compare different approaches, or are their assumptions different enough that they are essentially apples and oranges?
+- What is the state of the research that you are describing. Has it been implemented? Tested? If yes, do they provide appropriate and detailed result data? Can you summarize and share those results?
+- What background material will you need to present in order for your audience to understand the research? What do you assume your audience already knows? 
 
 Some items may not apply directly to papers in all areas. If that's the case with your sources, find analogous questions that are applicable. Your advisor and the instructor will be happy to help you.
 
