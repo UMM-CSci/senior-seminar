@@ -2,5 +2,4 @@
 
 See each semester's papers and talks [here](seniorsemresources.md) for gold star papers and presentation slide decks.
 
-The star icon came from [IconArchie](http://www.iconarchive.com/show/snowish-icons-by-saki/Star-icon.html)and is kindly released
-under a GPL license. 
+
