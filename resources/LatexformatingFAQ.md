@@ -1,13 +1,13 @@
 You are here: UMWiki>UmmCSciSeniorSeminar Web>SeniorSemResources>LaTeXFormattingFAQ (03 Dec 2015, NicMcPhee)
 
-    A $ in my verbatim breaks TexMaker
-    How do I format a url in a paper?
-    How do I add a url to a bibliography item?
-    How do I balance the last two columns if \balancecolumns has no effect?
-    How do I check if my paper uses A4 or Letter Paper?
-    How do change my page size from A4 to Letter Paper?
-    How do I preserve capitalization in titles in my bibliography?
-    How do I get rid of the navigation icons in Beamer? 
+- [A $ in my verbatim breaks TexMaker](#a-$-in-my-verbatim-breaks-texmaker)
+- [How do I format a url in a paper?](#how-do-i-format-a-url-in-a-paper?)
+- [How do I add a url to a bibliography item?](#how-do-i-add-a-url-to-a-bibliography-item?)
+- [How do I balance the last two columns if \balancecolumns has no effect?](#how-do-i-balance-the-last-two-columns-if -\balancecolumns-has-no-effect?)
+- [How do I check if my paper uses A4 or Letter Paper?](#how-do-i-check-if-my-paper-uses-a4-or-letter-paper?)
+- [How do change my page size from A4 to Letter Paper?](#how-do-change-my-page-size-from-a4-to-letter-paper?)
+- [How do I preserve capitalization in titles in my bibliography?](#How-do-I-preserve-capitalization-in-titles-in-my -bibliography?)
+- [How do I get rid of the navigation icons in Beamer?](#how-do-i-get-rid-of-the-navigation-icons-in-beamer?)
 
 ####A $ in my verbatim breaks TexMaker
 
