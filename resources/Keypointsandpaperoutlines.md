@@ -28,7 +28,7 @@ The outline of your paper describes the structure of your paper. This should inc
 That tells both you and us nothing useful, and does nothing to expose or address challenges and questions. 
 It's easy to not give this outlining the time it's due, but time spent here will definitely pay off later.
 
-Don't forget to include your ### paper title and the ### bibliography in the outline.
+Don't forget to include your paper title and the bibliography in the outline.
 
 -- Main.elenam - 12 Aug 2011 
 [samplekeypointsandoutline.pdf](samplekeypointsandoutline.pdf): A sample key points submission 
