@@ -1,6 +1,6 @@
 In class today Brian Goslinga asked for some examples of good technical writing. There are lots of great papers out there, but they are typically surrounded by vast oceans of poop (much like almost every other cultural artifact). I've pulled a few examples off the top of my head, but this is by no means meant to be complete or exclusive, and I'd love it if people would add examples to this list. I've also focused on papers; we could expand this to include books and other forms of writing, but it seems that traditional papers would be the most useful as examples for Senior Seminar. -- NicMcPhee - 09 Sep 2010
 
-    Genetic Programming for Finite Algebras
+- [Genetic Programming for Finite Algebras](#genetic-programming-for-finite-algebras)
     GP-Gammon: Using Genetic Programming to Evolve Backgammon Players
     Go To Statement Considered Harmful
     Abstraction mechanisms in CLU 
