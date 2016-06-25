@@ -1,12 +1,12 @@
 Senior Seminar Resources
 
-- [Finding research papers](#Finding-research-papers)
-- [Sample annotated bibliography](#Sample-annotated-bibliography)
-- [Writing](#Writing)
-- [LaTeX and formatting](#LaTeX and formatting)
-- [ACM Computing Categories and General Terms](#ACM-Computing-Categories-and-General-Terms)
-- [Creative Commons licensing](#Creative-Commons-licensing)
-- [Sample beamer slides](#Sample-beamer-slides)
+- [Finding research papers](#finding-research-papers)
+- [Sample annotated bibliography](#sample-annotated-bibliography)
+- [Writing](#writing)
+- [LaTeX and formatting](#latex-and-formatting)
+- [ACM Computing Categories and General Terms](#acm-computing-categories-and-general-terms)
+- [Creative Commons licensing](#creative-commons-licensing)
+- [Sample beamer slides](#sample-beamer-slides)
 
 ###Finding research papers
 
