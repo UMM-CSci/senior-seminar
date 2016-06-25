@@ -50,7 +50,7 @@ or you can use things like web-based bookmarking tools.
 [This example] (https://wiki.umn.edu/UmmCSciSeniorSeminar/BillyVistosAnnotatedBibliography) [show](http://del.icio.us/bvisto) how a student used a bookmarking site to store and annotate his bibliography entries, 
 and then used an RSS feed to auto-generate his annotated bibliography page here on the wiki.
 
-Writing
+###Writing
 
 ["How to get your article rejected" by Martin Hagger](howtogetyourarticlerejected.pdf) is a nice article humorously outlining a number of common
 (but often fatal) problems in writing up research papers.
