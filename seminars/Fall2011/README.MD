@@ -1,6 +1,6 @@
-# Senior seminar papers and slides, Fall 2011
+# Senior seminar papers and slides, Spring 2016
 
-The Fall, 2011, Senior Seminar conference is 1:30-5pm in Sci 1020 on Saturday, 4 Dec, 2010.
+The Spring, 2016, Senior Seminar conference is 1:30-5pm in  Sci 3610 & 3650.  on Saturday, 30 apr, 2016.
 
 Many thanks to alumni reviewers who provided feedback for our students: Kevin Arhelger, Sara Drenner, Justin Mullin, Chris Olson, Chad Seibert, and Jacob Thebault-Spieker.
 
