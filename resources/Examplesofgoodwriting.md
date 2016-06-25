@@ -3,7 +3,7 @@ In class today Brian Goslinga asked for some examples of good technical writing.
 - [Genetic Programming for Finite Algebras](#genetic-programming-for-finite-algebras)
 - [GP-Gammon: Using Genetic Programming to Evolve Backgammon Players](#gp-gammon:-using-genetic-programming-to-evolve-backgammon-players)
 - [Go To Statement Considered Harmful](#go-to-statement-considered-harmful)
-- [Abstraction mechanisms in CLU](abstraction-mechanisms-in-clu)
+- [Abstraction mechanisms in CLU](#abstraction-mechanisms-in-clu)
 
 ###Genetic Programming for Finite Algebras
 
