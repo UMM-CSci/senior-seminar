@@ -1,6 +1,6 @@
 We have consistently found that often students don't see the "big picture" of their paper and don't have a good understanding of the sources' contributions up until preparing their presentation at the end of the semester. This intermediate deadline is designed to help students get a better understanding of their work earlier in the semester.
 
-###Key points of your paper
+####Key points of your paper
 
 Academic papers tend to contribute at least one new thing to further work in an area, and the authors usually describe 
 their contributions by situating their work compared to other (previous) work in the area. 
