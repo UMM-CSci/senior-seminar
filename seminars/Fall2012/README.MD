@@ -14,7 +14,7 @@ Papers and presentations that were evaluated as deserving a distinction are mark
 | 12:00pm | Gerard Van Wijk | [Designing professional instruments for computer music performance](Van Wijk.pdf) |
 | 12:30pm | Reed Simpson  | [Methods to improve the accuracy of recommender systems](Simpson.pdf) | 
 | 1:00pm-1:15pm | | 15 minute break 
-| 1:15pm | Ashley Koch  | [Assistive technologies for children with autism spectrum disorders](Koch.pdf) 🌟 | [slides](Kochslides.pdf)🌟 |
+| 1:15pm | Ashley Koch  | [Assistive technologies for children with autism spectrum disorders](Koch.pdf)  | [slides](Kochslides.pdf)🌟 |
 | 1:45pm |  Seth Sorensen  | [ 	Accuracy of similarity measures in recommender systems](Sorensen.pdf) | [slides](Sorensenslides.pdf) |
 | 2:15pm | Vincent Borchardt | [Recovery-oriented computing in distributed systems](Borchardt.pdf) | [slides](Borchardtslides.pdf) |
 | 2:45pm-3:00om | | 15 minute break
