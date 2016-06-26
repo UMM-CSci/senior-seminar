@@ -14,5 +14,4 @@ Papers and slides:
 - [Spring 2011](Spring2011) 
 - [Fall 2010](Fall2010) 
 - [Spring 2010](Spring2010) 
-- [Fall 2009](Fall2009) 
--  [Fall 2006](Fall2006) 
+ 
