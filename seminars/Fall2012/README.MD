@@ -21,3 +21,5 @@ Papers and presentations that were evaluated as deserving a distinction are mark
 | 3:00pm | Tim Snyder  | [Overview and comparison of genome compression algorithms](Snyder.pdf) | [slides](Snyderslides.pdf)🌟 |
 | 3:30pm | Scott Steffes | [Modern approaches to gesture recognition](Steffes.pdf) | 
 | 4:00pm | Nicholas Cornhill  | [Communication structures of botnets with case studies](Cornhill.pdf) | [slides](Cornhillslides.pdf) |
+
+*To download good quality pdfs, click on the pdf file to open a preview, and then click "raw" at the upper right corner*

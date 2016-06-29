@@ -1,8 +1,14 @@
-# Senior seminar papers and slides, Fall 2010
+# Senior seminar papers and slides, Fall 2015
 
-The Fall, 2010, Senior Seminar conference is 1:30-5pm in Sci 2200 on Saturday, 4 Dec, 2010.
+The CSci discipline invites you to Fall 2015 Senior Seminar conference on Saturday, December 5, 2015. The talks will be held from 10:00am–2:00pm in Sci 1020 & 1030. Refreshments will be served.
+
+Many thanks to the alumni reviewers who provided feedback for this semesters' students: Kevin Arhelger, Ian Buck, Kirbie Dramdahl, Sara Drenner, Brian Goslinga, Melissa Helgeson, Ashley Koch, Sara Lahr, Andrew Latterner, Jeff Lindblom, Max Magnuson, Will Martin, Justin Mullin, and Scott Steffes.
+
+Papers and presentations that were evaluated as deserving a distinction are marked with 🌟. 
 
 ## Papers and slides
+
+### Science 1020
 
 | Time | Speaker  | Title       | Slides  |
 | -----|----------|-------------|---------|
@@ -15,11 +21,8 @@ The Fall, 2010, Senior Seminar conference is 1:30-5pm in Sci 2200 on Saturday, 4
 |1:00pm |	Brandon Stock| [	Fingerprinting for Dynamic Honeypots] (Stock.pdf) |	  	
 |1:30pm |	Maggie Casale| [	Assisted Touchscreen Interaction for Users with Motor Impairments] (Casale.pdf) |	   
 
-# Senior seminar papers and slides, Fall 2010
 
-The Fall, 2010, Senior Seminar conference is 1:30-5pm in Sci 2200 on Saturday, 4 Dec, 2010.
-
-## Papers and slides
+### Science 1030
 
 | Time | Speaker  | Title       | Slides  |
 | -----|----------|-------------|---------|
@@ -30,3 +33,5 @@ The Fall, 2010, Senior Seminar conference is 1:30-5pm in Sci 2200 on Saturday, 4
 |12:00pm ||	  	30 minute break 	  	  	 
 |12:30pm| 	Isaac Smolund |	[Activity Prediction in Ambient Technologies] (Smolund.pdf)	🌟
 |1:00pm |	Xavier Walcome |	[Emotion Recognition Through Facial Expressions] (Walcome.pdf) |[slides] (Walcomeslides.pdf) |
+
+*To download good quality pdfs, click on the pdf file to open a preview, and then click "raw" at the upper right corner*

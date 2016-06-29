@@ -3,7 +3,13 @@
 The Fall, 2014, Senior Seminar conference is 10:00am-12:30pm in Sci 2200 on Saturday, 6 Dec, 2014.
  Papers and presentations that were evaluated as deserving a distinction are marked with 🌟(this will be done after the conference). 
 
+Many thanks to the alumni reviewers who provided feedback for this semesters' students: Stephen Adams, Kevin Arhelger, Melissa Helgeson, Alex Jarvis, Ashley Koch, Andrew Latterner, Wayne Manselle, Chad Seibert, Scott Steffes, and Chris Thomas.
+
+Papers and presentations that were evaluated as deserving a distinction are marked with 🌟. 
+
 ## Papers and slides
+
+### Session 1: Science 1020
 
 | Time | Speaker  | Title       | Slides  |
 | -----|----------|-------------|---------|
@@ -14,11 +20,7 @@ The Fall, 2014, Senior Seminar conference is 10:00am-12:30pm in Sci 2200 on Satu
 | 11:40am | Ian McGathey  | [Search-Based Procedural Content Generation in Games](McGathey.pdf) | 
 | 12:10pm | Chase Ottomoeller  | [Gait Recognition in Mobile Security](Ottomoeller.pdf) | [slides](Ottomoellerslides.pdf) |
 
-# Senior seminar papers and slides, Fall 2014
-
-The Fall, 2014, Senior Seminar conference is 2:00pm-5pm in Sci 2200 on Saturday, 6 Dec, 2014.
-
-## Papers and slides
+### Session 2: Science 1020
 
 | Time | Speaker  | Title       | Slides  |
 | -----|----------|-------------|---------|
@@ -28,3 +30,5 @@ The Fall, 2014, Senior Seminar conference is 2:00pm-5pm in Sci 2200 on Saturday,
 | 3:30pm | | 10 minute break
 | 3:40pm |Michael Schuweiler  | [ Interpreting Multitouch Gestures](Schuweiler.pdf)🌟 | [slides](Schuweilerslides.pdf) |
 | 4:10pm |Travis Starkson | [XSS Attacks and Possible Defenses](Starkson.pdf) | [slides](Starksonslides.pdf) |
+
+*To download good quality pdfs, click on the pdf file to open a preview, and then click "raw" at the upper right corner*
