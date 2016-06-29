@@ -44,9 +44,7 @@ People should feel free to help extend this. Other sources? What sources of pape
 
 You can keep your annotated bibliography in a notebook or a text file on your computer,
 or you can use things like web-based bookmarking tools. 
-[This example] (https://wiki.umn.edu/UmmCSciSeniorSeminar/BillyVistosAnnotatedBibliography) [show](http://del.icio.us/bvisto) how a student used a bookmarking site to store and annotate his bibliography entries, 
-and then used an RSS feed to auto-generate his annotated bibliography page here on the wiki.
-
+[This example shows](http://del.icio.us/bvisto) how a student used a bookmarking site to store and annotate his bibliography entries.
 ###Writing
 
 ["How to get your article rejected" by Martin Hagger](howtogetyourarticlerejected.pdf) is a nice article humorously outlining a number of common
@@ -63,13 +61,13 @@ make that you think would be of value to other students.
 
 LaTeX resources:
 - [Wiki Book on LaTeX ](http://www.xm1math.net/texmaker/)
-- ["not so short" introduction to LaTeX](lshort.pdf)
+- ["not so short" introduction to LaTeX](http://mirror.unl.edu/ctan/info/lshort/english/lshort.pdf)
 - [Texmaker - a multi-platform LaTeX editor](http://www.xm1math.net/texmaker/)
 - [TeXShop - A Mac OS LaTeX editor](http://pages.uoregon.edu/koch/texshop/)
-- [A really cool tool: draw a symbol and get a list of suggestions for its LaTeX encoding](http://pages.uoregon.edu/koch/texshop/)
+- [A really cool tool: draw a symbol and get a list of suggestions for its LaTeX encoding](http://detexify.kirelabs.org/classify.html)
 - [A cool wikibook for figures in LaTeX](https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions)
 - [Mangling image from pdfs](mangling-image-from-pdfs.pdf) 
-- [Our own LaTeXFormattingFAQ](LatexFomatingFAQ.md)
+- [Our own LaTeXFormattingFAQ](LatexfomatingFAQ.md)
 
 ###ACM Computing Categories and General Terms
 

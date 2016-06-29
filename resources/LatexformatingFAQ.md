@@ -1,4 +1,3 @@
-You are here: UMWiki>UmmCSciSeniorSeminar Web>SeniorSemResources>LaTeXFormattingFAQ (03 Dec 2015, NicMcPhee)
 
 - [A $ in my verbatim breaks TexMaker](#a-$-in-my-verbatim-breaks-texmaker)
 - [How do I format a url in a paper?](#how-do-i-format-a-url-in-a-paper?)
@@ -39,7 +38,7 @@ If you are referencing an online article, use the following in your .bib file:
 > \balance
 \end{document} 
 
-[Here](balance.pdf) is more information.
+[Here](http://ctan.mackichan.com/macros/latex/contrib/preprint/balance.pdf) is more information.
 
 ####How do I check if my paper uses A4 or Letter Paper?
 Using the templates from the senior seminar github fixes this issue Open it in Adobe Reader, go to File menu, and select Properties. In the tab Description it should show Paper Size as 8.5in by 11in (letter paper size). Otherwise it's A4. Note that the difference may not be visible on screen, but might show up when you are trying to print and A4 will mess up the final proceedings if left unchanged.

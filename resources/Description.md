@@ -19,6 +19,10 @@ One of the few really consistent themes we get from alumni and employers is the 
 
 - [Course goals and learning objectives](#course-goals-and-learning-objectives)
 - [Requirements](#requirements)
+- [Senior Seminar Instructor](#senior-seminar-instructor)
+- [Senior Seminar Advisor](#senior-seminar-advisor)
+- [Texts and Other Materials](#texts-and-other-materials)
+
 
 ### Course goals and learning objectives
 There are three major goals:
@@ -40,14 +44,17 @@ In the course of a semester a student writes a 5-6 page paper (ACM style, see sa
 
 The student is expected to work with their advisor and the course instructor on making progress towards the final paper/presentation, to be proactive in sorting out potential issues, and to take into account feedback from their advisor, course instructor, and paper reviewers (alumni and fellow students).
 
-####Senior Seminar Instructor
+### Senior Seminar Instructor
 The course instructor conducts in-class meetings, provides feedback on students' submitted work, keeps track of students' milestones (see the cookie system), and takes care of organizational issues (printing the proceedings, room reservations, etc). The instructor is also there to answer questions and to (try to) resolve whatever issues might come up. If issues arise in the course, please contact the instructor as soon as possible (in person or by email) to resolve the problem.
-####Senior Seminar Advisor
+
+### Senior Seminar Advisor
 Each student works with a faculty advisor on a chosen topic. Your advisor is one of Csci faculty (including the course instructor). In the beginning of the semester students pick a general area for a Seminar topic and approach a potential advisor based on a match in the topic of interest. We usually try to balance Senior Seminar advising loads among faculty so if you would like to work with a particular person, talk to them early so that they are still available. However, even if the topic match is not perfect, your advisor is still a highly valuable resource.
+
 Usually you meet with your advisor once a week and submit all of your intermediate work (bibliography, drafts, etc) to them, in addition to the course instructor. Your advisor gives you feedback on intermediate drafts and helps you in all aspects of the course, from narrowing down a topic and literature search to practice presentations. Your advisor is the first source of help when you are stuck or have a question. Meeting with your advisor regularly and seeking their help as soon as an issue arises is essential for the success in the course.
-####Texts and other materials
+
+### Texts and other materials
 Your key source of materials will be research literature in the field. We'll talk about how to find things in class, and your advisor can be a big help there as well. There are also some useful links on the [resources page](Senior Smeminar conferences.md).
-####Course work and grading
+### Course work and grading
 Grades in CSci 4901 are determined by the CSci faculty as a whole, usually right after the presentations. Grades will be based on the following:
 - Your technical paper
 - Your presentation
@@ -62,6 +69,6 @@ The above items are all important, in slightly different contexts, for almost an
 
 Additionally check out [Cookie System](cookie resuources.md) for important grading information.
 
-The CSci faculty may choose to acknowledge certain papers or presentations with a Gold Star as an indication of their unusually high quality. Getting a gold star corresponds to passing senor seminar with distinction. While this is not formally reflected in the grade, it's a great thing to put on your resume or grad school application.
--- Main.elenam - 26 May 2014
+The CSci faculty may choose to acknowledge certain papers or presentations as deserving a distinction (informally known as *Gold Star*) as an indication of their unusually high quality. Getting a gold star corresponds to passing senor seminar with distinction. While this is not formally reflected in the grade, it's a great thing to put on your resume or grad school application.
+
 
