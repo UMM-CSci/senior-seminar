@@ -3,6 +3,8 @@
 ###The CSci discipline invites you to Spring 2016 Senior Seminar conference on Saturday, April 30, 2016. The talks will be held from 11:00am–4:00pm in Sci 3610 & 3650. Refreshments will be served.
 Papers and presentations that were evaluated as deserving a distinction are marked with 🌟(the papers will be marked later). 
 
+Many thanks to the alumni reviewers who provided feedback for this semesters' students: Stephen Adams, Kevin Arhelger, Kirbie Dramdahl, Brian Goslinga, Alex Jarvis, Andrew Latterner, Max Magnuson, Wayne Manselle, Will Martin, Mike Maurer, Skatje Myers, Danielle Schatschneider, Paul Schliep, Scott Steffes, and Jacob Thebault-Spieker.
+
 ## Papers and slides
 
 | Time | Speaker  | Title       | Slides  |
@@ -28,3 +30,5 @@ Papers and presentations that were evaluated as deserving a distinction are mark
 |2:00pm| 	Henry Megarry |	[Coordinating Multi-Robot Systems] (megarry.pdf) |
 |2:30pm| 	Andrew Peterson| 	[Combination of Video Streaming Technologies as CDN/P2P Hybrid & ABR/P2P Hybrid] (peterson.pdf)🌟	|
 |3:00pm| 	Aaron Lemmon |	[Parallel BVH Construction for Real-Time Ray Tracing] 	(lemmon.pdf) | [slides](lemmon-slides.pdf) 🌟|
+
+*To download good quality pdfs, click on the pdf file to open a preview, and then click "raw" at the upper right corner* 
