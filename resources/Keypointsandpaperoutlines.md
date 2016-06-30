@@ -4,7 +4,7 @@ We have consistently found that often students don't see the "big picture" of th
 
 Academic papers tend to contribute at least one new thing to further work in an area, and the authors usually describe 
 their contributions by situating their work compared to other (previous) work in the area. 
-#####Key points of your paper show your understanding of contributions of your sources.
+*Key points of your paper show your understanding of contributions of your sources.*
 
 They may be written as a bullet list or 2-4 paragraphs. You should answer the following questions:
 
@@ -24,11 +24,10 @@ If you have any questions, please talk to the instructor and/or your advisor.
 
 The outline of your paper describes the structure of your paper. This should include at least sections and subsections, along with a brief (one sentence) description of each. You should also mention the key sources you'll use for each section/subsection. You may want to expand the outline out to the level of paragraphs (or parts of subsections); this is particularly useful for areas that you're uncertain about or which you think will be challenging.
 
-#####Don't just give us five roman numerals with vague titles like "Introduction", "Background", "Thing 1", "Thing 2", and "Conclusion".
+*Don't just give us five roman numerals with vague titles like "Introduction", "Background", "Thing 1", "Thing 2", and "Conclusion".*
 That tells both you and us nothing useful, and does nothing to expose or address challenges and questions. 
 It's easy to not give this outlining the time it's due, but time spent here will definitely pay off later.
 
-Don't forget to include your paper title and the bibliography in the outline.
+Don't forget to include your *paper title* and the *bibliography* in the outline.
 
--- Main.elenam - 12 Aug 2011 
 [samplekeypointsandoutline.pdf](samplekeypointsandoutline.pdf): A sample key points submission 
