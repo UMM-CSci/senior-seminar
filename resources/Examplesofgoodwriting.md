@@ -1,7 +1,9 @@
-In class today Brian Goslinga asked for some examples of good technical writing. There are lots of great papers out there, but they are typically surrounded by vast oceans of poop (much like almost every other cultural artifact). I've pulled a few examples off the top of my head, but this is by no means meant to be complete or exclusive, and I'd love it if people would add examples to this list. I've also focused on papers; we could expand this to include books and other forms of writing, but it seems that traditional papers would be the most useful as examples for Senior Seminar. -- NicMcPhee - 09 Sep 2010
+## Examples of good writing
+
+There are lots of great papers out there, but they are typically surrounded by vast oceans of poop (much like almost every other cultural artifact). Here are some examples, but this is by no means meant to be a complete or exclusive list, and we'd love it if people would add examples to this list. It is currently focused on papers; we could expand this to include books and other forms of writing, but it seems that traditional papers would be the most useful as examples for Senior Seminar. 
 
 - [Genetic Programming for Finite Algebras](#genetic-programming-for-finite-algebras)
-- [GP-Gammon: Using Genetic Programming to Evolve Backgammon Players](#gp-gammon:-using-genetic-programming-to-evolve-backgammon-players)   
+- [GP-Gammon: Using Genetic Programming to Evolve Backgammon Players](#backgammon)   
 - [Go To Statement Considered Harmful](#go-to-statement-considered-harmful)
 - [Abstraction mechanisms in CLU](#abstraction-mechanisms-in-clu)
 
@@ -13,14 +15,14 @@ still quite readable.
 
 [http://hampshire.edu/lspector/gpfa-gecco-2008/](http://hampshire.edu/lspector/gpfa-gecco-2008/)
 
-###GP-Gammon: Using Genetic Programming to Evolve Backgammon Players
+###<a name="backgammon"></a>GP-Gammon: Using Genetic Programming to Evolve Backgammon Players
 
 This also won a Human Competitive Result prize. It's worth noting that Lee Spector (first author on the Finite Algebras paper) 
 and Moshe Sipper (first author on this paper) have been consistently competitive for these sorts of awards over the years.
 This sort of consistency is obviously a sign of good work, but it's also a sign of good writing and presenting skills, 
 since the ability to communicate your work is crucial to your overall success.
 
-[http://www.genetic-programming.org/hc2005/Sipper-GP-Gammon-Final.pdf](http://www.genetic-programming.org/hc2005/Sipper-GP-Gammon-Final.pdf)
+[http://www.genetic-programming.org/hc2005/Sipper-GP-Gammon-Final.pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.6524&rep=rep1&type=pdf)
 
 ###Go To Statement Considered Harmful
 
@@ -28,7 +30,7 @@ Stephen Adams suggested this, and it is indeed a gem. It's entirely possible, fo
 that no one has had such a profound effect with so few words at any other point in the history of the field.
 Note that while this appeared in a refereed journal, it's not really a "standard" paper, but more of a note.
 
-(http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html)[http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html]
+[http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html](http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html)
 
 ###Abstraction mechanisms in CLU
 
