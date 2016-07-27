@@ -16,7 +16,7 @@ Many thanks to the alumni reviewers who provided feedback for this semesters' st
 |1:00pm |	|  	1 hour break 	  	  	 
 |2:00pm| 	Josh Chapman| [	Using Dropout to Reduce Overfitting in Neural Networks ]	 (chapman.pdf)|
 |2:30pm |	Ben Simondet| 	[Using Principal Component Analysis to Improve Accessibility] (simondet.pdf) | [slides](http://slides.com/simon998/deck#/)🌟|	
-|3:00pm |	Brennan Gensch |[	Evolving Moving Target Defense Configurations ]	(gensch.pdf)	🌟|	
+|3:00pm |	Brennan Gensch |[	Evolving Moving Target Defense Configurations ]	(gensch.pdf)	|	🌟 |
 |3:30pm |	Resa Brockman |[	Influence Maximization in Online Social Networks ]	(brockman.pdf) | [slides](brockmanslides.pdf) 🌟|
  Room Science 3650 
  
@@ -28,7 +28,7 @@ Many thanks to the alumni reviewers who provided feedback for this semesters' st
 |12:30pm| 	Sean Stockholm 	|[Implementing Computer Vision Algorithms for Autonomous UAV Applications] (stockholm.pdf)|	  
 |1:00pm ||	  	1 hour break 	  	  	 
 |2:00pm| 	Henry Megarry |	[Coordinating Multi-Robot Systems] (megarry.pdf) |
-|2:30pm| 	Andrew Peterson| 	[Combination of Video Streaming Technologies as CDN/P2P Hybrid & ABR/P2P Hybrid] (peterson.pdf)🌟	|
+|2:30pm| 	Andrew Peterson| 	[Combination of Video Streaming Technologies as CDN/P2P Hybrid & ABR/P2P Hybrid] (peterson.pdf)	| 🌟 |
 |3:00pm| 	Aaron Lemmon |	[Parallel BVH Construction for Real-Time Ray Tracing] 	(lemmon.pdf) | [slides](lemmon-slides.pdf) 🌟|
 
 *To download good quality pdfs, click on the pdf file to open a preview, and then click "raw" at the upper right corner* 
