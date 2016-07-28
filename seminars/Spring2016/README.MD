@@ -10,7 +10,7 @@ Many thanks to the alumni reviewers who provided feedback for this semesters' st
 | Time | Speaker  | Title       | Slides  |
 | -----|----------|-------------|---------|
 |11:00am| 	Brian Mitchell |[Aggregating Information Based on Geolocated Twitter Data ]	(mitchell.pdf) | [slides](mitchellslides.pdf) 🌟|
-|11:30am| 	Matthew (Snuffy)| [Linder 	Neural Networks for Vehicle Navigation ]	(linder.pdf) | [slides](linderslides.pdf) 🌟
+|11:30am| 	Matthew (Snuffy) Linder | [Neural Networks for Vehicle Navigation ]	(linder.pdf) | [slides](linderslides.pdf) 🌟
 |12:00pm| 	Zach Copic |[	Introducing Computer Science through Block-Based Programming ]	(copic.pdf) | [slides](copicslides.pdf) | 
 |12:30pm| 	Tom Harren| [	Security of Near Field Communication: Does My Phone Need A Tinfoil Hat? ](harren.pdf)| [slides](harren-slides.pdf) 🌟| 
 |1:00pm |	|  	1 hour break 	  	  	 
