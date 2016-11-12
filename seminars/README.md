@@ -1,6 +1,7 @@
 # Senior seminar conferences 
 Papers and slides:
 
+- [Fall 2016](Fall2016)
 - [Spring 2016](Spring2016)
 - [Fall 2015](Fall2015) 
 - [Spring 2015](Spring2015) 
