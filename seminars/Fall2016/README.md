@@ -13,7 +13,7 @@ Papers and presentations that were evaluated as deserving a distinction are mark
 | -----|----------|-------------|---------|
 |1:00pm| Emma Sax | Modeling Facial Expressions in 3D Avatars from 2D Video Frames| [slides](saxslides.pdf)|
 |1:30pm| John Lynch |  |  |
-|2:00pm| Joclyn Bayer |  |  | 
+|2:00pm| Jocelyn Bayer |  |  | 
 |2:30pm|  | 15 minute break 
 |2:45pm| Joseph Thelen |  |  | 
 |3:15pm| Thomas Hagen |  |  |
