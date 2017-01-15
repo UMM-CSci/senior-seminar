@@ -33,7 +33,7 @@ Since google scholar and CS databases provide different benefits, you are likely
 * Both google scholar and CS databases cross-reference papers by citation, i.e. you can find papers that cite the one you are looking at, as well as the ones that are cited in it. This may be useful for finding related work. Both also allow you to find other work by a given author. 
 * CS databases also list papers by conferences or journals. This may be useful if you are interested in a specific topic (say, computer graphics) and would like to see what was published in this area in the last few years. 
 * CS databases tend to be US-centered. Papers published in European, Asian, or Australian venues may not be listed in these databases. Google scholar may be a better source. 
-* Many conferences and journals do not allow authors to have full texts of their papers in public domain. UMM has access to full texts of most of such papers in ACM digital library and IEEE Xplore.  
+* Many conferences and journals do not allow authors to have full texts of their papers in public domain. UMM has access to full texts of most of such papers in ACM digital library and IEEE Xplore. Thus once you find a potentially interesting paper in google scholar, you might want to look at its page in ACM digital library (log in through UMM) to read the abstract and see its full text.  
 * ACM digital library has information about acceptance rates for most conferences and workshops. This is useful for evaluating quality of sources. 
 
 Taking advantage of the strength of both approaches, here is how you can find sources for a topic:
@@ -50,7 +50,14 @@ Taking advantage of the strength of both approaches, here is how you can find so
 Once you have found full texts, you need to try to evaluate the quality of your sources. It's a tricky process, but here are some things to take into account:
 
 * The venue where the paper was published:
-   * Conferences and workshops often list their acceptance rate in the *Publication* tab in the paper page in ACM digital library. 
+   * Conferences and workshops often list their acceptance rate in the *Publication* tab in the paper page in ACM digital library. What's considered reasonable for acceptance rates varies between different fields in CS and depends on how specialized the conference or a workshop is (more specialized ones tend to have higher acceptance rates, that's ok). However, an acceptance rate over 50% is usually not an indication of rigorous review (more than half of submitted work is accepted), and below 25% is usually very good. 
+   * Another indication of rigor in review is the length of the review process: if a conference gives 2 months or more to review a papers, this indicates rigor. A month or less is usually not enough for thorough review. A rebuttal of reviewers' feedback is usually a positive sign. Information about the review process is included in the Call for Papers (CFP) for the conference. It is roughly the same every year, so you can find the most recent one. 
+   * Journals list their review process on their web site (in submission information). Note that review by editors is not considered peer review. More specific journals match a paper with experts in closer areas, and thus are generally more rigorous.  <br /> Watch out for invited papers, and also make sure that you are looking at a professional journal, and not a popular magazine.
+* Length of the paper: it should be at least 8 pages, and at least some of your primary sources should be longer than that. Shorter papers lack details and often are summaries of posters or work-in-progress. 
+* Length of bibliography of the paper and how many of cited papers are themselves published peer-review work. A paper that primarily cites popular articles, textbooks, and wikipedia is usually a bit suspicious in quality. 
+* 
+
+ 
 
 
 ### How to find supplementary sources 
