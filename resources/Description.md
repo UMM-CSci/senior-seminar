@@ -67,7 +67,7 @@ Grades in CSci 4901 are determined by the CSci faculty as a whole, usually right
 The above items are all important, in slightly different contexts, for almost any career you may choose.
 
 
-Additionally check out [Cookie System](cookie resuources.md) for important grading information.
+Additionally check out [Cookie System](cookieResources.md) for important grading information.
 
 The CSci faculty may choose to acknowledge certain papers or presentations as deserving a distinction (informally known as *Gold Star*) as an indication of their unusually high quality. Getting a gold star corresponds to passing senor seminar with distinction. While this is not formally reflected in the grade, it's a great thing to put on your resume or grad school application.
 
