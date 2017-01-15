@@ -12,6 +12,16 @@ It is essential that you use sources that inform you about the topic of your pap
 
 <!-- quantity, how recent, how are they used, supplementary sources -->
 
+While the general requirement is to have at least three fairly recent published peer-reviewed sources, the specifics of these requirements depend on your topic: 
+
+**Recent sources** For an active area and a sufficiently general topic (e.g. machine learning or network security) we would expect that all your primary sources are published within the last 3-4 years. If your topic is more specific and/or slower developing (e.g. applications of machine learning to medical records or assistive technology for middle school teachers), you might not be able to find all sources within the last 3-4 years. In this case it's ok to have one more recent source (within 3-4 years) and the other two be somewhat older. 
+<br />
+It is up to the student to search for sources and to discuss with their adviser and the senior seminar instructor what is available. In some cases we would suggest widening the topic, and in some cases we would be ok with the student using somewhat older sources. 
+
+**Primary vs supplementary sources**
+
+**Using your sources**
+
 ### Journals vs conferences vs workshops
 
 ### How to find peer reviewed sources
@@ -55,10 +65,9 @@ Once you have found full texts, you need to try to evaluate the quality of your 
    * Journals list their review process on their web site (in submission information). Note that review by editors is not considered peer review. More specific journals match a paper with experts in closer areas, and thus are generally more rigorous.  <br /> Watch out for invited papers, and also make sure that you are looking at a professional journal, and not a popular magazine.
 * Length of the paper: it should be at least 8 pages, and at least some of your primary sources should be longer than that. Shorter papers lack details and often are summaries of posters or work-in-progress. 
 * Length of bibliography of the paper and how many of cited papers are themselves published peer-review work. A paper that primarily cites popular articles, textbooks, and wikipedia is usually a bit suspicious in quality. 
-* 
+* Quality of writing. If the paper is unclear, badly organized, and grammatically incorrect, it is difficult to understand even if it has correct innovative results. (But note that some grammatical issues could be due to authors not being native English speakers, and therefore may not a be a red flag for quality of results or discussion.) 
 
- 
-
+Of course, a paper may satisfy all of the above criteria, and still have incorrect results or a significant lack of details (which may not be obvious until you have put a lot of time into trying to read it). The opposite is also true: great results can be published in a high acceptance rate venue and have grammatical errors and mislabeled diagrams. However, as a first approximation these criteria allow you to discard problematic sources.  
 
 ### How to find supplementary sources 
 
