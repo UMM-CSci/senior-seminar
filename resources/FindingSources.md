@@ -16,11 +16,21 @@ While the general requirement is to have at least three fairly recent published 
 
 **Recent sources** For an active area and a sufficiently general topic (e.g. machine learning or network security) we would expect that all your primary sources are published within the last 3-4 years. If your topic is more specific and/or slower developing (e.g. applications of machine learning to medical records or assistive technology for middle school teachers), you might not be able to find all sources within the last 3-4 years. In this case it's ok to have one more recent source (within 3-4 years) and the other two be somewhat older. 
 <br />
-It is up to the student to search for sources and to discuss with their adviser and the senior seminar instructor what is available. In some cases we would suggest widening the topic, and in some cases we would be ok with the student using somewhat older sources. 
+It is up to the student to search for sources and to discuss with their adviser and the senior seminar instructor what is available. If no new sources are available, but the topic is interesting, we may suggest widening the topic or we may be ok with the student using somewhat older sources.
+
+Some senior seminar papers are survey papers and cover more than three sources. **TO DO: mention Jacob's paper***
+
+We also want to make sure that you are presenting a reasonably complete picture of the state of the art in a specific area. Thus your three primary sources shouldn't all come from the same author or group of authors. 
 
 **Primary vs supplementary sources**
+Primary sources are the ones that provide information for the core of your paper. Your paper needs to clearly explain the methods and the results presented in your primary sources in a way that's understandable to students at the Data Structures level. 
+
+In order to better understand methods used in your paper you are likely to use supplementary sources: papers that the primary sources are building upon, textbooks, technical reports, wikipedia articles, talks and blog posts by researchers explaining the concepts, etc. Some of these materials may be peer reviewed, and some wouldn't be. Make sure they are trustworthy. You need to cite them in your paper (we discuss proper citing later). 
 
 **Using your sources**
+Typically your three sources cover the same topic from different angles. **TO DO: mention Max's paper, Kristin's**
+
+**To Do: mention Lemmon's paper**
 
 ### Journals vs conferences vs workshops
 
