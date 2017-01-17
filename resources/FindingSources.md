@@ -6,11 +6,9 @@ It is essential that you use sources that inform you about the topic of your pap
 
 ## Finding sources
 
-*Peer reviewed* computer science literature means papers that were published in computer science journals or proceedings of computer science conferences or workshops where publications are selected based on reviews by experts in the field. This writeup explains peer review process. **TO DO: link to Nic's writeup**
+*Peer reviewed* computer science literature means papers that were published in computer science journals or proceedings of computer science conferences or workshops where publications are selected based on reviews by experts in the field. This writeup explains peer review process: [Meet Science: What is "peer review"?](http://boingboing.net/2011/04/22/meet-science-what-is.html). 
 
 ## Guidelines for sources for your paper
-
-<!-- quantity, how recent, how are they used, supplementary sources -->
 
 While the general requirement is to have at least three fairly recent published peer-reviewed sources, the specifics of these requirements depend on your topic: 
 
@@ -18,7 +16,7 @@ While the general requirement is to have at least three fairly recent published 
 <br />
 It is up to the student to search for sources and to discuss with their adviser and the senior seminar instructor what is available. If no new sources are available, but the topic is interesting, we may suggest widening the topic or we may be ok with the student using somewhat older sources.
 
-Some senior seminar papers are survey papers and cover more than three sources. **TO DO: mention Jacob's paper***
+Some senior seminar papers are survey papers and cover more than three sources. For instance, see[Concurrent Compaction in JVM Garbage Collection by Jacob Opdahl](../seminars/Fall2015/Opdahl.pdf) ([Fall 2015](../seminars/Fall2015)).
 
 We also want to make sure that you are presenting a reasonably complete picture of the state of the art in a specific area. Thus your three primary sources shouldn't all come from the same author or group of authors. 
 
