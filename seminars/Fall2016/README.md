@@ -13,11 +13,9 @@ Many thanks to the alumni reviewers who provided feedback for this semesters' st
 | -----|----------|-------------|---------|
 |1:00pm| Emma Sax | [Modeling Facial Expressions in 3D Avatars from 2D Images](Sax.pdf) | [slides](Saxslides.pdf) 🌟|
 |1:30pm| John Lynch | [Computer Virus Enhancement](Lynch.pdf)  | [slides](Lynchslides.pdf) |
-|2:00pm| Jocelyn Bayer | [Supporting Literary Analysis Using Automatically
-Generated Social Network Graphs ](Bayer.pdf)| [slides](Bayerslides.pdf) | 
+|2:00pm| Jocelyn Bayer | [Supporting Literary Analysis Using Automatically Generated Social Network Graphs](Bayer.pdf)| [slides](Bayerslides.pdf) | 
 |2:30pm|  | 15 minute break 
-|2:45pm| Joseph Thelen | [Adding functional style pattern matching features to
-object-oriented languages](Thelen.pdf) | [slides](Thelenslides.pdf) 🌟 | 
+|2:45pm| Joseph Thelen | [Adding functional style pattern matching features to object-oriented languages](Thelen.pdf) | [slides](Thelenslides.pdf) 🌟 | 
 |3:15pm| Thomas Hagen | [Abstracting Natural Language Queries into SQL](Hagen.pdf) | [slides](Hagenslides.pdf)🌟 |
 
 #### November 19, 2016
@@ -25,7 +23,7 @@ object-oriented languages](Thelen.pdf) | [slides](Thelenslides.pdf) 🌟 |
 | Time | Speaker  | Title       | Slides  |
 | -----|----------|-------------|---------|
 |1:00pm| Henry Fellows | [Modern Approaches to the Rich Vehicle Routing Problem](Fellows.pdf) |  |
-|1:30pm| Isaac Koak | [Abstractive Automatic Text Summarization](Koak.pdf) | [slides(Koakslides.pdf) 🌟 |
+|1:30pm| Isaac Koak | [Abstractive Automatic Text Summarization](Koak.pdf) | [slides](Koakslides.pdf) 🌟 |
 |2:00pm| Mark Lehet | [Improving security of the Advanced Encryption Standard](Lehet.pdf) | [slides](Lehetslides.pdf) | 
 |2:30pm|  | 15 minute break 
 |2:45pm| Ryan McArthur | [SQL and NoSQL: Comparing Modern Databases](McArthur.pdf) | [slides](McArthurslides.pdf) | 
