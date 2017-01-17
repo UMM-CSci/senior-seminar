@@ -16,7 +16,7 @@ While the general requirement is to have at least three fairly recent published 
 <br />
 It is up to the student to search for sources and to discuss with their adviser and the senior seminar instructor what is available. If no new sources are available, but the topic is interesting, we may suggest widening the topic or we may be ok with the student using somewhat older sources.
 
-Some senior seminar papers are survey papers and cover more than three sources. For instance, see[Concurrent Compaction in JVM Garbage Collection by Jacob Opdahl](../seminars/Fall2015/Opdahl.pdf) ([Fall 2015](../seminars/Fall2015)).
+Some senior seminar papers are survey papers and cover more than three sources. For instance, see [Concurrent Compaction in JVM Garbage Collection by Jacob Opdahl](../seminars/Fall2015/Opdahl.pdf) ([Fall 2015](../seminars/Fall2015)).
 
 We also want to make sure that you are presenting a reasonably complete picture of the state of the art in a specific area. Thus your three primary sources shouldn't all come from the same author or group of authors. 
 
@@ -26,11 +26,15 @@ Primary sources are the ones that provide information for the core of your paper
 In order to better understand methods used in your paper you are likely to use supplementary sources: papers that the primary sources are building upon, textbooks, technical reports, wikipedia articles, talks and blog posts by researchers explaining the concepts, etc. Some of these materials may be peer reviewed, and some wouldn't be. Make sure they are trustworthy. You need to cite them in your paper (we discuss proper citing later). 
 
 **Using your sources**
-Typically your three sources cover the same topic from different angles. **TO DO: mention Max's paper, Kristin's**
+Typically your primary sources cover the same topic from different angles: [Image Resizing using Seam Carving by Kristin Rachor](../seminars/Fall2015/Rachor.pdf) ([Fall 2015](../seminars/Fall2015)), [Monte Carlo Tree Search and Its Applications by Max Magnuson](../seminars/Spring2015/Magnuson.pdf) ([Spring 2015](../seminars/Spring2015)).  
 
-**To Do: mention Lemmon's paper**
+However, sometimes it makes sense to focus on one main source and background information for it, and spend less time on applications of the methods: [Parallel BVH Construction for Real-Time Ray Tracing by Aaron Lemmon](../seminars/Spring2016/lemmon.pdf) ([Spring 2016](../seminars/Spring2016)).  
+
+Make sure to discuss your paper structure with your adviser and the instructor to figure out what works best for your topic. 
 
 ### Journals vs conferences vs workshops
+
+TBD
 
 ### How to find peer reviewed sources
 
