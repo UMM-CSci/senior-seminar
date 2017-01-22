@@ -16,7 +16,7 @@ Papers and presentations that were evaluated as deserving a distinction are mark
 2:30pm |	Trenton Hafterson |	[Incorporating Agile Methods into the Development of Large-Scale Systems] (Hafterson.pdf) | [slides](Haftersonslides.pdf) |
 3pm ||	Break 	 
 3:30pm |	Martha Enderby |	[Methods of Reducing Verbose Queries] 	(Enderby.pdf) 
-4pm 	|Anthony Delehanty |	[Security Issues in Biometric Identification] (Botzet.pdf) | [slides](Delehantyslides.pdf) |
+4pm 	|Anthony Delehanty |	[Security Issues in Biometric Identification] (Delehanty.pdf) | [slides](Delehantyslides.pdf) |
 4:30pm |	Brian Valerius |	[An Overview of Autostereoscopy as Used in Augmented and Virtual Reality Systems] (Valerius.pdf)|	 
 
 *To download good quality pdfs, click on the pdf file to open a preview, and then click "raw" at the upper right corner* 
