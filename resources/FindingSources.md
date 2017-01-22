@@ -34,7 +34,7 @@ Make sure to discuss your paper structure with your adviser and the instructor t
 
 ### Journals vs conferences vs workshops
 
-TBD
+Unlike other many disciplines, computer science 
 
 ### How to find peer reviewed sources
 
