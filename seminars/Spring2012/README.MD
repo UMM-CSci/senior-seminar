@@ -8,13 +8,13 @@ Many thanks to alumni reviewers who provided feedback for our students: Kevin Ar
 
 | Time | Speaker  | Title       | Slides  |
 | -----|----------|-------------|---------|
-|12:30pm| 	Drake Arvidson| [	Using Participatory Sensing to Monitor and Self-Manage Chronic Illnesses] 	(Ardvidson.pdf) | [slides](Ardvidsonslides.pdf) |
+|12:30pm| 	Drake Arvidson| [	Using Participatory Sensing to Monitor and Self-Manage Chronic Illnesses] 	(Arvidson.pdf) | [slides](Arvidsonslides.pdf) |
 |1pm| 	Joe Einertson| [	A Comparison of Generics in Major Imperative Programming Languages] 	(Einertson.pdf) | [slides](Einertsonslides.pdf) |
 |1:30pm |	Lucas Ellgren |	[Evolving Game-Playing Agents Through Coevolution ](Ellgren.pdf) 🌟| [slides](Ellgrenslides.pdf) |
 |2pm ||	break| 	  	 
 |2:15pm| 	Jay Lapham| [	Data Center Energy Efficiency Improvements through Machine Learning]	(Lapham.pdf)| 	 
 |2:45pm |	Kaitlyn Mulcrone |	[Detecting Emotion in Text ]	(Mulcrone.pdf) | [slides](Mulcroneslides.pdf) |
-|3:15pm |	Casey Summers Robinson| [	Artificial Intelligence and Novelty] 	(Robison.pdf) | [slides](Robisonslides.pdf) 🌟|
+|3:15pm |	Casey Summers Robinson| [	Artificial Intelligence and Novelty] 	(Robinson.pdf) | [slides](Robinsonslides.pdf) 🌟|
 |3:45pm| 	break |	  	 
 |4pm |	Gregory Schumacher |	[Elliptical Curve Problem Solving with Hardware ]		(Schumacher.pdf)| 
 |4:30pm |	Zachary Smith |	[Overview of Operational Transformation] 		(Smith.pdf) |
