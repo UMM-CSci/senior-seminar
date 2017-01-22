@@ -34,7 +34,13 @@ Make sure to discuss your paper structure with your adviser and the instructor t
 
 ### Journals vs conferences vs workshops
 
-Unlike other many disciplines, computer science 
+Many disciplines, such as biology and chemistry, primarily publish research results in journals, and use conferences as venues to discuss work in progress. Coomputer science is different: conferences are primary venues for publishing research results. Consequently, conferences require submission of a complete paper (rather than just a talk abstract, as is common in other disciplines), and these papers undergo peer review by experts in the field, which is usually very rigorous for top-level conferences. A high quality conference has at least two months of a review process (and sometimes even include a rebuttal phase in which authors reply to comments by reviewers). Thus papers in recent proceedings of high-level national and international conferences are the state-of-the-art in a research area. 
+
+Journal publications often lag behind conference publications of the same results by two and more years. Part of the reason is that authors submit to journals only after presenting at conferences, and writing up a more detailed journal version often takes time. Also, journals tend to have a much longer review time which may include several rounds of revisions based on reviewers' comments. Peer review is often more thorough for journal papers and selection may be more competitive, so the quality is often higher than conferences. Journal papers make great background sources, but results presented in them tend to be older. 
+
+Workshops and symposia often are for presenting smaller scale results and work in progress. They tend to have a shorter review cycle and less rigor in review. 
+
+There are, of course, exceptions to these roles of journals, conferences, and workshops, so this is just a rough guide. A section below gives some tips on how to evaluate quality of your sources. 
 
 ### How to find peer reviewed sources
 
