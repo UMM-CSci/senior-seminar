@@ -11,7 +11,7 @@ Papers and presentations that were evaluated as deserving a distinction are mark
 | Time | Speaker  | Title       | Slides  |
 | -----|----------|-------------|---------|
 | 11:30am | David Ruprecht | [Body area networks and body sensor networks](Ruprecht.pdf) | 
-| 12:00pm | Gerard Van Wijk | [Designing professional instruments for computer music performance](Van Wijk.pdf) |
+| 12:00pm | Gerard Van Wijk | [Designing professional instruments for computer music performance](Vanwijk.pdf) |
 | 12:30pm | Reed Simpson  | [Methods to improve the accuracy of recommender systems](Simpson.pdf) | 
 | 1:00pm-1:15pm | | 15 minute break 
 | 1:15pm | Ashley Koch  | [Assistive technologies for children with autism spectrum disorders](Koch.pdf)  | [slides](Kochslides.pdf)🌟 |
