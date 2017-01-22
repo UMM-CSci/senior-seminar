@@ -10,7 +10,7 @@ Papers and presentations that were evaluated as deserving a distinction are mark
 
 | Time | Speaker  | Title       | Slides  |
 | -----|----------|-------------|---------|
-|1:00pm |John McCall |	[Zero knowledge compilers] (McCall.pdf) | [slides](McCallslides.pdf) |
+|1:00pm |John McCall |	[Zero knowledge compilers] (Mccall.pdf) | [slides](Mccallslides.pdf) |
 |1:30pm |Emma Ireland |	[Intrusion detection with genetic algorithms and fuzzy logic] 	(Ireland.pdf) | [slides](Irelandslides.pdf) |
 |2:00pm |Andrew Latterner | 	[Computing polarity in sentiment analysis applications]	(Latterner.pdf) 🌟| [slides](Latternerslides.pdf)|
 |2:30pm |Phou Lee | 	[Bot detection in online games] 	(Lee.pdf) | [slides](Leeslides.pdf)🌟 |
