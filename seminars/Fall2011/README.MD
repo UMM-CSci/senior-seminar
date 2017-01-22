@@ -11,7 +11,7 @@ Papers and presentations that were evaluated as deserving a distinction are mark
 | Time | Speaker  | Title       | Slides  |
 | -----|----------|-------------|---------|
 | 1:00pm | Philip Coler  | [Ambient Intelligence for Monitoring Depression](Coler.pdf) |
-| 1:30pm | Brandon Botzet  | [Electronic Patient Records in a Ubiquitous Setting](Botzet.pdf) | [slides](mullinslides.pdf) |
+| 1:30pm | Brandon Botzet  | [Electronic Patient Records in a Ubiquitous Setting](Botzet.pdf) | [slides](Botzetslides.pdf) |
 | 2:00pm | Kyler Hauschildt   | [Evolvable Hardware in Theory and Implementation] (Hauschildt.pdf)|
 | 2:30pm | | 30 minute break 
 | 3:00pm | Jeffrey Lindblom | 🌟 [Modern Considerations of Garbage Collection in the Java HotSpot Virtual Machine](Lindblom.pdf) | 🌟 [slides](Lindblomslides.pdf) |
