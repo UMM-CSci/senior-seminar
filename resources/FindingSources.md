@@ -89,6 +89,8 @@ Of course, a paper may satisfy all of the above criteria, and still have incorre
 
 ### How to find supplementary sources 
 
+Supplementary sources may include peer-reviewed work (such as papers that the authors reference, including previous papers by the authors themselves) and non-peer-reviewed sources, such as textbooks, technical reports, wikipedia articles, blog posts, presentation slides, etc. The point of supplementary sources is to provide background on the subject or any related information (for instance, your paper on cell phone security may include statistics about cell phone usage). Even if supplementary sources aren't peer reviewed, you need to make sure that they are reliable.  
+
 ### How to cite sources 
 
 ## Working with sources
