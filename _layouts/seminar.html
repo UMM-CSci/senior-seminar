@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign pageurl = page.url | replace: 'index.html', '' %}
+{% assign pageurl = page.url | replace: 'index.html', '' | prepend:site.baseurl %}
 
 <h1>{{ page.title }}</h1>
 
