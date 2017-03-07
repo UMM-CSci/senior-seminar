@@ -1,4 +1,4 @@
-##Senior Seminar Resources
+## Senior Seminar Resources
 
 - [Finding research papers](#finding-research-papers)
 - [Sample annotated bibliography](#sample-annotated-bibliography)
@@ -8,7 +8,7 @@
 - [Creative Commons licensing](#creative-commons-licensing)
 - [Sample beamer slides](#sample-beamer-slides)
 
-###Finding research papers
+### Finding research papers
 
 People find most of their resources from these sources, both available through Briggs Library:
 
@@ -40,18 +40,18 @@ People should feel free to help extend this. Other sources? What sources of pape
 
 [Meet Science: What is "peer review"?](http://boingboing.net/2011/04/22/meet-science-what-is.html)is a nice piece on what peer review is (and isn't).
 
-###Sample annotated bibliography
+### Sample annotated bibliography
 
 You can keep your annotated bibliography in a notebook or a text file on your computer,
 or you can use things like web-based bookmarking tools. 
 [This example shows](http://del.icio.us/bvisto) how a student used a bookmarking site to store and annotate his bibliography entries.
 
-###Writing
+### Writing
 
 ["How to get your article rejected" by Martin Hagger](https://www.chapman.edu/wilkinson/_files/crassh/how%20to%20get%20your%20article%20rejected.pdf) is a nice article humorously outlining a number of common
 (but often fatal) problems in writing up research papers.
 
-###LaTeX and formatting
+### LaTeX and formatting
 
 We use a slightly modified version of the ACM sig-alternate document class for our proceedings formatting.
 You can [get this from Github ](https://github.com/UMM-CSci/Senior_seminar_templates) along with example files/projects that illustrate the creation of annotated bibliographies
@@ -70,17 +70,17 @@ LaTeX resources:
 - [Mangling image from pdfs](mangling-image-from-pdfs.pdf) 
 - [Our own LaTeXFormattingFAQ](LatexformatingFAQ.md)
 
-###ACM Computing Categories and General Terms
+### ACM Computing Categories and General Terms
 
 - [The ACM Computing Classification System](http://www.acm.org/about/class/ccs98-html)
 - General terms must be a subset of the 16 terms [listed here](http://www.acm.org/about/class/1998/). 
 
-###Creative Commons licensing
+### Creative Commons licensing
 
    [ Creative Common Licenses](Common Licences.md)
         How to choose one, how to add it to your paper (including LaTeX). 
 
-###Sample beamer slides
+### Sample beamer slides
 
 [MarthasPresentation.pdf](marthaspresentation.pdf): A presentation generated in LaTeX package beamer 
 
