@@ -20,6 +20,7 @@ group :jekyll_plugins do
    gem "jekyll-readme-index", "~> 0.0.4"
    gem "jekyll-relative-links", "~> 0.3.0"
    gem "jekyll-optional-front-matter", "~> 0.1.2"
+   gem "jemoji", "~> 0.8.0"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

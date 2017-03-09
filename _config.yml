@@ -33,10 +33,13 @@ gems:
   - jekyll-readme-index
   - jekyll-relative-links
   - jekyll-optional-front-matter
+  - jemoji
 
 
 collections:
   seminars:
+    output: true
+  resources:
     output: true
 
 defaults:
@@ -52,3 +55,11 @@ defaults:
       type: "seminars"
     values:
       layout: "seminar"
+      showtable: true
+  -
+    scope:
+      path: ""
+      type: "resources"
+    values:
+      layout: "resource"
+      order: 999

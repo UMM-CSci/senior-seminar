@@ -2,21 +2,33 @@
 layout: default
 ---
 
-{% assign pageurl = page.url | replace: 'index.html', '' | prepend:site.baseurl %}
+<div class="columns docs-layout">
+  <div class="one-fourth column">
+      
+    <nav class="menu docs-menu">
+    <a class="menu-item {% if page.url == '/seminars/' %}selected{% endif %}" href="{{ "/seminars/" | relative_url }}">All Seminars</a>
+    {% assign grouped_seminars = site.seminars |  group_by:"year" %}
+{% for group in grouped_seminars %}
+{% assign sorted_seminars = group.items | sort:"semester" | reverse %}
+{% for sem in sorted_seminars %}
+{% assign semurl = sem.url | replace: 'index.html', '' | relative_url %}
+  <a class="menu-item {% if page.url == sem.url %}selected{% endif %}" href="{{ semurl }}">
+   {{ sem.title }}
+  </a>
+  {% endfor %}
+  {% endfor %}
+</nav>
 
-<h1>{{ page.title }}</h1>
-
-<table>
-<tr>
-<th>Author</th>
-<th>Title</th>
-<th>Slides</th>
-</tr>
-{% for paper in page.papers %}
-<tr>
-  <td>{{ paper.author }}</td>
-  <td>{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}</td>
-  <td>{% if paper.slides %}<a href="{{ pageurl }}{{ paper.slides }}">Slides</a>{% elsif paper.slidesurl %}<a href="{{ paper.slidesurl }}">Slides</a>{% endif %}</td>
-</tr>
-{% endfor %}
-</table>
+  </div>
+  <div class="three-fourths column markdown-body">
+    <h1 class="page-title">
+      {{ page.title }}
+    </h1>
+    <div class="markdown-body">
+      {% if page.showtable %}
+{% include seminar-table.html seminar=page %}
+{% endif %}
+{{ content }}
+    </div>
+  </div>
+</div>

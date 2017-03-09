@@ -1,21 +1,7 @@
 ---
-layout: compress
+layout: base
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-
-{% include head.html %}
-
-<body>
-    {% include header.html %}
-
-    <main>
-      {{ content }}
-    </main>
-
-    {% include footer.html %}
-    
-<!--<script async src="https://cdnjs.cloudflare.com/ajax/libs/page-accelerator/0.1.1/page-accelerator.min.js" onload="pageAccelerator();"></script> -->
-</body>
-</html>
+<div class="container">
+  {{ content }}
+</div>
