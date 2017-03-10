@@ -14,7 +14,7 @@ layout: base
 <div class="container about-that">
 <div class="columns">
   <div class="one-half column">
-    <h2>Past Seminars</h2>
+    <h2>{{ site.seminars | size }} Past Seminars</h2>
     <p>View papers and slides from past senior seminars</p>
     <a href="{{ "/seminars/" | relative_url }}" class="btn btn-outline" role="button">View Seminars</a>
   </div>
