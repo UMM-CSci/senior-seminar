@@ -1,0 +1,5 @@
+{% for sem in site.seminars %}
+{% assign tempsize = sem.papers | size %}
+{% assign semcount = semcount | plus: tempsize %}
+{% endfor %}
+{{ semcount }}

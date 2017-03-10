@@ -6,7 +6,10 @@ layout: default
   <div class="one-fourth column">
       
     <nav class="menu docs-menu">
-    <a class="menu-item {% if page.url == '/seminars/' %}selected{% endif %}" href="{{ "/seminars/" | relative_url }}">All Seminars</a>
+    <a class="menu-item {% if page.url == '/seminars/' %}selected{% endif %}" href="{{ "/seminars/" | relative_url }}">
+      All Seminars 
+      <span class="counter">{% include total-paper-count.html %}</span>
+    </a>
     {% assign grouped_seminars = site.seminars |  group_by:"year" %}
 {% for group in grouped_seminars %}
 {% assign sorted_seminars = group.items | sort:"semester" | reverse %}
@@ -14,6 +17,7 @@ layout: default
 {% assign semurl = sem.url | replace: 'index.html', '' | relative_url %}
   <a class="menu-item {% if page.url == sem.url %}selected{% endif %}" href="{{ semurl }}">
    {{ sem.title }}
+   <span class="counter">{{ sem.papers | size }}</span>
   </a>
   {% endfor %}
   {% endfor %}
