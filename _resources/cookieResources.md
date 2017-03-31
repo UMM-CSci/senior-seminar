@@ -2,7 +2,7 @@
 title: Cookie system
 ---
 
-# Senior seminar cookie system :cookie:
+# Senior seminar cookie system &#x1F36A;
 
 The cookie system was conceived during the 2008-2009 school year, and first implemented in Fall, 2009. We had observed that arguably the biggest risk for students in our Senior Seminar was simply putting things off, and our goal was to create a system that rewarded people for getting stuff in on time, and had some teeth for people that were falling chronically behind.
 
