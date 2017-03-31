@@ -1,0 +1,17 @@
+{% assign seminar = include.seminar %}
+{% assign pageurl = seminar.url | replace: 'index.html', '' | relative_url %}
+
+<table>
+<tr>
+<th>Author</th>
+<th>Title</th>
+<th>Slides</th>
+</tr>
+{% for paper in seminar.papers %}
+<tr>
+  <td>{{ paper.author }}</td>
+  <td>{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}</td>
+  <td>{% if paper.slides %}<a href="{{ pageurl }}{{ paper.slides }}">Slides</a>{% elsif paper.slidesurl %}<a href="{{ paper.slidesurl }}">Slides</a>{% endif %}</td>
+</tr>
+{% endfor %}
+</table>

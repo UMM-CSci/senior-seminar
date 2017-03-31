@@ -1,0 +1,75 @@
+---
+layout: default
+---
+
+<div class="columns docs-layout">
+  <div class="one-fifth column">
+      
+    <nav class="menu docs-menu">
+    <a class="menu-item {% if page.url == '/seminars/' %}selected{% endif %}" href="{{ "/seminars/" | relative_url }}">
+      All Seminars 
+      <span class="counter">{% include total-paper-count.html %}</span>
+    </a>
+    {% assign grouped_seminars = site.seminars |  group_by:"year" %}
+{% for group in grouped_seminars %}
+{% assign sorted_seminars = group.items | sort:"semester" | reverse %}
+{% for sem in sorted_seminars %}
+{% assign semurl = sem.url | replace: 'index.html', '' | relative_url %}
+  <a class="menu-item {% if page.url == sem.url %}selected{% endif %}" href="{{ semurl }}">
+   {{ sem.title }}
+   <span class="counter">{{ sem.papers | size }}</span>
+  </a>
+  {% endfor %}
+  {% endfor %}
+</nav>
+
+  </div>
+
+
+<div class="four-fifths column markdown-body">
+  
+  <div class="flash">
+  This site is a work in progress, not all seminars and papers have been added yet.
+  </div>
+
+  <h1 class="page-title">
+    {{ page.title }}
+  </h1>
+  <div class="markdown-body">
+  {{ content }}
+  
+    {% if page.showtable and page.papers %}
+    <h2>Papers and Slides</h2>
+{% assign pageurl = page.url | replace: 'index.html', '' | relative_url %}
+  
+{% assign papers_groups_date = page.papers | group_by_exp:"item", 'item.time | date: "%F" ' %}
+{% for group_papers_date in papers_groups_date %}
+{% if group_papers_date.name %}<h3>{{ group_papers_date.name | date: "%A, %-d %B %Y" }}</h3> {% endif %}
+
+{% assign papers_groups_room = group_papers_date.items | group_by:"room" %}
+{% for group_papers_room in papers_groups_room %}
+{% if group_papers_room.name %}<h3>{{ group_papers_room.name }}</h3>{% endif %}
+
+  <table>
+  <tr>
+  <th>Time</th>
+  <th>Author</th>
+  <th>Title</th>
+  <th>Slides</th>
+  </tr>
+  {% assign sorted_papers = group_papers_room.items | sort: 'time' %}
+  {% for paper in sorted_papers %}
+  <tr>
+    <td>{{ paper.time | date: "%-I:%M %p"}}</td>
+    <td>{{ paper.author }}</td>
+    <td>{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}</td>
+    <td>{% if paper.slides %}<a href="{{ pageurl }}{{ paper.slides }}">Slides</a>{% elsif paper.slidesurl %}<a href="{{ paper.slidesurl }}">Slides</a>{% endif %}</td>
+  </tr>
+  {% endfor %}
+  </table>
+  {% endfor %}
+  {% endfor %}
+{% endif %}
+    </div>
+  </div>
+</div>

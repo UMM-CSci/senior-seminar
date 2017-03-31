@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="columns docs-layout">
+  <div class="one-fourth column">
+      
+  	<nav class="menu docs-menu">
+  	{% assign sorted_res = site.resources | sort:"order" %}
+  	{% for res in sorted_res %}
+  <a class="menu-item {% if page.url == res.url %}selected{% endif %}" href="{{ site.baseurl }}{{ res.url }}">
+   {{ res.title }}
+  </a>
+  {% endfor %}
+</nav>
+
+  </div>
+  <div class="three-fourths column markdown-body">
+    {% comment %}
+    <h1 class="page-title">
+      {{ page.title }}
+    </h1>
+    {% endcomment %}
+    <div class="markdown-body">
+      {{ content }}
+    </div>
+  </div>
+</div>
