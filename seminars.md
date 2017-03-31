@@ -39,13 +39,11 @@ match_collection: seminars
 </table>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js" integrity="sha256-YqOIp4MygNx9/lcWr5lpcR88Ki/MNMWvJJkH0eK+fHM=" crossorigin="anonymous"></script>
-
 <script type="text/javascript">
 	var options = {
 		  valueNames: [ 'seminar-title', 'author', 'title' ]
 	};
 
-	var semList = new List('papers', options);
-
 </script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js" integrity="sha256-YqOIp4MygNx9/lcWr5lpcR88Ki/MNMWvJJkH0eK+fHM=" crossorigin="anonymous" onload="var semList = new List('papers', options);"></script>
