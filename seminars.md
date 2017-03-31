@@ -19,14 +19,15 @@ match_collection: seminars
 </tr>
 </thead>
 <tbody class="list">
-{% assign grouped_seminars = site.seminars |  group_by:"year" %}
+{% assign grouped_seminars = site.seminars |  group_by:"year"%}
 {% for group in grouped_seminars %}
-{% assign sorted_seminars = group.items | sort:"semester" | reverse %}
+{% assign sorted_seminars = group.items | where_exp:"item", "item.papers" | sort:"semester" | reverse %}
 {% for sem in sorted_seminars %}
 {% assign pageurl = sem.url | replace: 'index.html', '' | relative_url %}
-{% for paper in sem.papers %}
+{% assign sorted_papers = sem.papers | sort: 'time' %}
+{% for paper in sorted_papers %}
 <tr>
-  <td class="seminar-title">{{ sem.title }}</td>
+  <td class="seminar-title"><a href="{{ pageurl }}">{{ sem.title }}</a></td>
   <td class="author">{{ paper.author }}</td>
   <td class="title">{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}</td>
   <td>{% if paper.slides %}<a href="{{ pageurl }}{{ paper.slides }}">Slides</a>{% elsif paper.slidesurl %}<a href="{{ paper.slidesurl }}">Slides</a>{% endif %}</td>

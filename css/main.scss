@@ -8,6 +8,8 @@
 
 @import "primer-markdown/index.scss";
 
+@import "primer-blankslate/index.scss";
+@import "primer-alerts/index.scss";
 
 
 // Make containers responsive
@@ -208,4 +210,8 @@ $main-nav-color: $bg-blue;
 
 .turbolinks-progress-bar {
   background-color: $blue-200;
+}
+
+table {
+    width:100%;
 }
