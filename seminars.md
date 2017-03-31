@@ -24,7 +24,7 @@ match_collection: seminars
 {% assign sorted_seminars = group.items | where_exp:"item", "item.papers" | sort:"semester" | reverse %}
 {% for sem in sorted_seminars %}
 {% assign pageurl = sem.url | replace: 'index.html', '' | relative_url %}
-{% assign sorted_papers = sem.papers | sort: 'time' %}
+{% assign sorted_papers = sem.papers | where_exp:"item", "item.break != true" | sort: 'time' %}
 {% for paper in sorted_papers %}
 <tr>
   <td class="seminar-title"><a href="{{ pageurl }}">{{ sem.title }}</a></td>
