@@ -17,7 +17,7 @@ layout: default
 {% assign semurl = sem.url | replace: 'index.html', '' | relative_url %}
   <a class="menu-item {% if page.url == sem.url %}selected{% endif %}" href="{{ semurl }}">
    {{ sem.title }}
-   <span class="counter">{{ sem.papers | size }}</span>
+   <span class="counter">{{ sem.papers | where_exp:"item", "item.break != true" | size }}</span>
   </a>
   {% endfor %}
   {% endfor %}
