@@ -51,7 +51,7 @@ papers:
     slides: Lehetslides.pdf
     time: 2016-11-19 2:00 PM
 
-  - title: SQL and NoSQL: Comparing Modern Databases
+  - title: "SQL and NoSQL: Comparing Modern Databases"
     author: Ryan McArthur
     pdf: McArthur.pdf
     slides: McArthurslides.pdf
