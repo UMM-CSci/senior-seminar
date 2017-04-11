@@ -2,7 +2,6 @@
 title: "Fall 2016"
 year: 2016
 semester: fall
-seminar_date: 2016-11-12
 
 papers:
   - title: Modeling Facial Expressions in 3D Avatars from 2D Images
