@@ -23,10 +23,6 @@ papers:
     slides: Bayerslides.pdf
     time: 2016-11-12 2:00 PM
 
-  - title: Break
-    time: 2016-11-12 2:30 PM
-    break: true
-
   - title: Adding functional stye pattern matching features to object-oriented languages
     author: Joseph Thelen
     pdf: Thelen.pdf
@@ -56,10 +52,6 @@ papers:
     slides: Lehetslides.pdf
     time: 2016-11-19 2:00 PM
 
-  - title: Break
-    time: 2016-11-19 2:30 PM
-    break: true
-
   - title: SQL and NoSQL: Comparing Modern Databases
     author: Ryan McArthur
     pdf: McArthur.pdf
@@ -71,6 +63,15 @@ papers:
     pdf: Stelljes.pdf
     slides: Stelljesslides.pdf
     time: 2016-11-19 3:15 PM
+
+  - title: Break
+    time: 2016-11-19 2:30 PM
+    break: true
+
+  - title: Break
+    time: 2016-11-12 2:30 PM
+    break: true
+
 ---
 
 The CSci discipline invites you to Fall 2016 Senior Seminar conference on Saturday, November 12, 2016, and Saturday, November 19, 2016. The talks will be held from 1:00pm–3:45pm in Sci 1020. Refreshments will be served. Papers and presentations that were evaluated as deserving a distinction are marked with 🌟(the papers will be marked later).
