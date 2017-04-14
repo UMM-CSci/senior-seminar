@@ -89,7 +89,6 @@ papers:
     time: 2017-04-15 1:00 PM
     room: Sci 3610
     break: true
-
 ---
 
 The CSci discipline invites you to Spring 2016 Senior Seminar conference on Saturday, 15 April 2017. The talks will be held from 11:00am–4:00pm in Sci 3610 and 3650.

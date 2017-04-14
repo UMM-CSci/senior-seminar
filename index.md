@@ -15,12 +15,12 @@ layout: base
 <div class="columns">
   <div class="one-half column">
     <h2>{{ site.seminars | size }} Past Seminars</h2>
-    <p>View papers and slides from past senior seminars</p>
+    <p>View papers and slides from past senior seminars.</p>
     <a href="{{ "/seminars/" | relative_url }}" class="btn btn-outline" role="button">View Seminars</a>
   </div>
   <div class="one-half column">
     <h2>Resources</h2>
-    <p>Resources for students</p>
+    <p>Resources for students.</p>
     <a href="{{ "/resources/" | relative_url }}" class="btn btn-outline" role="button">View Resources</a>
   </div>
 </div>

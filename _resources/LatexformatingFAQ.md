@@ -89,5 +89,3 @@ If you don't want those pesky presentation controls on your slides during your p
 ```
 
 (Courtesy of Dillon Stenberg - 03 Dec 2015.)
-
--- Main.elenam - 08 Oct 2009 
