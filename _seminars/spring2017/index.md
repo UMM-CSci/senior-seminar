@@ -40,7 +40,7 @@ papers:
     time: 2017-04-15 3:00 PM
     room: Sci 3610
 
-  - title: Real-Time Global Illumination Using Precomputed Light Field Probes
+  - title: An Overview of Modern Global Illumination
     author: Skye Antinozzi 
     time: 2017-04-15 3:30 PM
     room: Sci 3610
