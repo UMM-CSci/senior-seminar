@@ -7,49 +7,49 @@ seminar_date: 2017-04-15
 papers:
   - title: Alpha-beta Pruning in Chess Engines
     author: Otto Marckel
-    pdf: Marckel.pdf
+    pdf: marckel.pdf
     time: 2017-04-15 11:00 AM
     room: Sci 3610
 
   - title: Protein Threading Algorithms used in Protein Structures Prediction
     author: Yuting Xiao
-    pdf: Xiao.pdf
+    pdf: xiao.pdf
     time: 2017-04-15 11:30 AM
     room: Sci 3610
 
   - title: Data Dependent Hashing for approximate nearest neighbor searching
     author: Matthew Kangas
-    pdf: Kangas.pdf
+    pdf: kangas.pdf
     time: 2017-04-15 12:00 PM
     room: Sci 3610
 
   - title: Identifying Twitter Spam by Utilizing Random Forests
     author: Humza Haider
-    pdf: Haider.pdf
+    pdf: haider.pdf
     time: 2017-04-15 12:30 PM
     room: Sci 3610
 
   - title: Conflict-Free Vertex Coloring Of Planar Graphs
     author: Shawn Seymour
-    pdf: Seymour.pdf
+    pdf: seymour.pdf
     time: 2017-04-15 2:00 PM
     room: Sci 3610
 
   - title: Through-Wall Imaging Technology
     author: Travis Mitchell
-    pdf: Mitchellt.pdf
+    pdf: mitchellt.pdf
     time: 2017-04-15 2:30 PM
     room: Sci 3610
 
   - title: Mobile Phone Touchscreen Accessibility for Older Adults
     author: Ai Sano
-    pdf: Sano.pdf
+    pdf: sano.pdf
     time: 2017-04-15 3:00 PM
     room: Sci 3610
 
   - title: An Overview of Modern Global Illumination
     author: Skye Antinozzi
-    pdf: Antinozzi.pdf
+    pdf: antinozzi.pdf
     time: 2017-04-15 3:30 PM
     room: Sci 3610
 
@@ -60,37 +60,37 @@ papers:
 
   - title: "Procedural Content Generation: Techniques and Applications"
     author: Richard Stangl
-    pdf: Stangl.pdf
+    pdf: stangl.pdf
     time: 2017-04-15 11:30 AM
     room: Sci 3650
 
   - title: Convolutional Neural Networks in Medical Imaging
     author: Mitchell Finzel
-    pdf: Finzel.pdf
+    pdf: finzel.pdf
     time: 2017-04-15 12:00 AM
     room: Sci 3650
 
   - title: Automating Algorithm Design through Genetic Programming Hyper-Heuristics
     author: Elsa Browning
-    pdf: Browning.pdf
+    pdf: browning.pdf
     time: 2017-04-15 12:30 PM
     room: Sci 3650
 
   - title: Data Mining Methods for Sports Prediction
     author: Jacob Mitchell
-    pdf: Mitchellj.pdf
+    pdf: mitchellj.pdf
     time: 2017-04-15 2:00 PM
     room: Sci 3650
 
   - title: Image Capture Through Computational photography
     author: Myles Gavic
-    pdf: Gavic.pdf
+    pdf: gavic.pdf
     time: 2017-04-15 2:30 PM
     room: Sci 3650
 
   - title: Coordination Schemes for Autonomous Vehicles
     author: Jack Ziegler
-    pdf: Ziegler.pdf
+    pdf: ziegler.pdf
     time: 2017-04-15 3:00 PM
     room: Sci 3650
 
