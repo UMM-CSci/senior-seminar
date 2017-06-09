@@ -9,11 +9,13 @@ papers:
     author: Otto Marckel
     time: 2017-04-15 11:00 AM
     room: Sci 3610
+    distinctionslides: true
 
   - title: Protein Threading Algorithms used in Protein Structures Prediction
     author: Yuting Xiao
     time: 2017-04-15 11:30 AM
     room: Sci 3610
+    distinctionslides: true
 
   - title: Data Dependent Hashing for approximate nearest neighbor searching
     author: Matthew Kangas
@@ -24,11 +26,13 @@ papers:
     author: Humza Haider
     time: 2017-04-15 12:30 PM
     room: Sci 3610
+    distinctionslides: true
 
   - title: Conflict-Free Vertex Coloring Of Planar Graphs
     author: Shawn Seymour
     time: 2017-04-15 2:00 PM
     room: Sci 3610
+    distinctionslides: true
 
   - title: Through-Wall Imaging Technology
     author: Travis Mitchell 
@@ -44,11 +48,13 @@ papers:
     author: Skye Antinozzi 
     time: 2017-04-15 3:30 PM
     room: Sci 3610
+    distinctionslides: true
 
   - title: Security and Usability of Graphical Authentication
     author: Kyle Hakala
     time: 2017-04-15 11:00 AM
     room: Sci 3650
+    distinctionslides: true
 
   - title: "Procedural Content Generation: Techniques and Applications"
     author: Richard Stangl 
@@ -59,11 +65,13 @@ papers:
     author: Mitchell Finzel 
     time: 2017-04-15 12:00 AM
     room: Sci 3650
+    distinctionslides: true
 
   - title: Automating Algorithm Design through Genetic Programming Hyper-Heuristics
     author: Elsa Browning 
     time: 2017-04-15 12:30 PM
     room: Sci 3650
+    distinctionslides: true
 
   - title: Data Mining Methods for Sports Prediction
     author: Jacob Mitchell 
@@ -74,6 +82,7 @@ papers:
     author: Myles Gavic 
     time: 2017-04-15 2:30 PM
     room: Sci 3650
+    distinctionslides: true
 
   - title: Coordination Schemes for Autonomous Vehicles
     author: Jack Ziegler 
@@ -92,3 +101,4 @@ papers:
 ---
 
 The CSci discipline invites you to Spring 2016 Senior Seminar conference on Saturday, 15 April 2017. The talks will be held from 11:00am–4:00pm in Sci 3610 and 3650.
+

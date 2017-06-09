@@ -37,5 +37,3 @@ papers:
 The CSci discipline invites you to Spring 2015 Senior Seminar conference on Saturday, April 25 2015. The talks will be held 12:30-3:40pm in Sci 1020. Refreshments will be served. 
 
 Many thanks to those who provided feedback for this semesters' students: Jim Hall and the alumni reviewers Stephen Adams, Lucas Ellgren, Justin Mullin, David Ruprecht, Tim Snyder, and Scott Steffes.
-
-Papers and presentations that were evaluated as deserving a distinction are marked with 🌟 (this will be done after the conference). 

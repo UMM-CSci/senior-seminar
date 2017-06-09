@@ -40,6 +40,9 @@ layout: default
   
     {% if page.showtable and page.papers %}
     <h2>Papers and Slides</h2>
+
+<p>Papers and presentations that were evaluated as deserving a distinction are marked with &#x2B50.</p>
+
 {% assign pageurl = page.url | replace: 'index.html', '' | relative_url %}
   
 {% assign papers_groups_date = page.papers | group_by_exp:"item", 'item.time | date: "%F" ' %}
@@ -62,8 +65,8 @@ layout: default
   <tr>
     <td>{{ paper.time | date: "%-I:%M %p"}}</td>
     <td>{{ paper.author }}</td>
-    <td>{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}</td>
-    <td>{% if paper.slides %}<a href="{{ pageurl }}{{ paper.slides }}">Slides</a>{% elsif paper.slidesurl %}<a href="{{ paper.slidesurl }}">Slides</a>{% endif %}</td>
+    <td>{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}{% if paper.distinctionpaper %}&#x2B50{% endif %}</td>
+    <td>{% if paper.slides %}<a href="{{ pageurl }}{{ paper.slides }}">Slides</a>{% elsif paper.slidesurl %}<a href="{{ paper.slidesurl }}">Slides</a>{% endif %}{% if paper.distinctionslides %}&#x2B50{% endif %}</td>
   </tr>
   {% endfor %}
   </table>
