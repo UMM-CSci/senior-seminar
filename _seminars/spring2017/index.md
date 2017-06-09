@@ -35,6 +35,7 @@ papers:
     time: 2017-04-15 12:30 PM
     room: Sci 3610
     distinctionslides: true
+    distinctionpaper: true
 
   - title: Conflict-Free Vertex Coloring Of Planar Graphs
     author: Shawn Seymour
@@ -43,6 +44,7 @@ papers:
     time: 2017-04-15 2:00 PM
     room: Sci 3610
     distinctionslides: true
+    distinctionpaper: true
 
   - title: Through-Wall Imaging Technology
     author: Travis Mitchell
@@ -57,6 +59,7 @@ papers:
     slides: sanoslides.pdf
     time: 2017-04-15 3:00 PM
     room: Sci 3610
+    distinctionpaper: true
 
   - title: An Overview of Modern Global Illumination
     author: Skye Antinozzi
@@ -65,6 +68,7 @@ papers:
     time: 2017-04-15 3:30 PM
     room: Sci 3610
     distinctionslides: true
+    distinctionpaper: true
 
   - title: Security and Usability of Graphical Authentication
     author: Kyle Hakala
@@ -87,6 +91,7 @@ papers:
     time: 2017-04-15 12:00 AM
     room: Sci 3650
     distinctionslides: true
+    distinctionpaper: true
 
   - title: Automating Algorithm Design through Genetic Programming Hyper-Heuristics
     author: Elsa Browning
