@@ -36,5 +36,3 @@ papers:
 The CSci discipline invites you to fall 2011  Senior Seminar conference on Saturday, April 30, 2016. The talks will be held from 1:00pm–4:00pm in Sci 1020. Refreshments will be served. 
 
 Many thanks to alumni reviewers who provided feedback for our students: Kevin Arhelger, Sara Drenner, Justin Mullin, Chris Olson, Chad Seibert, and Jacob Thebault-Spieker.
-
-Papers and presentations that were evaluated as deserving a distinction are marked with 🌟. 

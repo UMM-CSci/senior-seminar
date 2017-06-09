@@ -72,6 +72,6 @@ papers:
     break: true
 ---
 
-The CSci discipline invites you to Fall 2016 Senior Seminar conference on Saturday, November 12, 2016, and Saturday, November 19, 2016. The talks will be held from 1:00pm–3:45pm in Sci 1020. Refreshments will be served. Papers and presentations that were evaluated as deserving a distinction are marked with 🌟(the papers will be marked later).
+The CSci discipline invites you to Fall 2016 Senior Seminar conference on Saturday, November 12, 2016, and Saturday, November 19, 2016. The talks will be held from 1:00pm–3:45pm in Sci 1020. Refreshments will be served.
 
 Many thanks to the alumni reviewers who provided feedback for this semesters' students: Stephen Adams, Kevin Arhelger, Maggie Casale, Kirbie Dramdahl, Martha Heaney, Matthew Justin, Jeff Lindblom, Matthew Linder, Jacob Opdahl, Skatje Myers.

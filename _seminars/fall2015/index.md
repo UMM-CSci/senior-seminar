@@ -70,5 +70,3 @@ papers:
 The CSci discipline invites you to Fall 2015 Senior Seminar conference on Saturday, December 5, 2015. The talks will be held from 10:00am–2:00pm in Sci 1020 & 1030. Refreshments will be served.
 
 Many thanks to the alumni reviewers who provided feedback for this semesters' students: Kevin Arhelger, Ian Buck, Kirbie Dramdahl, Sara Drenner, Brian Goslinga, Melissa Helgeson, Ashley Koch, Sara Lahr, Andrew Latterner, Jeff Lindblom, Max Magnuson, Will Martin, Justin Mullin, and Scott Steffes.
-
-Papers and presentations that were evaluated as deserving a distinction are marked with 🌟. 

@@ -33,5 +33,3 @@ papers:
 The Fall, 2013, Senior Seminar conference is 1:00-3pm in Sci 1020 on Saturday, 7 Dec, 2013.
 
 Many thanks to the alumni reviewers who provided feedback this semesters' students: Stephen Adams, Dan Flies, Brian Goslinga, Alex Jarvis, Elijah Mayfield, and Skatje Myers.
-
-Papers and presentations that were evaluated as deserving a distinction are marked with 🌟. 

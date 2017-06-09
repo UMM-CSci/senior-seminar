@@ -51,5 +51,3 @@ papers:
 ---
 
 The CSci discipline invites you to Spring2014 Senior Seminar conference on Monday, April 28 and Tuesday, April 29 2014. Refreshments will be served. 
-
-Papers and presentations that were evaluated as deserving a distinction are marked with 🌟 (this will be done after the conference).

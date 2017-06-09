@@ -54,9 +54,5 @@ papers:
 ---
 
 The Fall, 2014, Senior Seminar conference is 10:00am-12:30pm in Sci 2200 on Saturday, 6 Dec, 2014.
- Papers and presentations that were evaluated as deserving a distinction are marked with 🌟(this will be done after the conference). 
 
 Many thanks to the alumni reviewers who provided feedback for this semesters' students: Stephen Adams, Kevin Arhelger, Melissa Helgeson, Alex Jarvis, Ashley Koch, Andrew Latterner, Wayne Manselle, Chad Seibert, Scott Steffes, and Chris Thomas.
-
-Papers and presentations that were evaluated as deserving a distinction are marked with 🌟. 
-

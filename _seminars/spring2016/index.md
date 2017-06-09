@@ -44,6 +44,7 @@ papers:
     author: Matthew Linder
     pdf: linder.pdf
     slides: linderslides.pdf
+    distinctionslides: true
  
   - title: Coordinating Multi-Robot Systems
     author: Henry T. Megarry
@@ -57,6 +58,7 @@ papers:
     author: Brian Mitchell
     pdf: mitchell.pdf
     slides: mitchellslides.pdf
+    distinctionslides: true
   
   - title: Combination of Video Streaming Technologies as CDN/P2P Hybrid & ABR/P2P Hybrid
     author: Andrew L. Peterson
@@ -74,7 +76,5 @@ papers:
 
 The CSci discipline invites you to Spring 2016 Senior Seminar conference on Saturday, April 30, 2016. The talks will be held from 11:00am–4:00pm in Sci 3610 & 3650.
 Refreshments will be served.
-
-Papers and presentations that were evaluated as deserving a distinction are marked with 🌟(the papers will be marked later). 
 
 Many thanks to the alumni reviewers who provided feedback for this semesters' students: Stephen Adams, Kevin Arhelger, Kirbie Dramdahl, Brian Goslinga, Alex Jarvis, Andrew Latterner, Max Magnuson, Wayne Manselle, Will Martin, Mike Maurer, Skatje Myers, Danielle Schatschneider, Paul Schliep, Scott Steffes, and Jacob Thebault-Spieker.
