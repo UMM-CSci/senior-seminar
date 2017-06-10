@@ -59,7 +59,7 @@ Each student works with a faculty advisor on a chosen topic. Your advisor is one
 Usually you meet with your advisor once a week and submit all of your intermediate work (bibliography, drafts, etc) to them, in addition to the course instructor. Your advisor gives you feedback on intermediate drafts and helps you in all aspects of the course, from narrowing down a topic and literature search to practice presentations. Your advisor is the first source of help when you are stuck or have a question. Meeting with your advisor regularly and seeking their help as soon as an issue arises is essential for the success in the course.
 
 ### Texts and other materials
-Your key source of materials will be research literature in the field. We'll talk about how to find things in class, and your advisor can be a big help there as well. There are also some useful links on the [resources page](index.md).
+Your key source of materials will be research literature in the field. We'll talk about how to find things in class, and your advisor can be a big help there as well. There are also some useful links on the [resources page](https://umm-csci.github.io/senior-seminar/resources/seniorsemresources.html).
 
 ### Course work and grading
 Grades in CSci 4901 are determined by the CSci faculty as a whole, usually right after the presentations. Grades will be based on the following:
@@ -75,7 +75,7 @@ Grades in CSci 4901 are determined by the CSci faculty as a whole, usually right
 The above items are all important, in slightly different contexts, for almost any career you may choose.
 
 
-Additionally check out [Cookie System](cookieResources.md) for important grading information.
+Additionally check out [Cookie System](https://umm-csci.github.io/senior-seminar/resources/cookieResources.html) for important grading information.
 
 The CSci faculty may choose to acknowledge certain papers or presentations as deserving a distinction (informally known as *Gold Star*) as an indication of their unusually high quality. Getting a gold star corresponds to passing senor seminar with distinction. While this is not formally reflected in the grade, it's a great thing to put on your resume or grad school application.
 
