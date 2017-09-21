@@ -33,6 +33,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-optional-front-matter
   - jemoji
+  - jekyll-github-metadata
 
 
 collections:

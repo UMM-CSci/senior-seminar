@@ -27,15 +27,11 @@ layout: default
 
 
 <div class="four-fifths column markdown-body">
-  
-<!--   <div class="flash">
-  This site is a work in progress, not all seminars and papers have been added yet.
-  </div> -->
-
   <h1 class="page-title">
     {{ page.title }}
+    <a class="btn btn-outline float-right" href="{% github_edit_link %}" role="button">Edit on GitHub</a>
   </h1>
-  <div class="markdown-body">
+
   {{ content }}
   
     {% if page.showtable and page.papers %}
@@ -73,6 +69,5 @@ layout: default
   {% endfor %}
   {% endfor %}
 {% endif %}
-    </div>
   </div>
 </div>
