@@ -12,4 +12,4 @@ Papers and slides:
 - [Spring 2012](Spring2012)
 - [Fall 2011](Fall2011) 
 - [Spring 2011](Spring2011) 
-- [Fall 2010](Fall2010)  
+- [Fall 2010](Fall2010)
