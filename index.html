@@ -4,8 +4,8 @@ order: 1
 layout: base
 ---
 
-{% assign sorted_seminars = site.seminars | sort:"year" | reverse %}
-{% assign recent_sem = sorted_seminars.first %}
+{% assign grouped_seminars = site.seminars |  group_by:"year" | reverse %}
+{% assign recent_sem =  grouped_seminars.first.items.first %}
 
 <div class="jumbotron">
 <div class="container">
