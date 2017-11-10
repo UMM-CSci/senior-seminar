@@ -49,9 +49,16 @@ layout: default
 {% for group_papers_room in papers_groups_room %}
 {% if group_papers_room.name %}<h3>{{ group_papers_room.name }}</h3>{% endif %}
 
+{% assign show_time = false %}
+{% for paper in group_papers_room.items %}
+{% if paper.time %}
+{% assign show_time = true %}
+{% endif %}
+{% endfor %}
+
   <table>
   <tr>
-  <th>Time</th>
+  {% if show_time %}<th>Time</th>{% endif %}
   <th>Author</th>
   <th>Title</th>
   <th>Slides</th>
@@ -59,7 +66,7 @@ layout: default
   {% assign sorted_papers = group_papers_room.items | sort: 'time' %}
   {% for paper in sorted_papers %}
   <tr>
-    <td>{{ paper.time | date: "%-I:%M %p"}}</td>
+    {% if show_time %}<td>{{ paper.time | date: "%-I:%M %p"}}</td>{% endif %}
     <td>{{ paper.author }}</td>
     <td>{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}{% if paper.distinctionpaper %}&#x2B50{% endif %}</td>
     <td>{% if paper.slides %}<a href="{{ pageurl }}{{ paper.slides }}">Slides</a>{% elsif paper.slidesurl %}<a href="{{ paper.slidesurl }}">Slides</a>{% endif %}{% if paper.distinctionslides %}&#x2B50{% endif %}</td>
