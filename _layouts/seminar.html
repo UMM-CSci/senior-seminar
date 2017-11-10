@@ -10,9 +10,9 @@ layout: default
       All Seminars 
       <span class="counter">{% include total-paper-count.html %}</span>
     </a>
-    {% assign grouped_seminars = site.seminars |  group_by:"year" %}
+    {% assign grouped_seminars = site.seminars |  group_by:"year" | reverse %}
 {% for group in grouped_seminars %}
-{% assign sorted_seminars = group.items | sort:"semester" | reverse %}
+{% assign sorted_seminars = group.items | sort:"semester" %}
 {% for sem in sorted_seminars %}
 {% assign semurl = sem.url | replace: 'index.html', '' | relative_url %}
   <a class="menu-item {% if page.url == sem.url %}selected{% endif %}" href="{{ semurl }}">

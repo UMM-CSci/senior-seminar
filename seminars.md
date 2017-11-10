@@ -19,9 +19,9 @@ match_collection: seminars
 </tr>
 </thead>
 <tbody class="list">
-{% assign grouped_seminars = site.seminars |  group_by:"year"%}
+{% assign grouped_seminars = site.seminars |  group_by:"year" | reverse %}
 {% for group in grouped_seminars %}
-{% assign sorted_seminars = group.items | where_exp:"item", "item.papers" | sort:"semester" | reverse %}
+{% assign sorted_seminars = group.items | where_exp:"item", "item.papers" | sort:"semester" %}
 {% for sem in sorted_seminars %}
 {% assign pageurl = sem.url | replace: 'index.html', '' | relative_url %}
 {% assign sorted_papers = sem.papers | where_exp:"item", "item.break != true" | sort: 'time' %}
