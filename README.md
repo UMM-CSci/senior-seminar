@@ -4,14 +4,14 @@ Public materials for senior seminar, including assignments, past papers/slides, 
 Go to [Senior_seminar_templates](https://github.com/UMM-CSci/Senior_seminar_templates) to fork the paper and talk templates.
 
 ## Senior seminar materials
-   * [Course description and goals](resources/Description.md)
-   * [Senior seminar conference](resources/Senior%20seminar%20conferences.md)
-   * [Words of wisdom from previous senior seminar students](resources/Words%20of%20wisdom%20from%20past%20seniors.md) 
-   * [Cookie system](resources/cookieResources.md)
-   * [Finding sources](resources/FindingSources.md)
-   * ["Gold star" distinction](resources/Goldstardistinction.md)
-   * [Senior seminar resources](resources/seniorsemresources.md)
-   * [Key points and outline assignment](resources/Keypointsandpaperoutlines.md)
+   * [Course description and goals](_resources/Description.md)
+   * [Senior seminar conference](_resources/Senior%20seminar%20conferences.md)
+   * [Words of wisdom from previous senior seminar students](_resources/Words%20of%20wisdom%20from%20past%20seniors.md) 
+   * [Cookie system](_resources/cookieResources.md)
+   * [Finding sources](_resources/FindingSources.md)
+   * ["Gold star" distinction](_resources/Goldstardistinction.md)
+   * [Senior seminar resources](_resources/seniorsemresources.md)
+   * [Key points and outline assignment](_resources/Keypointsandpaperoutlines.md)
 
 ## Past senior seminar schedules and papers
 You can find all papers from the last few years of senior seminars and most of the presenters' slides [here](seminars/)
