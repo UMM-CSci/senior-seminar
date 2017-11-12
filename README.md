@@ -5,8 +5,8 @@ Go to [Senior_seminar_templates](https://github.com/UMM-CSci/Senior_seminar_temp
 
 ## Senior seminar materials
    * [Course description and goals](resources/Description.md)
-   * [Senior seminar conference](resources/Senior Smeminar conferences.md)
-   * [Words of wisdom from previous senior seminar students](resources/Words of wisdom from past seniors.md) 
+   * [Senior seminar conference](resources/Senior%20seminar%20conferences.md)
+   * [Words of wisdom from previous senior seminar students](resources/Words%20of%20wisdom%20from%20past%20seniors.md) 
    * [Cookie system](resources/cookieResources.md)
    * [Finding sources](resources/FindingSources.md)
    * ["Gold star" distinction](resources/Goldstardistinction.md)
