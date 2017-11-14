@@ -52,7 +52,7 @@ papers:
     
   - title: Supervised vs Unsupervised Methods in Word Sense Disambiguation
     author: Sydney Richards
-    time: 2017-11-18 3:00 PM
+    time: 2017-11-18 3:30 PM
     room: Sci 3650      
     
   - title: Break
