@@ -66,7 +66,7 @@ papers:
     break: true
 ---
 
-The CSci discipline invites you to Fall 2017 Senior Seminar conference on Saturday, November 18, 2017. The talks will be held at time TBA in Sci 3610 and 3650. Refreshments will be served.
+The CSci discipline invites you to the Fall 2017 Senior Seminar conference on Saturday, November 18, 2017. The talks will be held at 1-4pm in Sci 3610 and 3650. Refreshments will be served.
 
 Many thanks to the alumni reviewers who provided feedback for this semesters' students:
 Kevin Arhelger, Ian Buck, Mitchell Finzel, Humza Haider, Thomas Harren, Justin Mullin, Skatje Myers, Kristin Shirley, Scott Steffes, Dan Stelljes.
