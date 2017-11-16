@@ -30,7 +30,7 @@ papers:
     time: 2017-11-18 3:30 PM
     room: Sci 3610      
 
-  - title: Thread Scheduler Efficiency Improvements for Multiprocessor Multicore Systems
+  - title: Thread Scheduler Efficiency Improvements for Multicore Systems
     author: Daniel Frazier
     time: 2017-11-18 1:00 PM
     room: Sci 3650
