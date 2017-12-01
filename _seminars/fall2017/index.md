@@ -7,53 +7,67 @@ seminar_date: 2017-11-18
 papers:
   - title: Improving User Experience using Haptic Feedback
     author: Benjamin Sixel
+    pdf: sixel.pdf
     time: 2017-11-18 1:00 PM
     room: Sci 3610
     
   - title: Lifelogging Mashup and Implementation of Various Databases
     author: Luz Lopez
+    pdf: lopez.pdf
     time: 2017-11-18 1:30 PM
     room: Sci 3610   
     
   - title: Improving Performance in the Tor Network
     author: Laverne Schrock
+    pdf: shrock.pdf
     time: 2017-11-18 2:00 PM
     room: Sci 3610
+    distinctionslides: true
     
   - title: Machine Learning and Music Composition
     author: Daniel Woeste
+    pdf: woeste.pdf
     time: 2017-11-18 3:00 PM
     room: Sci 3610 
     
   - title: Foveated Rendering in Virtual Reality
     author: Sam Miller
+    pdf: miller.pdf
     time: 2017-11-18 3:30 PM
-    room: Sci 3610      
+    room: Sci 3610
+    distinctionslides: true
 
   - title: Thread Scheduler Efficiency Improvements for Multicore Systems
     author: Daniel Frazier
+    pdf: frazier.pdf
     time: 2017-11-18 1:00 PM
     room: Sci 3650
     
   - title: Improving Privacy of Blockchains
     author: Emily Schaefer
+    pdf: schaefer.pdf
     time: 2017-11-18 1:30 PM
     room: Sci 3650   
     
   - title: Neural Machine Translation Techniques Used By Google
     author: Sophia Mitchellette
+    pdf: mitchellette.pdf
     time: 2017-11-18 2:00 PM
     room: Sci 3650
+    distinctionslides: true
     
   - title: Point-of-Interest Recommendation Systems in Location-Based Social Networks
     author: Tony Song
+    pdf: song.pdf
     time: 2017-11-18 3:00 PM
     room: Sci 3650 
     
   - title: Supervised vs Unsupervised Methods in Word Sense Disambiguation
     author: Sydney Richards
+    pdf: richards.pdf
     time: 2017-11-18 3:30 PM
-    room: Sci 3650      
+    room: Sci 3650
+    distinctionslides: true
     
   - title: Break
     time: 2017-11-18 2:30 PM
