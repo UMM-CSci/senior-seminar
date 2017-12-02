@@ -8,18 +8,21 @@ papers:
   - title: Improving User Experience using Haptic Feedback
     author: Benjamin Sixel
     pdf: sixel.pdf
+    slides: sixelslides.pdf
     time: 2017-11-18 1:00 PM
     room: Sci 3610
     
   - title: Lifelogging Mashup and Implementation of Various Databases
     author: Luz Lopez
     pdf: lopez.pdf
+    slides: lopezslides.pdf
     time: 2017-11-18 1:30 PM
     room: Sci 3610   
     
   - title: Improving Performance in the Tor Network
     author: Laverne Schrock
     pdf: shrock.pdf
+    slides: shrockslides.pdf
     time: 2017-11-18 2:00 PM
     room: Sci 3610
     distinctionslides: true
@@ -27,12 +30,14 @@ papers:
   - title: Machine Learning and Music Composition
     author: Daniel Woeste
     pdf: woeste.pdf
+    slides: woesteslides.pdf
     time: 2017-11-18 3:00 PM
     room: Sci 3610 
     
   - title: Foveated Rendering in Virtual Reality
     author: Sam Miller
     pdf: miller.pdf
+    slides: millerslides.pdf
     time: 2017-11-18 3:30 PM
     room: Sci 3610
     distinctionslides: true
@@ -40,18 +45,21 @@ papers:
   - title: Thread Scheduler Efficiency Improvements for Multicore Systems
     author: Daniel Frazier
     pdf: frazier.pdf
+    slides: frazierslides.pdf
     time: 2017-11-18 1:00 PM
     room: Sci 3650
     
   - title: Improving Privacy of Blockchains
     author: Emily Schaefer
     pdf: schaefer.pdf
+    slides: schaeferslides.pdf
     time: 2017-11-18 1:30 PM
     room: Sci 3650   
     
   - title: Neural Machine Translation Techniques Used By Google
     author: Sophia Mitchellette
     pdf: mitchellette.pdf
+    slides: mitchelletteslides.pdf
     time: 2017-11-18 2:00 PM
     room: Sci 3650
     distinctionslides: true
@@ -59,12 +67,14 @@ papers:
   - title: Point-of-Interest Recommendation Systems in Location-Based Social Networks
     author: Tony Song
     pdf: song.pdf
+    slides: songslides.pdf
     time: 2017-11-18 3:00 PM
     room: Sci 3650 
     
   - title: Supervised vs Unsupervised Methods in Word Sense Disambiguation
     author: Sydney Richards
     pdf: richards.pdf
+    slides: richardslides.pdf
     time: 2017-11-18 3:30 PM
     room: Sci 3650
     distinctionslides: true
