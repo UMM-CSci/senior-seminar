@@ -21,7 +21,7 @@ papers:
     
   - title: Improving Performance in the Tor Network
     author: Laverne Schrock
-    pdf: shrock.pdf
+    pdf: schrock.pdf
     slides: shrockslides.pdf
     time: 2017-11-18 2:00 PM
     room: Sci 3610
