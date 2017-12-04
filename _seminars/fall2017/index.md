@@ -74,7 +74,7 @@ papers:
   - title: Supervised vs Unsupervised Methods in Word Sense Disambiguation
     author: Sydney Richards
     pdf: richards.pdf
-    slides: richardslides.pdf
+    slides: richardsslides.pdf
     time: 2017-11-18 3:30 PM
     room: Sci 3650
     distinctionslides: true
