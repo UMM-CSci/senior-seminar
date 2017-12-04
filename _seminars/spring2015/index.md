@@ -25,8 +25,8 @@ papers:
     slides: Millerslides.pdf
  
   - title: Evolving Neural Networks in NPCs in Video Games
-    author: Katie Reddermann
-    pdf: Reddermann.pdf
+    author: Katie Reddemann
+    pdf: Reddemann.pdf
  
   - title: Usability of Error Messages for Introductory Students
     author: Paul A. Schliep
