@@ -1,0 +1,60 @@
+---
+title: Tags
+layout: default
+---
+
+<div class="markdown-body">
+
+<h1>Tags</h1>
+
+{% assign unique-sorted-tags = site.seminars | map: "papers" | map: "tags" | compact | uniq | sort %}
+
+<ul>
+{% for tag in unique-sorted-tags %}
+<li><a href="#tag-{{tag}}">{{ tag }}</a></li>
+{% endfor %}
+</ul>
+
+
+{% for tag in unique-sorted-tags %}
+<div id="tag-{{tag}}">
+<h2>{{ tag }}</h2>
+<table>
+<thead>
+<tr>
+<th>Seminar</th>
+<th>Author</th>
+<th>Title</th>
+<th>Slides</th>
+</tr>
+</thead>
+<tbody class="list">
+{% assign grouped_seminars = site.seminars |  group_by:"year" | reverse %}
+{% for group in grouped_seminars %}
+{% assign sorted_seminars = group.items | where_exp:"item", "item.papers" | sort:"semester" %}
+{% for sem in sorted_seminars %}
+{% assign pageurl = sem.url | replace: 'index.html', '' | relative_url %}
+{% assign sorted_papers = sem.papers | where_exp:"item", "item.break != true"|  where_exp:"item", "item.tags contains tag" | sort: 'time' %}
+{% for paper in sorted_papers %}
+<tr>
+  <td class="seminar-title"><a href="{{ pageurl }}">{{ sem.title }}</a></td>
+  <td class="author">{{ paper.author }}</td>
+  <td class="title">{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}
+      <br>
+      {% for tag in paper.tags %}
+      <a href="/tags#tag-{{tag}}" class="Label Label--gray">{{tag}}</a>
+      {% endfor %}
+  </td>
+  <td>{% if paper.slides %}<a href="{{ pageurl }}{{ paper.slides }}">Slides</a>{% elsif paper.slidesurl %}<a href="{{ paper.slidesurl }}">Slides</a>{% endif %}</td>
+</tr>
+{% endfor %}
+{% endfor %}
+{% endfor %}
+</tbody>
+</table>
+
+</div>
+{% endfor %}
+
+
+</div>

@@ -70,9 +70,9 @@ layout: default
     <td>{{ paper.author }}</td>
     <td>{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}{% if paper.distinctionpaper %}&#x2B50{% endif %}
       {% if paper.tags %}
-      <br>Tags: 
+      <br>
       {% for tag in paper.tags %}
-      {{tag}}, 
+      <a href="/tags#tag-{{tag}}" class="Label Label--gray">{{tag}}</a>
       {% endfor %}
       {% endif %}
     </td>
