@@ -26,13 +26,15 @@ papers:
     time: 2017-11-18 2:00 PM
     room: Sci 3610
     distinctionslides: true
+    tags: [network, tor]
     
   - title: Machine Learning and Music Composition
     author: Daniel Woeste
     pdf: woeste.pdf
     slides: woesteslides.pdf
     time: 2017-11-18 3:00 PM
-    room: Sci 3610 
+    room: Sci 3610
+    tags: [ai, machine learning]
     
   - title: Foveated Rendering in Virtual Reality
     author: Sam Miller
@@ -41,6 +43,7 @@ papers:
     time: 2017-11-18 3:30 PM
     room: Sci 3610
     distinctionslides: true
+    tags: [vr]
 
   - title: Thread Scheduler Efficiency Improvements for Multicore Systems
     author: Daniel Frazier
