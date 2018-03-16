@@ -33,7 +33,7 @@ match_collection: seminars
       {% if paper.tags %}
       <div class="paper-tags">
       {% for tag in paper.tags %}
-      <a href="/tags#tag-{{tag}}" class="Label Label--gray">{{tag}}</a>
+      <a href="{{ '/seminars/tags' | relative_url }}#tag-{{tag}}" class="Label Label--gray">{{tag}}</a>
       {% endfor %}
       </div>{% endif %}
   </td>

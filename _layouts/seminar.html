@@ -23,6 +23,15 @@ layout: default
   {% endfor %}
 </nav>
 
+
+
+<nav class="menu docs-menu">
+<a class="menu-item {% if page.url == '/seminars/tags' %}selected{% endif %}" href="{{ "/seminars/tags" | relative_url }}">
+      Tags 
+    </a>
+</nav>
+
+
   </div>
 
 
@@ -68,12 +77,13 @@ layout: default
   <tr>
     {% if show_time %}<td>{{ paper.time | date: "%-I:%M %p"}}</td>{% endif %}
     <td>{{ paper.author }}</td>
-    <td>{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}{% if paper.distinctionpaper %}&#x2B50{% endif %}
+    <td><div class="paper-title">{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}{% if paper.distinctionpaper %}&#x2B50{% endif %}</div>
       {% if paper.tags %}
-      <br>
+      <div class="paper-tags">
       {% for tag in paper.tags %}
-      <a href="/tags#tag-{{tag}}" class="Label Label--gray">{{tag}}</a>
+      <a href="{{ '/seminars/tags' | relative_url }}#tag-{{tag}}" class="Label Label--gray">{{tag}}</a>
       {% endfor %}
+      </div>
       {% endif %}
     </td>
     <td>{% if paper.slides %}<a href="{{ pageurl }}{{ paper.slides }}">Slides</a>{% elsif paper.slidesurl %}<a href="{{ paper.slidesurl }}">Slides</a>{% endif %}{% if paper.distinctionslides %}&#x2B50{% endif %}</td>

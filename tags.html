@@ -1,11 +1,9 @@
 ---
 title: Tags
-layout: default
+layout: seminar
+permalink: /seminars/tags
+select_link: /seminars/
 ---
-
-<div class="markdown-body">
-
-<h1>Tags</h1>
 
 {% assign unique-sorted-tags = site.seminars | map: "papers" | map: "tags" | compact | uniq | sort %}
 
@@ -39,10 +37,10 @@ layout: default
 <tr>
   <td class="seminar-title"><a href="{{ pageurl }}">{{ sem.title }}</a></td>
   <td class="author">{{ paper.author }}</td>
-  <td class="title"><div>{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}</div>
-      <div>
+  <td class="title"><div class="paper-title">{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}</div>
+      <div class="paper-tag">
       {% for tag in paper.tags %}
-      <a href="/tags#tag-{{tag}}" class="Label Label--gray">{{tag}}</a>
+      <a href="{{ '/seminars/tags' | relative_url }}#tag-{{tag}}" class="Label Label--gray">{{tag}}</a>
       {% endfor %}
   	</div>
   </td>
@@ -56,6 +54,3 @@ layout: default
 
 </div>
 {% endfor %}
-
-
-</div>
