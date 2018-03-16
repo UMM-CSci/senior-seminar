@@ -11,13 +11,15 @@ papers:
     slides: sixelslides.pdf
     time: 2017-11-18 1:00 PM
     room: Sci 3610
+    tags: [ux]
     
   - title: Lifelogging Mashup and Implementation of Various Databases
     author: Luz Lopez
     pdf: lopez.pdf
     slides: lopezslides.pdf
     time: 2017-11-18 1:30 PM
-    room: Sci 3610   
+    room: Sci 3610
+    tags: [database]
     
   - title: Improving Performance in the Tor Network
     author: Laverne Schrock
@@ -66,6 +68,7 @@ papers:
     time: 2017-11-18 2:00 PM
     room: Sci 3650
     distinctionslides: true
+    tags: [ai, machine learning]
     
   - title: Point-of-Interest Recommendation Systems in Location-Based Social Networks
     author: Tony Song
