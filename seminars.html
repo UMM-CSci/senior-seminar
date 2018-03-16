@@ -29,7 +29,14 @@ match_collection: seminars
 <tr>
   <td class="seminar-title"><a href="{{ pageurl }}">{{ sem.title }}</a></td>
   <td class="author">{{ paper.author }}</td>
-  <td class="title">{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}</td>
+  <td class="title"><div class="paper-title">{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}</div>
+      {% if paper.tags %}
+      <div class="paper-tags">
+      {% for tag in paper.tags %}
+      <a href="/tags#tag-{{tag}}" class="Label Label--gray">{{tag}}</a>
+      {% endfor %}
+      </div>{% endif %}
+  </td>
   <td>{% if paper.slides %}<a href="{{ pageurl }}{{ paper.slides }}">Slides</a>{% elsif paper.slidesurl %}<a href="{{ paper.slidesurl }}">Slides</a>{% endif %}</td>
 </tr>
 {% endfor %}
@@ -41,7 +48,7 @@ match_collection: seminars
 
 <script type="text/javascript">
 	var options = {
-		  valueNames: [ 'seminar-title', 'author', 'title' ]
+		  valueNames: [ 'seminar-title', 'author', 'paper-title', 'paper-tags' ]
 	};
 
 </script>

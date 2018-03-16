@@ -39,11 +39,12 @@ layout: default
 <tr>
   <td class="seminar-title"><a href="{{ pageurl }}">{{ sem.title }}</a></td>
   <td class="author">{{ paper.author }}</td>
-  <td class="title">{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}
-      <br>
+  <td class="title"><div>{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}</div>
+      <div>
       {% for tag in paper.tags %}
       <a href="/tags#tag-{{tag}}" class="Label Label--gray">{{tag}}</a>
       {% endfor %}
+  	</div>
   </td>
   <td>{% if paper.slides %}<a href="{{ pageurl }}{{ paper.slides }}">Slides</a>{% elsif paper.slidesurl %}<a href="{{ paper.slidesurl }}">Slides</a>{% endif %}</td>
 </tr>
