@@ -46,7 +46,13 @@ layout: default
     {% if page.showtable and page.papers %}
     <h2>Papers and Slides</h2>
 
+{% assign slidedistinctions = page.papers | map: "distinctionslides" | compact %}
+
+{% assign paperdistinctions = page.papers | map: "distinctionpaper" | compact %}
+
+{% if slidedistinctions contains true or paperdistinctions contains true %}
 <p>Papers and presentations that were evaluated as deserving a distinction are marked with &#x2B50.</p>
+{% endif %}
 
 {% assign show_time = false %}
 {% for paper in page.papers %}
