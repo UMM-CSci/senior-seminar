@@ -44,11 +44,14 @@ match_collection: seminars
 {% endfor %}
 </tbody>
 </table>
+<ul class="pagination"></ul>
 </div>
 
 <script type="text/javascript">
 	var options = {
-		  valueNames: [ 'seminar-title', 'author', 'paper-title', 'paper-tags' ]
+		  valueNames: [ 'seminar-title', 'author', 'paper-title', 'paper-tags' ],
+      page: 10,
+      pagination: true
 	};
 
 </script>

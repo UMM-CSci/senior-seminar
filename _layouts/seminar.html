@@ -58,6 +58,7 @@ layout: default
 {% for paper in page.papers %}
 {% if paper.time %}
 {% assign show_time = true %}
+{% break %}
 {% endif %}
 {% endfor %}
 

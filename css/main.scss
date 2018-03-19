@@ -1,7 +1,5 @@
----
-
----
-
+--- 
+--- 
 @import "primer-core/index.scss";
 @import "syntax.scss";
 
@@ -14,16 +12,72 @@
 @import "primer-alerts/index.scss";
 
 
+.pagination {
+    list-style-type: none;
+    margin: 0;
+    padding: 0 !important;
+    width: 100%
+
+    @extend .subnav-flush;
+
+
+
+    .page {
+        @extend .subnav-item;
+
+        &:first-child {
+          border-top-left-radius: 0px;
+          border-bottom-left-radius: 0px;
+        }
+
+        &:last-child {
+          border-top-right-radius: 0px;
+          border-bottom-right-radius: 0px;
+        }
+    }
+    .active .page {
+        @extend .selected;
+    }
+
+
+    li {
+        margin: 0;
+        padding: 0;
+        +li {
+            .page {
+                margin-left: -1px;
+            }
+            //margin-left: -1px;
+        }
+        &:first-child {
+            .page {
+                border-top-left-radius: 3px;
+                border-bottom-left-radius: 3px;
+            }
+        }
+
+        &:last-child {
+            .page {
+                border-top-right-radius: 3px;
+                border-bottom-right-radius: 3px;
+            }
+        }
+    }
+}
+
+
+
+
 // Make containers responsive
 .container {
-  width: auto;
-  max-width: 1020px;
-  padding-left: 20px;
-  padding-right: 20px;
+    width: auto;
+    max-width: 1020px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .markdown-body {
-  overflow: visible;
+    overflow: visible;
 }
 
 
@@ -33,187 +87,180 @@ $main-nav-color: $bg-blue;
 //
 // Site header
 //
-
 .masthead {
-  padding-top:    1rem;
-  padding-bottom: 1rem;
-  margin-bottom: 1.5rem;
-  text-align: center;
-  background-color: $main-nav-color;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+    background-color: $main-nav-color;
 
-  a {
-    color: rgba(255,255,255,.5);
+    a {
+        color: rgba(255, 255, 255, .5);
 
-    &:hover {
-      color: $text-white;
-      text-decoration: none;
+        &:hover {
+            color: $text-white;
+            text-decoration: none;
+        }
     }
-  }
-
-  .masthead-logo {
-    display: inline-block;
-    font-size: 1.5rem;
-    color: $text-white;
-
-    .mega-octicon {
-      float: left;
-      margin-right: .5rem;
-    }
-  }
-
-  @media (min-width: 34em) {
-    text-align: left;
 
     .masthead-logo {
-      float: left;
+        display: inline-block;
+        font-size: 1.5rem;
+        color: $text-white;
+
+        .mega-octicon {
+            float: left;
+            margin-right: .5rem;
+        }
     }
-  }
+
+    @media (min-width: 34em) {
+        text-align: left;
+
+        .masthead-logo {
+            float: left;
+        }
+    }
 }
 
 .masthead-nav {
-  margin-top: 1rem;
-  font-size: 1rem;
+    margin-top: 1rem;
+    font-size: 1rem;
 
-  a {
-    display: inline-block;
+    a {
+        display: inline-block;
 
-    &:not(:last-child) {
-      margin-right: 1.25rem;
+        &:not(:last-child) {
+            margin-right: 1.25rem;
+        }
     }
-  }
 
-  .active {
-    color: $text-white;
-    font-weight: 500;
-  }
+    .active {
+        color: $text-white;
+        font-weight: 500;
+    }
 
-  @media (max-width: 34em) {
-    padding-top: 1rem;
-    border-top: .075rem solid rgba(255, 255, 255, 0.25);
-  }
+    @media (max-width: 34em) {
+        padding-top: 1rem;
+        border-top: .075rem solid rgba(255, 255, 255, 0.25);
+    }
 
-  @media (min-width: 34em) {
-    float: right;
-    margin-top: .5rem;
-  }
+    @media (min-width: 34em) {
+        float: right;
+        margin-top: .5rem;
+    }
 }
 
 
 //
 // Homepage jumbotron
 //
-
 .jumbotron {
-  margin-top: -2rem;
-  margin-bottom: 3rem;
-  padding-top: 2rem;
-  padding-bottom: 4rem;
-  background-color: $main-nav-color;
-  font-size: 1.25rem;
-  color: $text-white;
-  text-align: center;
+    margin-top: -2rem;
+    margin-bottom: 3rem;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+    background-color: $main-nav-color;
+    font-size: 1.25rem;
+    color: $text-white;
+    text-align: center;
 
-  h1 {
-    font-size: 2.5em;
-    font-weight: normal;
-  }
+    h1 {
+        font-size: 2.5em;
+        font-weight: normal;
+    }
 
-  .btn {
-    padding: .75em 1.15em;
-    font-size: inherit;
-    font-weight: normal;
-    line-height: 1;
-  }
+    .btn {
+        padding: .75em 1.15em;
+        font-size: inherit;
+        font-weight: normal;
+        line-height: 1;
+    }
 
-  @media (min-width: 34em) {
-    padding-top: 6rem;
-    padding-bottom: 8rem;
-    font-size: 1.5rem;
-    text-align: left;
-  }
+    @media (min-width: 34em) {
+        padding-top: 6rem;
+        padding-bottom: 8rem;
+        font-size: 1.5rem;
+        text-align: left;
+    }
 }
 
 .about-that {
 
-  @media (max-width: 760px) {
-    .column {
-      float: none;
-      width: 100%;
-      margin-bottom: 30px;
+    @media (max-width: 760px) {
+        .column {
+            float: none;
+            width: 100%;
+            margin-bottom: 30px;
+        }
     }
-  }
 
-  p {
-    padding-right: .5rem;
-    color: #555;
-    line-height: 1.5;
-  }
+    p {
+        padding-right: .5rem;
+        color: #555;
+        line-height: 1.5;
+    }
 
-  h2 {
-    font-weight: normal;
-  }
+    h2 {
+        font-weight: normal;
+    }
 }
 
 
 //
 // Layout
 //
-
 // Override the default layout to make it stack
 .docs-layout {
-  @media (max-width: 34em) {
-    > .column {
-      float: none;
-      width: 100%;
+    @media (max-width: 34em) {
+        > .column {
+            float: none;
+            width: 100%;
+        }
     }
-  }
 }
 
 
 //
 // Footer
 //
-
 .footer {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  margin-top: 3rem;
-  line-height: 1.75;
-  color: #7a7a7a;
-  border-top: 1px solid #eee;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-top: 3rem;
+    line-height: 1.75;
+    color: #7a7a7a;
+    border-top: 1px solid #eee;
 
-  strong {
-    color: $text-gray-dark;
-  }
+    strong {
+        color: $text-gray-dark;
+    }
 }
 
 
 //
 // Side menu
 //
-
 .docs-menu {
-  margin-bottom: 1.5rem;
-  font-size: 14px;
+    margin-bottom: 1.5rem;
+    font-size: 14px;
 
-  @media (min-width: 34em) {
-    margin-right: 1rem;
-  }
-}
-
-  // Override Markdown styles to restore values from `_type.scss`
-  ul,
-  ol {
+    @media (min-width: 34em) {
+        margin-right: 1rem;
+    }
+} // Override Markdown styles to restore values from `_type.scss`
+ul,
+ol {
     padding-left: 0;
     margin-top: 0;
     margin-bottom: 0;
     margin-left: 15px;
-  }
+}
 
 .turbolinks-progress-bar {
-  background-color: $blue-200;
+    background-color: $blue-200;
 }
 
 table {
-    width:100%;
+    width: 100%;
 }
