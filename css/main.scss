@@ -12,6 +12,11 @@
 @import "primer-alerts/index.scss";
 
 
+// Primary nav bar color
+//$main-nav-color: #8C1919; //Morris Maroon
+$main-nav-color: $bg-blue;
+
+
 .pagination {
     list-style-type: none;
     margin: 0;
@@ -80,9 +85,6 @@
     overflow: visible;
 }
 
-
-//$main-nav-color: #8C1919; //Morris Maroon
-$main-nav-color: $bg-blue;
 
 //
 // Site header
