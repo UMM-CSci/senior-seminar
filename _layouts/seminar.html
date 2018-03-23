@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="columns docs-layout">
-  <div class="one-fifth column">
+  <div class="one-fifth column sidebar">
       
     <nav class="menu docs-menu">
     <a class="menu-item {% if page.url == '/seminars/' %}selected{% endif %}" href="{{ "/seminars/" | relative_url }}">
@@ -35,10 +35,10 @@ layout: default
   </div>
 
 
-<div class="four-fifths column markdown-body">
+<div class="four-fifths column markdown-body main-content">
   <h1 class="page-title">
     {{ page.title }}
-    <a class="btn btn-outline float-right" href="{% github_edit_link %}" role="button">Edit on GitHub</a>
+    <a class="btn btn-outline float-right edit-button" href="{% github_edit_link %}" role="button">Edit on GitHub</a>
   </h1>
 
   {{ content }}

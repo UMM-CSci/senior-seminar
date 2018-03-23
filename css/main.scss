@@ -266,3 +266,22 @@ ol {
 table {
     width: 100%;
 }
+
+@media print {
+  .sidebar, .pagination, .search, .edit-button, .masthead-nav {
+    display: none !important;
+  }
+
+  .main-content {
+    width: 100%;
+  }
+
+  body, a, .masthead-logo {
+    color: #000000 !important;
+  }
+
+  .masthead {
+    background-color: transparent;
+  }
+
+}

@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="columns docs-layout">
-  <div class="one-fourth column">
+  <div class="one-fourth column sidebar">
       
   	<nav class="menu docs-menu">
   	{% assign sorted_res = site.resources | sort:"order" %}
@@ -15,7 +15,7 @@ layout: default
 </nav>
 
   </div>
-  <div class="three-fourths column markdown-body">
+  <div class="three-fourths column markdown-body main-content">
     {% comment %}
     <h1 class="page-title">
       {{ page.title }}
@@ -25,6 +25,6 @@ layout: default
       {{ content }}
     </div>
     <br>
-    <a class="btn btn-outline float-right" href="{% github_edit_link %}" role="button">Edit on GitHub</a>
+    <a class="btn btn-outline float-right edit-button" href="{% github_edit_link %}" role="button">Edit on GitHub</a>
   </div>
 </div>
