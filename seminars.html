@@ -7,7 +7,7 @@ match_collection: seminars
 ---
 
 <div id="papers">
-<input class="search form-control input-block" type="text" placeholder="Search" />
+<input class="search form-control input-block" id="search-box" type="text" placeholder="Search" style="display: none;" />
 <br>
 <table>
 <thead>
@@ -48,6 +48,9 @@ match_collection: seminars
 </div>
 
 <script type="text/javascript">
+  document.getElementById("papers").style.display = "none";
+  document.getElementById("search-box").style.display = "block";
+
 	var options = {
 		  valueNames: [ 'seminar-title', 'author', 'paper-title', 'paper-tags' ],
       page: 10,
@@ -57,4 +60,4 @@ match_collection: seminars
 
 </script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js" integrity="sha256-YqOIp4MygNx9/lcWr5lpcR88Ki/MNMWvJJkH0eK+fHM=" crossorigin="anonymous" onload="var semList = new List('papers', options);"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js" integrity="sha256-YqOIp4MygNx9/lcWr5lpcR88Ki/MNMWvJJkH0eK+fHM=" crossorigin="anonymous" onload="var semList = new List('papers', options); document.getElementById('papers').style.display = 'block';"></script>
