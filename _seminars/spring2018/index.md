@@ -2,6 +2,7 @@
 title: "Spring 2018"
 year: 2018
 semester: spring
+seminar_date: 2018-04-15
 
 papers:
   - title: Combining Conditional Random Fields with Deep Neural Networks for Semantic Segmentation
