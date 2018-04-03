@@ -77,8 +77,8 @@ $main-nav-color: $bg-blue;
 .container {
     width: auto;
     max-width: 1020px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .markdown-body {
@@ -265,6 +265,10 @@ ol {
 
 table {
     width: 100%;
+}
+
+.time-cell, .seminar-cell {
+  white-space:nowrap;
 }
 
 @media print {

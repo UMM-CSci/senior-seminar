@@ -12,7 +12,7 @@ match_collection: seminars
 <table>
 <thead>
 <tr>
-<th>Seminar</th>
+<th class="seminar-cell">Seminar</th>
 <th>Author</th>
 <th>Title</th>
 <th>Slides</th>
@@ -27,7 +27,7 @@ match_collection: seminars
 {% assign sorted_papers = sem.papers | where_exp:"item", "item.break != true" | sort: 'time' %}
 {% for paper in sorted_papers %}
 <tr>
-  <td class="seminar-title"><a href="{{ pageurl }}">{{ sem.title }}</a></td>
+  <td class="seminar-title seminar-cell"><a href="{{ pageurl }}">{{ sem.title }}</a></td>
   <td class="author">{{ paper.author }}</td>
   <td class="title"><div class="paper-title">{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}</div>
       {% if paper.tags %}
