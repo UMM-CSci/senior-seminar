@@ -11,7 +11,6 @@ papers:
     slides: sixelslides.pdf
     time: 2017-11-18 1:00 PM
     room: Sci 3610
-    tags: [ux]
     
   - title: Lifelogging Mashup and Implementation of Various Databases
     author: Luz Lopez
@@ -19,7 +18,6 @@ papers:
     slides: lopezslides.pdf
     time: 2017-11-18 1:30 PM
     room: Sci 3610
-    tags: [database]
     
   - title: Improving Performance in the Tor Network
     author: Laverne Schrock
@@ -28,7 +26,6 @@ papers:
     time: 2017-11-18 2:00 PM
     room: Sci 3610
     distinctionslides: true
-    tags: [network, tor]
     
   - title: Machine Learning and Music Composition
     author: Daniel Woeste
@@ -36,7 +33,6 @@ papers:
     slides: woesteslides.pdf
     time: 2017-11-18 3:00 PM
     room: Sci 3610
-    tags: [ai, machine learning]
     
   - title: Foveated Rendering in Virtual Reality
     author: Sam Miller
@@ -45,7 +41,6 @@ papers:
     time: 2017-11-18 3:30 PM
     room: Sci 3610
     distinctionslides: true
-    tags: [vr]
 
   - title: Thread Scheduler Efficiency Improvements for Multicore Systems
     author: Daniel Frazier
@@ -68,7 +63,6 @@ papers:
     time: 2017-11-18 2:00 PM
     room: Sci 3650
     distinctionslides: true
-    tags: [ai, machine learning]
     
   - title: Point-of-Interest Recommendation Systems in Location-Based Social Networks
     author: Tony Song
