@@ -1,6 +1,6 @@
 // Base styles
 // stylelint-disable selector-no-qualifying-type
-// stylelint-disable selector-no-type
+// stylelint-disable selector-max-type
 .markdown-body {
 
   // Lists, Blockquotes & Such
@@ -45,12 +45,16 @@
     margin-bottom: 0;
   }
 
+  li {
+    word-wrap: break-all;
+  }
+
   li > p {
-    margin-top: $margin;
+    margin-top: $spacer-3;
   }
 
   li + li {
-    margin-top: 0.25em;
+    margin-top: $em-spacer-3;
   }
 
   dl {
@@ -58,15 +62,15 @@
 
     dt {
       padding: 0;
-      margin-top: $margin;
+      margin-top: $spacer-3;
       font-size: 1em;
       font-style: italic;
       font-weight: $font-weight-bold;
     }
 
     dd {
-      padding: 0 $margin;
-      margin-bottom: $margin;
+      padding: 0 $spacer-3;
+      margin-bottom: $spacer-3;
     }
   }
 }

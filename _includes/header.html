@@ -7,7 +7,7 @@
         <nav class="masthead-nav">      
 {% assign sorted_pages = site.pages | where_exp:"item", "item.order" | sort:"order" %}
 {% for node in sorted_pages %}
-{% if page.url == node.url or (page.collection == node.match_collection and page.collection != null) %}
+{% if page.url == node.url or (page.select_link == node.url) or (page.collection == node.match_collection and page.collection != null) %}
       <a class="active" href="{{ site.baseurl }}{{node.url}}">{{node.title}}</a>
     {% else %}
       <a href="{{ site.baseurl }}{{node.url}}">{{node.title}}</a>

@@ -17,7 +17,7 @@ papers:
     pdf: lopez.pdf
     slides: lopezslides.pdf
     time: 2017-11-18 1:30 PM
-    room: Sci 3610   
+    room: Sci 3610
     
   - title: Improving Performance in the Tor Network
     author: Laverne Schrock
@@ -32,7 +32,7 @@ papers:
     pdf: woeste.pdf
     slides: woesteslides.pdf
     time: 2017-11-18 3:00 PM
-    room: Sci 3610 
+    room: Sci 3610
     
   - title: Foveated Rendering in Virtual Reality
     author: Sam Miller

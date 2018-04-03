@@ -1,0 +1,123 @@
+---
+title: Current Schedule
+layout: compress
+---
+
+
+{% assign grouped_seminars = site.seminars |  group_by:"year" | reverse %}
+{% assign recent_sem =  grouped_seminars.first.items.first %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>{% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0366d6">
+
+<style type="text/css">
+
+body {
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+
+table, th, td {
+  border-collapse:collapse;
+  border: 1px solid black;
+}
+
+td, th {
+	padding: 6px;
+	
+}
+
+h1 {
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+}
+
+h2 {
+	margin-top: 0.5em;
+	margin-bottom: 0.3em;
+}
+
+
+ .title-cell {
+	width: 100%;
+}
+
+
+
+.time-cell {
+	white-space:nowrap;
+}
+
+.author-cell {
+	white-space:nowrap;
+}
+
+.container {
+    width: auto;
+    margin: auto;
+    max-width: 780px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>UMM CSci Senior Seminar - {{ recent_sem.title }}</h1>
+
+{% assign papers_groups_date = recent_sem.papers | group_by_exp:"item", 'item.time | date: "%F" ' %}
+{% for group_papers_date in papers_groups_date %}
+{% if group_papers_date.name %}<h2>{{ group_papers_date.name | date: "%A, %-d %B %Y" }}</h2> {% endif %}
+
+{% assign papers_groups_room = group_papers_date.items | group_by:"room" %}
+{% for group_papers_room in papers_groups_room %}
+{% if group_papers_room.name %}<h3>{{ group_papers_room.name }}</h3>{% endif %}
+
+  <table>
+  <tr>
+  <th class="time-cell">Time</th>
+  <th class="author-cell">Author</th>
+  <th class="title-cell">Title</th>
+  </tr>
+  {% assign sorted_papers = group_papers_room.items | sort: 'time' %}
+  {% for paper in sorted_papers %}
+  <tr>
+    <td class="time-cell">{{ paper.time | date: "%-I:%M %p"}}</td>
+    <td class="author-cell">{{ paper.author }}</td>
+    <td class="title-cell">{{ paper.title }}</td>
+  </tr>
+  {% endfor %}
+  </table>
+  {% endfor %}
+  {% endfor %}
+
+<br>
+<canvas id="qr"></canvas>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrious/4.0.2/qrious.min.js" integrity="sha256-25ncr0CpJhgbzkUiR3wu/Fkk9sSykRG2qX+upHfJUos=" crossorigin="anonymous"></script>
+
+<script>
+  (function() {
+    const qr = new QRious({
+      element: document.getElementById('qr'),
+      value: "{{ site.url }}{{ site.baseurl }}{{ recent_sem.url | replace: 'index.html', '' }}",
+      size: 150
+    });
+  })();
+</script>
+
+</div>
+
+</body>
+</html>

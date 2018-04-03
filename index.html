@@ -19,7 +19,7 @@ layout: base
   <div class="one-third column">
     <h2>{{ recent_sem.title }} Seminar</h2>
     <p>View the most recent senior seminar. </p>
-    <a href="{{ recent_sem.url | relative_url }}" class="btn btn-outline" role="button">View Seminar</a>
+    <a href="{{ recent_sem.url | replace: 'index.html', '' | relative_url }}" class="btn btn-outline" role="button">View Seminar</a>
   </div>
   <div class="one-third column">
     <h2>{{ site.seminars | size }} Past Seminars</h2>
