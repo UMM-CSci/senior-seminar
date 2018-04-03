@@ -24,16 +24,18 @@ layout: default
 </nav>
 
 
+{% assign unique-tags = site.seminars | map: "papers" | map: "tags" | compact | uniq %}
 
+{% if unique-tags.size > 0 %}
 <nav class="menu docs-menu">
 <a class="menu-item {% if page.url == '/seminars/tags' %}selected{% endif %}" href="{{ "/seminars/tags" | relative_url }}">
       Tags 
     </a>
 </nav>
+{% endif %}
 
 
   </div>
-
 
 <div class="four-fifths column markdown-body main-content">
   <h1 class="page-title">
@@ -62,6 +64,14 @@ layout: default
 {% endif %}
 {% endfor %}
 
+{% assign show_slides = false %}
+{% for paper in page.papers %}
+{% if paper.slides or paper.slidesurl %}
+{% assign show_slides = true %}
+{% break %}
+{% endif %}
+{% endfor %}
+
 {% assign pageurl = page.url | replace: 'index.html', '' | relative_url %}
   
 {% assign papers_groups_date = page.papers | group_by_exp:"item", 'item.time | date: "%F" ' %}
@@ -74,15 +84,15 @@ layout: default
 
   <table>
   <tr>
-  {% if show_time %}<th>Time</th>{% endif %}
+  {% if show_time %}<th class="time-cell">Time</th>{% endif %}
   <th>Author</th>
   <th>Title</th>
-  <th>Slides</th>
+  {% if show_slides %}%<th>Slides</th>{% endif %}
   </tr>
   {% assign sorted_papers = group_papers_room.items | sort: 'time' %}
   {% for paper in sorted_papers %}
   <tr>
-    {% if show_time %}<td>{{ paper.time | date: "%-I:%M %p"}}</td>{% endif %}
+    {% if show_time %}<td class="time-cell">{{ paper.time | date: "%-I:%M %p"}}</td>{% endif %}
     <td>{{ paper.author }}</td>
     <td><div class="paper-title">{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}{% if paper.distinctionpaper %}&#x2B50{% endif %}</div>
       {% if paper.tags %}
@@ -93,7 +103,7 @@ layout: default
       </div>
       {% endif %}
     </td>
-    <td>{% if paper.slides %}<a href="{{ pageurl }}{{ paper.slides }}">Slides</a>{% elsif paper.slidesurl %}<a href="{{ paper.slidesurl }}">Slides</a>{% endif %}{% if paper.distinctionslides %}&#x2B50{% endif %}</td>
+    {% if show_slides %}<td>{% if paper.slides %}<a href="{{ pageurl }}{{ paper.slides }}">Slides</a>{% elsif paper.slidesurl %}<a href="{{ paper.slidesurl }}">Slides</a>{% endif %}{% if paper.distinctionslides %}&#x2B50{% endif %}</td>{% endif %}
   </tr>
   {% endfor %}
   </table>
