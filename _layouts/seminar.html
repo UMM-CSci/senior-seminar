@@ -87,7 +87,7 @@ layout: default
   {% if show_time %}<th class="time-cell">Time</th>{% endif %}
   <th>Author</th>
   <th>Title</th>
-  {% if show_slides %}%<th>Slides</th>{% endif %}
+  {% if show_slides %}<th>Slides</th>{% endif %}
   </tr>
   {% assign sorted_papers = group_papers_room.items | sort: 'time' %}
   {% for paper in sorted_papers %}
