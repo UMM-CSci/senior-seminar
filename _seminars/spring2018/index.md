@@ -2,22 +2,22 @@
 title: "Spring 2018"
 year: 2018
 semester: spring
-seminar_date: 2018-04-15
+seminar_date: 2018-04-12
 
 papers:
   - title: Combining Conditional Random Fields with Deep Neural Networks for Semantic Segmentation
     author: Rocherno De Jongh
-    time: 2018-04-15 6:30 PM
+    time: 2018-04-12 6:30 PM
     room: Sci 3610
 
   - title: Collision Attack on SHA-1
     author: Danish Malik
-    time: 2018-04-15 7:00 PM
+    time: 2018-04-12 7:00 PM
     room: Sci 3610
     
   - title: Cloud Security
     author: Matt Mitchell
-    time: 2018-04-15 7:30 PM
+    time: 2018-04-12 7:30 PM
     room: Sci 3610
      
   - title: Augmented Sports Systems
