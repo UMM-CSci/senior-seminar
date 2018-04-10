@@ -31,12 +31,12 @@ papers:
      
   - title: Impacts of Haptic Feedback on Children's Understanding of Literature
     author: Shamund Gordon
-    time: 2018-04-15 3:00 PM
+    time: 2018-04-12 8:00 PM
     room: Sci 3610
      
   - title: The Role of Neural Network in Road Segmentation
     author: Andy Lau
-    time: 2018-04-15 3:30 PM
+    time: 2018-04-15 3:00 PM
     room: Sci 3610
      
   - title: Querying Large Databases
