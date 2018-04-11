@@ -17,7 +17,7 @@ papers:
   - title: Cloud Security
     author: Matt Mitchell
     time: 2018-04-15 3:30 PM
-    room: Sci 3650
+    room: Sci 3610
      
   - title: Augmented Sports Systems
     author: Jacob Sphatt
