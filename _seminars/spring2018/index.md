@@ -14,7 +14,7 @@ papers:
     time: 2018-04-12 7:00 PM
     room: Sci 3610
     
-  - title: Cloud Security
+  - title: Recent Advancements in Cloud Security
     author: Matt Mitchell
     time: 2018-04-15 3:30 PM
     room: Sci 3610
@@ -34,7 +34,7 @@ papers:
     time: 2018-04-12 7:30 PM
     room: Sci 3610
      
-  - title: The Role of Neural Network in Road Segmentation
+  - title: Road Segmentation with Neural Networks
     author: Andy Lau
     time: 2018-04-15 3:00 PM
     room: Sci 3610
