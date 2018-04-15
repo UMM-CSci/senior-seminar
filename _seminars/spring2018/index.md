@@ -28,6 +28,7 @@ papers:
     author: Kyle Foss
     time: 2018-04-15 2:30 PM
     room: Sci 3610
+    distinctionslides: true
      
   - title: Impacts of Haptic Feedback on Children's Understanding of Literature
     author: Shamund Gordon
@@ -43,6 +44,7 @@ papers:
     author: Nathan Beneke
     time: 2018-04-15 2:00 PM
     room: Sci 3650
+    distinctionslides: true
      
   - title: Enhancements in Security of Wireless Sensor Networks
     author: Brian Caravantes
@@ -53,6 +55,7 @@ papers:
     author: Adam Casey
     time: 2018-04-15 3:00 PM
     room: Sci 3650
+    distinctionslides: true
      
   - title: Machine Vision for Automated Farming
     author: Zach Litzinger
