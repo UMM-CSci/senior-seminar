@@ -52,6 +52,7 @@ papers:
     room: Sci 3610
     slides: lauslides.pdf
     distinctionpaper: true
+    pdf: lau.pdf
      
   - title: Querying Large Databases
     author: Nathan Beneke
@@ -60,6 +61,7 @@ papers:
     distinctionslides: true
     slides: benekeslides.pdf
     distinctionpaper: true
+    pdf: beneke.pdf
      
   - title: Enhancements in Security of Wireless Sensor Networks
     author: Brian Caravantes
