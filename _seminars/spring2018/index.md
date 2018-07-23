@@ -84,6 +84,7 @@ papers:
     time: 2018-04-15 3:30 PM
     room: Sci 3650
     slides: litzingerslides.pdf
+    pdf: litzinger.pdf
 ---
 
 The CSci discipline invites you to Spring 2018 Senior Seminar conference on Thursday, April 12 and Sunday, April 15 2018. The talks will be held in Sci 3610 and 3650.
