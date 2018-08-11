@@ -13,7 +13,7 @@ This is the senior seminar (CSci 4901) description in the catalog:
 
 This is both a great opportunity and a great challenge.
 
-It will almost certainly be a lot of work for a one credit course (and perhaps even for two credits - as it is starting Fall 2017) and you should prepare accordingly, but it's totally manageable if you start early, stay organized and focused, and work on it incrementally.
+It will almost certainly be a lot of work for a two credit class and you should prepare accordingly, but it's totally manageable if you start early, stay organized and focused, and work on it incrementally.
 
 A good senior sem experience, however, can really have far reaching consequences. KK's senior sem paper became (in slightly modified form) her first publication in computer science.
 Another alum used her paper as the writing sample that sealed a deal with a publisher to write a book.
@@ -61,15 +61,17 @@ Usually you meet with your advisor once a week and submit all of your intermedia
 ### Texts and other materials
 Your key source of materials will be research literature in the field. We'll talk about how to find things in class, and your advisor can be a big help there as well. There are also some useful links on the [resources page](https://umm-csci.github.io/senior-seminar/resources/seniorsemresources.html).
 
+We will also be reading a textbook on writing in computer science - it has plenty of helpful advice, so please read it carefully and revisit it often as you are working on your papers. 
+
 ### Course work and grading
-Grades in CSci 4901 are determined by the CSci faculty as a whole, usually right after the presentations. Grades will be based on the following:
+Grades in CSci 4901 are determined by the CSci faculty as a whole after the final papers are submitted. Grades will be based on the following:
 
 - Your technical paper
 - Your presentation
 - Your attendance at class meetings
-- Class attendance is an important part of success in the course, and missing 3 class meetings is grounds for failing the course.
 - Your timely deliverance of all intermediate products (outline, bibliography, etc.)
 - Regular meetings with your advisor throughout the semester where you are well-prepared and making progress
+- Addressing any hurdles you encounter (unfamiliar terminology, confusing sources, lack of understanding of what's expected) in a pro-active and timely fashion: seeking assistance from your advisor or your course instructor 
 - Presentation practices scheduled in a timely fashion with your advisor and fellow students
 
 The above items are all important, in slightly different contexts, for almost any career you may choose.
