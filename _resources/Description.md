@@ -4,8 +4,10 @@ order: 2
 ---
 
 # UMM CSci senior seminar description and requirements
+{:.no_toc}
 
 ## Description.
+{:.no_toc}
 
 This is the senior seminar (CSci 4901) description in the catalog: 
 
@@ -20,13 +22,8 @@ Another alum used her paper as the writing sample that sealed a deal with a publ
 And numerous students have been quite pleasantly surprised with what they were in fact capable of.
 One of the few really consistent themes we get from alumni and employers is the importance of communications skills, both written and oral, and this is a tremendous opportunity to develop these skills in really powerful ways.
 
-<!-- TOC depthFrom:3 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [Course goals and learning objectives](#course-goals-and-learning-objectives)
-- [Requirements](#requirements)
-- [Senior Seminar Instructor](#senior-seminar-instructor)
-- [Senior Seminar Advisor](#senior-seminar-advisor)
-- [Texts and Other Materials](#texts-and-other-materials)
+* Do not remove this line (it will not be displayed)
+{:toc}
 
 
 ### Course goals and learning objectives
