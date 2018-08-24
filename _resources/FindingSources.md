@@ -1,8 +1,8 @@
 ---
-title: Finding appropriate sources
+title: Finding sources for your senior seminar paper
 ---
 
-# Finding appropriate sources
+# Finding sources for your senior seminar paper
 
 Your paper will be based on recent peer reviewed computer science research literature. We require you to have at least three reasonably recent peer reviewed sources as key sources of your paper. 
 
@@ -99,9 +99,19 @@ Of course, a paper may satisfy all of the above criteria, and still have incorre
 
 Supplementary sources may include peer-reviewed work (such as papers that the authors reference, including previous papers by the authors themselves) and non-peer-reviewed sources, such as textbooks, technical reports, wikipedia articles, blog posts, presentation slides, etc. The point of supplementary sources is to provide background on the subject or any related information (for instance, your paper on cell phone security may include statistics about cell phone usage). Even if supplementary sources aren't peer reviewed, you need to make sure that they are reliable.  
 
-### How to cite sources 
-
-
-
 ## Working with sources
+
+If you don't have an experience reading research papers, here are a few things to guide you:
+
+* Read the abstract first. This is how you decide whether the paper is relevant to your topic.
+* If it seems relevant based on the abstract, read the introduction and the conclusions (or results - different people call them differently). Your goal is to get a "big-picture" understanding of the paper: what is the problem that it is addressing? What was known about the problem prior to this study? What are the contributions of the authors? 
+* Write down the answers to these questions in Annotated Bibliography (one of the early assignments in senior seminar).
+* Keep a copy of the paper where you write your notes as you are reading it. I usually print out a copy (and all my notes are on the margins of that copy). You can also have a notebook where you keep all of your notes. Alternatively, you can have a PDF file with notes.
+* As you are reading the main parts of a paper, mark everything that seems to be a term and find out what it means (google, read textbooks on the subject, read papers listed in the bibliography...)
+* When you don't understand something, don't ignore it - talk to your adviser. The papers you are reading are written for experts in the field - it would be surprising if everything was clear to you on the first (or even the second) read.
+* Keep in mind that you will be rereadng your sources several times. The process of understanding is not a straight line, it's a spiral: with every read-through the paper becomes clearer.
+* You will need to explain the contributions of the papers in your own words. The best way to figure out how to do it is to explain it to your adviser, your friends, roommates, and everyone else willing to listen. Encourage them to ask you questions. If they don't, ask them questions about the material - to see what they understood correctly from your explanations, and what they didn't.
+* The first month and a half of the semester is mostly dedicated to you reading and understanding your sources. Since not much is due at this point, it may seem like you are not expected to do much. This is a wrong impression. By the time you start writing about your sources you need to understand them really well, and you only get there after several rounds of careful reading. 
+* Your selection of sources may change once you start reading them: you may realize that you have too much information to pack into one paper (trim down the number of sources), or that your sources don't have much in them (bring in additional sources), or some of the sources are unclear, too complex, or not detailed enough (look for better sources or refocus your topic).  
+* Think of what background a Data Structures student would need to understand your topic. Make a list. Every primary source that you use has its own background. Think of how you would the background from all papers. This may also prompt you to narrow down your topic.  
 
