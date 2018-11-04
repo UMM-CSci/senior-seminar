@@ -5,7 +5,7 @@ semester: fall
 seminar_date: 2018-11-17
 
 papers:
-  - title: Smart Parking Reservation Algorithms and the IoT Goal for Horizontal Interoperability
+  - title: Smart Parking Reservation Systems
     author: Charles Menne
     time: 2018-11-17 1:00 PM
     room: Sci 3610
