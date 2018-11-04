@@ -25,7 +25,7 @@ papers:
     time: 2018-11-17 2:45 PM
     room: Sci 3610
 
-  - title: Polyphonic Music Generation
+  - title: Musical Metacreation: Modeling Polyphony with Neural Networks
     author: Francisco Montanez
     time: 2018-11-17 3:15 PM
     room: Sci 3610
@@ -35,7 +35,7 @@ papers:
     time: 2018-11-17 1:00 PM
     room: Sci 3650
 
-  - title: SHA2 vs SHA3
+  - title: Secure Hash Algorithm 3
     author: Courtney Cook
     time: 2018-11-17 1:30 PM
     room: Sci 3650
