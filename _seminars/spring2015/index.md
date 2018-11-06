@@ -9,12 +9,14 @@ papers:
     pdf: Buck.pdf
     slides: Buckslides.pdf
     distinctionslides: true
+    distinctionpaper: true
   
   - title: Monte Carlo Tree Search and Its Applications
     author: Max Magnuson
     pdf: Magnuson.pdf
     slides: Magnusonslides.pdf
     distinctionslides: true
+    distinctionpaper: true
  
   - title: Implementations and Applications of Brain-Computer Interfaces
     author: Maxwell J. Marti
@@ -34,6 +36,7 @@ papers:
     author: Paul A. Schliep
     pdf: Schliep.pdf
     slides: Schliepslides.pdf
+    distinctionpaper: true
 ---
 
 The CSci discipline invites you to Spring 2015 Senior Seminar conference on Saturday, April 25 2015. The talks will be held 12:30-3:40pm in Sci 1020. Refreshments will be served. 

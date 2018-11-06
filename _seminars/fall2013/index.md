@@ -13,11 +13,13 @@ papers:
     author: Andrew Latterner
     pdf: Latterner.pdf
     slides: Latternerslides.pdf
+    distinctionpaper: true
  
   - title: Bot Detection in Online Games
     author: Phou Lee
     pdf: Lee.pdf
     slides: Leeslides.pdf
+    distinctionslides: true
  
   - title: Zero Knowledge Compilers
     author: John T. McCall
@@ -28,6 +30,7 @@ papers:
     author: Chris M. Thomas
     pdf: Thomas.pdf
     slides: Thomasslides.pdf
+    distinctionpaper: true
 ---
 
 The Fall, 2013, Senior Seminar conference is 1:00-3pm in Sci 1020 on Saturday, 7 Dec, 2013.

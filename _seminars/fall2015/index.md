@@ -21,18 +21,21 @@ papers:
   - title: 'Password Strength Meters: Implementation and Effectiveness'
     author: Dalton J. Gusaas
     pdf: Gusaas.pdf
+    distinctionslides: true
     slides: Gusaasslides.pdf
   
   - title: Concurrent Compaction in JVM Garbage Collection
     author: Jacob P. Opdahl
     pdf: Opdahl.pdf
     distinctionpaper: true
+    distinctionslides: true
     slides: Opdahlslides.pdf
  
   - title: Image Resizing using Seam Carving
     author: Kristin Rachor
     pdf: Rachor.pdf
     distinctionpaper: true
+    distinctionslides: true
     slides: Rachorslides.pdf
  
   - title: 'Rowhammering: a physical approach to gaining unauthorized access'
@@ -57,6 +60,7 @@ papers:
   - title: Topic Discovery and Evolution Through Social Media
     author: Zachary D. Vink
     pdf: Vink.pdf
+    distinctionslides: true
     slides: Vinkslides.pdf
  
   - title: Emotion Recognition Through Facial Expressions

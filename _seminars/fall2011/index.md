@@ -21,11 +21,14 @@ papers:
     author: Jeffrey D. Lindblom
     pdf: Lindblom.pdf
     slides: Lindblomslides.pdf
+    distinctionslides: true 
+    distinctionpaper: true
  
   - title: Implementation of Kd-Trees on the GPU to Achieve Real Time Graphics Processing
     author: Will W. Martin
     pdf: Martin.pdf
     slides: Martinslides.pdf
+    distinctionpaper: true
  
   - title: Service Oriented Cloud Computing Architectures
     author: Asher J. Vitek

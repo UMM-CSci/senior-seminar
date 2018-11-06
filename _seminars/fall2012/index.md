@@ -18,6 +18,7 @@ papers:
     author: Ashley Koch
     pdf: Koch.pdf
     slides: Kochslides.pdf
+    distinctionslides: true
  
   - title: Body Area Networks and Body Sensor Networks
     author: David J. Ruprech
@@ -31,6 +32,7 @@ papers:
     author: Tim Snyder
     pdf: Snyder.pdf
     slides: Snyderslides.pdf
+    distinctionslides: true
  
   - title: Accuracy of Similarity Measures in Recommender Systems
     author: Seth Sorensen

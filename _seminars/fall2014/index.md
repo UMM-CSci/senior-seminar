@@ -24,6 +24,7 @@ papers:
     pdf: Emmons.pdf
     slides: Emmonsslides.pdf
     distinctionslides: true
+    distinctionpaper: true
  
   - title: Search-Based Procedural Content Generation in Games
     author: Ian L. McGathey
@@ -38,11 +39,13 @@ papers:
     author: David A. Pagels
     pdf: Pagels.pdf
     slides: Pagelsslides.pdf
+    distinctionpaper: true
  
   - title: Interpreting Multitouch Gestures
     author: Michael Schuweiler
     pdf: Schuweiler.pdf
     slides: Schuweilerslides.pdf
+    distinctionpaper: true
 
   - title: XSS Attacks and Possible Defenses
     author: Travis Starkson
