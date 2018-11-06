@@ -8,6 +8,7 @@ papers:
     author: Resa Brockman
     pdf: brockman.pdf
     slides: brockmanslides.pdf
+    distinctionslides: true
  
   - title: Using Dropout to Reduce Overfitting in Neural Networks
     author: Joshua Paul Chapman
@@ -21,6 +22,7 @@ papers:
   - title: Evolving Moving Target Defense Configurations
     author: Brennan W. Gensch
     pdf: gensch.pdf
+    distinctionslides: true
  
   - title: Incorporating Augmented Reality into Consumer and Industrial Technology
     author: Peter F. Hanson
@@ -30,6 +32,7 @@ papers:
     author: Thomas Harren
     pdf: harren.pdf
     slides: harren-slides.pdf
+    distinctionslides: true
  
   - title: Using Map-Reduce Methods to Process Large Data
     author: Tyler J. Lemke
@@ -39,6 +42,7 @@ papers:
     author: Aaron Lemmon
     pdf: lemmon.pdf
     slides: lemmon-slides.pdf
+    distinctionslides: true
  
   - title: Neural Networks for Vehicle Navigation
     author: Matthew Linder
@@ -63,11 +67,13 @@ papers:
   - title: Combination of Video Streaming Technologies as CDN/P2P Hybrid & ABR/P2P Hybrid
     author: Andrew L. Peterson
     pdf: peterson.pdf
+    distinctionslides: true
  
   - title: Using Principal Component Analysis to Improve Accessibility
     author: Benjamin Simondet
     pdf: simondet.pdf
     slidesurl: http://slides.com/simon998/deck#/
+    distinctionslides: true
 
   - title: Implementing Computer Vision Algorithms for Autonomous UAV Applications
     author: Sean R. Stockholm

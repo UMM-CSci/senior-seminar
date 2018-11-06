@@ -26,16 +26,19 @@ papers:
   - title: Concurrent Compaction in JVM Garbage Collection
     author: Jacob P. Opdahl
     pdf: Opdahl.pdf
+    distinctionpaper: true
     slides: Opdahlslides.pdf
  
   - title: Image Resizing using Seam Carving
     author: Kristin Rachor
     pdf: Rachor.pdf
+    distinctionpaper: true
     slides: Rachorslides.pdf
  
   - title: 'Rowhammering: a physical approach to gaining unauthorized access'
     author: Niccolas A. Ricci
     pdf: Ricci.pdf
+    distinctionpaper: true
     slides: Riccislides.pdf
  
   - title: Activity Prediction in Ambient Technologies

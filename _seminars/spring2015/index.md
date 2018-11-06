@@ -8,11 +8,13 @@ papers:
     author: Ian R. Buck
     pdf: Buck.pdf
     slides: Buckslides.pdf
+    distinctionslides: true
   
   - title: Monte Carlo Tree Search and Its Applications
     author: Max Magnuson
     pdf: Magnuson.pdf
     slides: Magnusonslides.pdf
+    distinctionslides: true
  
   - title: Implementations and Applications of Brain-Computer Interfaces
     author: Maxwell J. Marti

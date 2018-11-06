@@ -8,11 +8,15 @@ papers:
     author: Eric C. Collom
     pdf: Collom.pdf
     slides: Collomslides.pdf
+    distinctionslides: true
+    distinctionpaper: true
  
   - title: Morphological Operations Applied to Digital Art Restoration
     author: M. Kirbie Dramdahl
     pdf: Dramdahl.pdf
     slides: Dramdahlslides.pdf
+    distinctionslides: true
+    distinctionpaper: true
  
   - title: Implanted User Devices
     author: Gabe Grimley
@@ -33,6 +37,8 @@ papers:
     author: Todd Malone
     pdf: Malone.pdf
     slides: Maloneslides.pdf
+    distinctionslides: true
+    distinctionpaper: true
  
   - title: Improving the Efficiency of Cloud Computing
     author: Matthew G. Perrault

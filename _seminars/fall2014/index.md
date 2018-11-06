@@ -17,11 +17,13 @@ papers:
     author: Jeremy Eberhardt
     pdf: Eberhardt.pdf
     slides: Eberhardtslides.pdf
+    distinctionslides: true
  
   - title: Automatic Chord Recognition from Audio
     author: Alex R. Emmons
     pdf: Emmons.pdf
     slides: Emmonsslides.pdf
+    distinctionslides: true
  
   - title: Search-Based Procedural Content Generation in Games
     author: Ian L. McGathey
