@@ -61,18 +61,18 @@ match_collection: seminars
     </tbody>
   </table>
   <ul class="pagination"></ul>
-  </div>
+</div>
 
-  <script type="text/javascript">
-    document.getElementById("papers").style.display = "none";
-    document.getElementById("search-box").style.display = "block";
+<script type="text/javascript">
+  document.getElementById("papers").style.display = "none";
+  document.getElementById("search-box").style.display = "block";
 
-    var options = {
-      valueNames: [ 'seminar-title', 'author', 'paper-title', 'paper-tags' ],
-        page: 10,
-        pagination: {outerWindow: 2,
-                     innerWindow: 2}
-    };
-  </script>
+  var options = {
+    valueNames: [ 'seminar-title', 'author', 'paper-title', 'paper-tags' ],
+      page: 10,
+      pagination: {outerWindow: 2,
+                   innerWindow: 2}
+  };
+</script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js" integrity="sha256-YqOIp4MygNx9/lcWr5lpcR88Ki/MNMWvJJkH0eK+fHM=" crossorigin="anonymous" onload="var semList = new List('papers', options); document.getElementById('papers').style.display = 'block';"></script>
