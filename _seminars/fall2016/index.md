@@ -8,6 +8,7 @@ papers:
     author: Emma Sax
     pdf: Sax.pdf
     slides: Saxslides.pdf
+    distinctionslides: true
     time: 2016-11-12 1:00 PM
  
   - title: Computer Virus Enhancement
@@ -26,12 +27,14 @@ papers:
     author: Joseph Thelen
     pdf: Thelen.pdf
     slides: Thelenslides.pdf
+    distinctionslides: true
     time: 2016-11-12 2:45 PM
  
   - title: Abstracting Natural Language Queries into SQL
     author: Thomas Hagen
     pdf: Hagen.pdf
     slides: Hagenslides.pdf
+    distinctionslides: true
     time: 2016-11-12 3:15 PM
  
   - title: Modern Approaches to the Rich Vehicle Routing Problem
@@ -43,6 +46,7 @@ papers:
     author: Isaac Koak
     pdf: Koak.pdf
     slides: Koakslides.pdf
+    distinctionslides: true
     time: 2016-11-19 1:30 PM
  
   - title: Improving security of the Advanced Encryption Standard
@@ -61,6 +65,7 @@ papers:
     author: Dan Stelljes
     pdf: Stelljes.pdf
     slides: Stelljesslides.pdf
+    distinctionslides: true
     time: 2016-11-19 3:15 PM
  
   - title: Break
