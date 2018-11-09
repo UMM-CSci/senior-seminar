@@ -55,6 +55,6 @@ papers:
     room: Sci 1020
 ---
 
-The CSci spring Senior Seminar conference is 1:00-4:30pm in Sci 1020.
+The CSci spring Senior Seminar conference is 1:00-5pm in Sci 1020.
 
 Many thanks to alumni reviewers who provided feedback for our students: Kevin Arhelger, Sara Drenner, Justin Mullin, Chris Olson, Chad Seibert, and Jacob Thebault-Spieker.

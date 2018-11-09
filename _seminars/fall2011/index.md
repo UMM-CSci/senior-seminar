@@ -53,6 +53,6 @@ papers:
     room: Sci 1020
 ---
 
-The CSci discipline invites you to 2011 Senior Seminar. The talks will be held from 1:00pm–4:00pm in Sci 1020. Refreshments will be served. 
+The CSci discipline invites you to 2011 Senior Seminar. The talks will be held from 1:00pm–4:30pm in Sci 1020. Refreshments will be served. 
 
 Many thanks to alumni reviewers who provided feedback for our students: Kevin Arhelger, Sara Drenner, Justin Mullin, Chris Olson, Chad Seibert, and Jacob Thebault-Spieker.

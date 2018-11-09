@@ -8,14 +8,14 @@ papers:
     author: Drake D. Arvidson
     pdf: Arvidson.pdf
     slides: Arvidsonslides.pdf
-    time: 2011-04-28 12:30 PM
+    time: 2012-04-28 12:30 PM
     room: Sci 1020
  
   - title: A Comparison of Generics in Major Imperative Programming Languages
     author: Joe Einertson
     pdf: Einertson.pdf
     slides: Einertsonslides.pdf
-    time: 2011-04-28 1:00 PM
+    time: 2012-04-28 1:00 PM
     room: Sci 1020
  
   - title: Evolving Game-Playing Agents Through Coevolution
@@ -23,20 +23,20 @@ papers:
     pdf: Ellgren.pdf
     slides: Ellgrenslides.pdf
     distinctionpaper: true
-    time: 2011-04-28 1:30 PM
+    time: 2012-04-28 1:30 PM
     room: Sci 1020
  
   - title: Data Center Energy Efficient Improvements through Machine Learning
     author: Jay W. Lapham
     pdf: Lapham.pdf
-    time: 2011-04-28 2:15 PM
+    time: 2012-04-28 2:15 PM
     room: Sci 1020
  
   - title: Detecting Emotion in Text
     author: Kaitlyn Mulcrone
     pdf: Mulcrone.pdf
     slides: Mulcroneslides.pdf
-    time: 2011-04-28 2:45 PM
+    time: 2012-04-28 2:45 PM
     room: Sci 1020
  
   - title: Artificial Intelligence and Novelty
@@ -44,35 +44,35 @@ papers:
     pdf: Robinson.pdf
     slides: Robinsonslides.pdf
     distinctionslides: true
-    time: 2011-04-28 3:15 PM
+    time: 2012-04-28 3:15 PM
     room: Sci 1020
  
   - title: Elliptical Curve Problem Solving with Hardware
     author: Gregory Schumacher
     pdf: Schumacher.pdf
-    time: 2011-04-28 4:00 PM
+    time: 2012-04-28 4:00 PM
     room: Sci 1020
  
   - title: Overview of Operational Transformation
     author: Zach Smith
     pdf: Smith.pdf
-    time: 2011-04-28 4:30 PM
+    time: 2012-04-28 4:30 PM
     room: Sci 1020
  
   - title: Usability and Security of Text-based CAPTCHAs
     author: Cody Sutherland
     pdf: Sutherland.pdf
     distinctionpaper: true
-    time: 2011-04-28 5:00 PM
+    time: 2012-04-28 5:00 PM
     room: Sci 1020
 
   - title: Break
-    time: 2011-04-28 2:00 PM
+    time: 2012-04-28 2:00 PM
     break: true
     room: Sci 1020
 
   - title: Break
-    time: 2011-04-28 3:45 PM
+    time: 2012-04-28 3:45 PM
     break: true
     room: Sci 1020
 ---

@@ -53,5 +53,5 @@ papers:
     room: Sci 2200
 ---
 
-The Fall, 2010, Senior Seminar conference is 1:30-5pm in Sci 2200 on Saturday, 4 December 2010.
+The Fall 2010, Senior Seminar conference is 1:30-5pm in Sci 2200 on Saturday, 4 December 2010.
 
