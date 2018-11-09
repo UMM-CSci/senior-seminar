@@ -18,3 +18,14 @@ Go to [Senior_seminar_templates](https://github.com/UMM-CSci/Senior_seminar_temp
 ## [Past senior seminar schedules and papers](https://umm-csci.github.io/senior-seminar/seminars/)
 
 You can find all papers from the last few years of senior seminars and most of the presenters' slides [here](https://umm-csci.github.io/senior-seminar/seminars/)
+
+## Contributing
+Fork this repository, make your changes, and then make a pull request back to this repo!
+
+To run locally, install Ruby, and then run:
+```
+gem install bundler
+bundle install
+bundle exec jekyll serve
+```
+Then, the local webserver should be available at `http://localhost:4000/`.
