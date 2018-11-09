@@ -64,6 +64,16 @@ papers:
     pdf: Vanwijk.pdf 
     room: Sci 1020
     time: 2012-12-01 12:00 PM
+
+  - title: Break
+    time: 2012-12-01 1:00 PM
+    break: true
+    room: Sci 1020
+
+  - title: Break
+    time: 2012-12-01 2:45 PM
+    break: true
+    room: Sci 1020
 ---
 
 The Fall, 2012, Senior Seminar conference is 11:30-4pm in Sci 1020 on Saturday, 1 Dec, 2012.

@@ -48,6 +48,11 @@ papers:
     pdf: Valerius.pdf
     time: 2011-04-30 4:30 PM
     room: Sci 1020
+
+  - title: Break
+    time: 2011-04-30 3:00 PM
+    break: true
+    room: Sci 1020
 ---
 
 The CSci spring Senior Seminar conference is 1:00-4:30pm in Sci 1020.

@@ -63,6 +63,14 @@ papers:
     pdf: Schumacher.pdf
     slides: Schumacherslides.pdf
     time: 2014-04-29 6:40 PM
+
+  - title: Break
+    time: 2014-04-29 6:00 PM
+    break: true
+
+  - title: Break
+    time: 2014-04-28 6:30 PM
+    break: true
 ---
 
-The CSci discipline invites you to Spring2014 Senior Seminar conference on Monday, April 28 and Tuesday, April 29 2014. Refreshments will be served. 
+The CSci discipline invites you to Spring 2014 Senior Seminar conference on Monday, April 28 and Tuesday, April 29 2014. Refreshments will be served. 

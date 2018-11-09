@@ -108,6 +108,16 @@ papers:
     pdf: stockholm.pdf
     time: 2016-04-30 12:30 PM
     room: Sci 3610
+
+  - title: Break
+    time: 2016-04-30 1:00 PM
+    room: Sci 3610
+    break: true
+
+  - title: Break
+    time: 2016-04-30 1:00 PM
+    room: Sci 3650
+    break: true
 ---
 
 The CSci discipline invites you to Spring 2016 Senior Seminar conference on Saturday, April 30, 2016. The talks will be held from 11:00am–4:00pm in Sci 3610 & 3650.

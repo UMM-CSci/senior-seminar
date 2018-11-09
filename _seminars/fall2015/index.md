@@ -98,6 +98,16 @@ papers:
     slides: Yadeauslides.pdf
     time: 2015-12-05 10:00 AM
     room: Sci 1020
+
+  - title: Break
+    time: 2015-12-05 12:00 PM
+    room: Sci 1020
+    break: true
+
+  - title: Break
+    time: 2015-12-05 12:00 PM
+    room: Sci 1030
+    break: true
 ---
 
 The CSci discipline invites you to Fall 2015 Senior Seminar conference on Saturday, December 5, 2015. The talks will be held from 10:00am–2:00pm in Sci 1020 & 1030. Refreshments will be served.

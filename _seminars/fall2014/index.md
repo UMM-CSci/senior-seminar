@@ -76,6 +76,21 @@ papers:
     slides: Widdelslides.pdf
     time: 2014-12-06 3:00 PM
     room: Sci 1020
+
+  - title: Break
+    time: 2014-12-06 11:30 AM
+    room: Sci 1020
+    break: true
+
+  - title: Break
+    time: 2014-12-06 12:40 PM
+    room: Sci 1020
+    break: true
+
+  - title: Break
+    time: 2014-12-06 3:30 PM
+    room: Sci 1020
+    break: true
 ---
 
 The Fall, 2014, Senior Seminar conference is 10:00am-12:30pm in Sci 2200 on Saturday, 6 Dec, 2014.

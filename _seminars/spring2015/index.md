@@ -49,6 +49,11 @@ papers:
     distinctionpaper: true
     time: 2015-04-25 3:10 PM
     room: Sci 1020
+
+  - title: Break
+    time: 2015-04-25 2:00 PM
+    room: Sci 1020
+    break: true
 ---
 
 The CSci discipline invites you to Spring 2015 Senior Seminar conference on Saturday, April 25 2015. The talks will be held 12:30-3:40pm in Sci 1020. Refreshments will be served. 

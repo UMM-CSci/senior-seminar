@@ -65,6 +65,16 @@ papers:
     distinctionpaper: true
     time: 2011-04-28 5:00 PM
     room: Sci 1020
+
+  - title: Break
+    time: 2011-04-28 2:00 PM
+    break: true
+    room: Sci 1020
+
+  - title: Break
+    time: 2011-04-28 3:45 PM
+    break: true
+    room: Sci 1020
 ---
 
 The CSci discipline invites you to Spring 2012 Senior Seminar conference on Saturday, April 28th, starting at 12:30pm in Sci 1020. Refreshments will be served. 
