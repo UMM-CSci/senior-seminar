@@ -6,7 +6,7 @@ title: Key points and paper outlines
 
 We have consistently found that often students don't see the "big picture" of their paper and don't have a good understanding of the sources' contributions up until preparing their presentation at the end of the semester. This intermediate deadline is designed to help students get a better understanding of their work earlier in the semester.
 
-### Key points of your paper
+## Key points of your paper
 
 Academic papers tend to contribute at least one new thing to further work in an area, and the authors usually describe 
 their contributions by situating their work compared to other (previous) work in the area. 
@@ -26,7 +26,7 @@ Some items may not apply directly to papers in all areas. If that's the case wit
 
 If you have any questions, please talk to the instructor and/or your advisor.
 
-### Outline of your paper
+## Outline of your paper
 
 The outline of your paper describes the structure of your paper. This should include at least sections and subsections, along with a brief (one sentence) description of each. You should also mention the key sources you'll use for each section/subsection. You may want to expand the outline out to the level of paragraphs (or parts of subsections); this is particularly useful for areas that you're uncertain about or which you think will be challenging.
 

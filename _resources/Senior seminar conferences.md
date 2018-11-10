@@ -1,10 +1,10 @@
 ---
-title: Senior seminar conferences
+title: Senior Seminar conferences
 ---
 
-# Senior seminar conferences
+# Senior Seminar conferences
 
-### About the conference.
+## About the conference.
 
 Senior Seminar conference follows a standard CSci conference format. Each seminar participant presents their paper to the audience
 of peers, faculty, and guests (family, friends, and alums). Presentations summarize the papers, focusing on the key points, 
@@ -29,6 +29,6 @@ restrictions.
 There is usually an informal gathering in the evening after the conference for students, their friends and family,
 and faculty to celebrate students' accomplishments and just to hang out.
 
-### Date and time
+## Date and time
 
 Senior Seminar conference is usually held on Saturday before the last week of the semester, starting early afternoon (about 1pm). 

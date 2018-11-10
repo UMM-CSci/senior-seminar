@@ -6,7 +6,7 @@ title: Words of wisdom from past seniors
 
 These are words of wisdom from those who took Senior Seminar and successfully passed, as the vast majority of Senior Seminar students do. Adapted from the end-of-semester questionnaire.
 
-### Before the course (from your first year at UMM):
+## Before the course (from your first year at UMM):
 - Go to a senior seminar talk.
 - Find an area that interests you.
 - Have at least a general idea for a topic you may be interested in. Start looking at articles on that topic early and often, to be certain that you understand the material and that you are genuinely interested.
@@ -20,7 +20,7 @@ is would be useful).
 - Assume that it is a 3-credit course to get an accurate perspective of the workload (Elena's comment: this estimate varies, depending on the writing skills of the person, the topic difficulty, and the choice of sources).
 - Do not take more than 12 credits that semester to be able to put enough time and effort into other courses as well (Elena's comment: again, this is not necessary, but the workload is definitely a consideration). 
 
-### During the course:
+## During the course:
 
 - Don't get stressed out. The professors are there to help you.
 - Expect to put a lot of time into it.

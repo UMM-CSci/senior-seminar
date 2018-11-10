@@ -3,10 +3,7 @@ title: Description
 order: 2
 ---
 
-# UMM CSci senior seminar description and requirements
-{:.no_toc}
-
-## Description.
+# UMM CSci Senior Seminar description and requirements
 {:.no_toc}
 
 This is the senior seminar (CSci 4901) description in the catalog: 
