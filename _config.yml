@@ -34,6 +34,9 @@ plugins:
   - jemoji
   - jekyll-github-metadata
 
+relative_links:
+  enabled:     true
+  collections: true
 
 collections:
   seminars:
