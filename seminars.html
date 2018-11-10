@@ -7,57 +7,72 @@ match_collection: seminars
 ---
 
 <div id="papers">
-<input class="search form-control input-block" id="search-box" type="text" placeholder="Search" style="display: none;" />
-<br>
-<table>
-<thead>
-<tr>
-<th class="seminar-cell">Seminar</th>
-<th>Author</th>
-<th>Title</th>
-<th>Slides</th>
-</tr>
-</thead>
-<tbody class="list">
-{% assign grouped_seminars = site.seminars |  group_by:"year" | reverse %}
-{% for group in grouped_seminars %}
-{% assign sorted_seminars = group.items | where_exp:"item", "item.papers" | sort:"semester" %}
-{% for sem in sorted_seminars %}
-{% assign pageurl = sem.url | replace: 'index.html', '' | relative_url %}
-{% assign sorted_papers = sem.papers | where_exp:"item", "item.break != true" | sort: 'time' %}
-{% for paper in sorted_papers %}
-<tr>
-  <td class="seminar-title seminar-cell"><a href="{{ pageurl }}">{{ sem.title }}</a></td>
-  <td class="author">{{ paper.author }}</td>
-  <td class="title"><div class="paper-title">{% if paper.pdf %}<a href="{{ pageurl }}{{ paper.pdf }}">{% endif %}{{ paper.title }}{% if paper.pdf %}</a>{% endif %}</div>
-      {% if paper.tags %}
-      <div class="paper-tags">
-      {% for tag in paper.tags %}
-      <a href="{{ '/seminars/tags' | relative_url }}#tag-{{tag}}" class="Label Label--gray">{{tag}}</a>
+  <input class="search form-control input-block" id="search-box" type="text" placeholder="Search" style="display: none;" />
+  <br>
+  <table>
+    <thead>
+      <tr>
+        <th class="seminar-cell">Seminar</th>
+        <th>Author</th>
+        <th>Title</th>
+        <th>Slides</th>
+      </tr>
+    </thead>
+    <tbody class="list">
+      {% assign grouped_seminars = site.seminars |  group_by:"year" | reverse %}
+      {% for group in grouped_seminars %}
+      {% assign sorted_seminars = group.items | where_exp:"item", "item.papers" | sort:"semester" %}
+      {% for sem in sorted_seminars %}
+      {% assign pageurl = sem.url | replace: 'index.html', '' | relative_url %}
+      {% assign sorted_papers = sem.papers | where_exp:"item", "item.break != true" | sort: 'time' %}
+      {% for paper in sorted_papers %}
+        <tr>
+          <td class="seminar-title seminar-cell"><a href="{{ pageurl }}">{{ sem.title }}</a></td>
+          <td class="author">{{ paper.author }}</td>
+          <td class="title">
+            <div class="paper-title">
+              {% if paper.pdf %}
+                <a href="{{ pageurl }}{{ paper.pdf }}">
+              {% endif %}
+              {{ paper.title }}
+              {% if paper.pdf %}
+                </a>
+              {% endif %}
+            </div>
+            {% if paper.tags %}
+              <div class="paper-tags">
+                {% for tag in paper.tags %}
+                <a href="{{ '/seminars/tags' | relative_url }}#tag-{{tag}}" class="Label Label--gray">{{tag}}</a>
+                {% endfor %}
+              </div>
+            {% endif %}
+          </td>
+          <td>
+            {% if paper.slides %}
+              <a href="{{ pageurl }}{{ paper.slides }}">Slides</a>
+            {% elsif paper.slidesurl %}
+              <a href="{{ paper.slidesurl }}">Slides</a>
+            {% endif %}
+          </td>
+        </tr>
       {% endfor %}
-      </div>{% endif %}
-  </td>
-  <td>{% if paper.slides %}<a href="{{ pageurl }}{{ paper.slides }}">Slides</a>{% elsif paper.slidesurl %}<a href="{{ paper.slidesurl }}">Slides</a>{% endif %}</td>
-</tr>
-{% endfor %}
-{% endfor %}
-{% endfor %}
-</tbody>
-</table>
-<ul class="pagination"></ul>
+      {% endfor %}
+      {% endfor %}
+    </tbody>
+  </table>
+  <ul class="pagination"></ul>
 </div>
 
 <script type="text/javascript">
   document.getElementById("papers").style.display = "none";
   document.getElementById("search-box").style.display = "block";
 
-	var options = {
-		  valueNames: [ 'seminar-title', 'author', 'paper-title', 'paper-tags' ],
+  var options = {
+    valueNames: [ 'seminar-title', 'author', 'paper-title', 'paper-tags' ],
       page: 10,
       pagination: {outerWindow: 1,
                    innerWindow: 1}
-	};
-
+  };
 </script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js" integrity="sha256-YqOIp4MygNx9/lcWr5lpcR88Ki/MNMWvJJkH0eK+fHM=" crossorigin="anonymous" onload="var semList = new List('papers', options); document.getElementById('papers').style.display = 'block';"></script>
