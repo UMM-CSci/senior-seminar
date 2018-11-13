@@ -1,6 +1,6 @@
 ---
 title: Senior Seminar Resources
-order: 1
+order: 8
 ---
 
 # Senior Seminar Resources

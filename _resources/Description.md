@@ -1,6 +1,6 @@
 ---
-title: Description
-order: 2
+title: Course Description
+order: 1
 ---
 
 # UMM CSci Senior Seminar description and requirements

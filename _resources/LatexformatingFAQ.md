@@ -1,5 +1,6 @@
 ---
-title: LaTeX formatting FAQ
+title: LaTeX Formatting FAQ
+order: 10
 ---
 
 # FAQ on LaTeX formatting for UMM CSci senior seminar

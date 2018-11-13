@@ -1,8 +1,9 @@
 ---
-title: Examples of good writing
+title: Examples of Good Writing
+order: 9
 ---
 
-# Examples of good writing
+# Examples of Good Writing
 {:.no_toc}
 
 There are lots of great papers out there, but they are typically surrounded by vast oceans of poop (much like almost every other cultural artifact). Here are some examples, but this is by no means meant to be a complete or exclusive list, and we'd love it if people would add examples to this list. It is currently focused on papers; we could expand this to include books and other forms of writing, but it seems that traditional papers would be the most useful as examples for Senior Seminar. 

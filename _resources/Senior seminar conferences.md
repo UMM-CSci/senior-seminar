@@ -1,10 +1,11 @@
 ---
-title: Senior Seminar conferences
+title: Senior Seminar Conferences
+order: 2
 ---
 
 # Senior Seminar conferences
 
-## About the conference.
+## About the conference
 
 Senior Seminar conference follows a standard CSci conference format. Each seminar participant presents their paper to the audience
 of peers, faculty, and guests (family, friends, and alums). Presentations summarize the papers, focusing on the key points, 

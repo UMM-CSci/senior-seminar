@@ -1,5 +1,6 @@
 ---
-title: Finding sources for your senior seminar paper
+title: Finding Sources
+order: 6
 ---
 
 # Finding sources for your senior seminar paper

@@ -1,8 +1,9 @@
 ---
-title: Key points and paper outlines
+title: Key Points and Paper Outlines
+order: 7
 ---
 
-# Key points and paper outlines
+# Key Points and Paper Outlines
 
 We have consistently found that often students don't see the "big picture" of their paper and don't have a good understanding of the sources' contributions up until preparing their presentation at the end of the semester. This intermediate deadline is designed to help students get a better understanding of their work earlier in the semester.
 

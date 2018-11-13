@@ -1,8 +1,11 @@
 ---
-title: Words of wisdom from past seniors
+title: Words of Wisdom
+order: 3
 ---
 
-# Suggestions for students who will be taking this course in the future 
+# Words of wisdom from past seniors
+
+### Suggestions for students who will be taking this course in the future 
 
 These are words of wisdom from those who took Senior Seminar and successfully passed, as the vast majority of Senior Seminar students do. Adapted from the end-of-semester questionnaire.
 
