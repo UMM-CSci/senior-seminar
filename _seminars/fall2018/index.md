@@ -42,17 +42,20 @@ papers:
     author: Xaitheng Yang
     time: 2018-11-17 1:00 PM
     room: Sci 3650
+    slides: yangslides.pdf
 
   - title: Secure Hash Algorithm 3
     author: Courtney Cook
     time: 2018-11-17 1:30 PM
     room: Sci 3650
+    slides: cookslides.pdf
     distinctionslides: true
 
   - title: Application of Machine Learning Algorithms in Cyber-Security
     author: Shawn Saliyev
     time: 2018-11-17 2:00 PM
     room: Sci 3650
+    slides: saliyevslides.pdf
 
   - title: Improving Quality of Service in Edge Computing Networks
     author: Colin Rabe 
