@@ -9,26 +9,34 @@ papers:
     author: Charles Menne
     time: 2018-11-17 1:00 PM
     room: Sci 3610
+    slides: menneslides.pdf
+    distinctionslides: true
 
   - title: Colorization With Convolutional Neural Network
     author: Yutaro Miyata
     time: 2018-11-17 1:30 PM
     room: Sci 3610
+    slides: miyataslides.pdf
 
   - title: Requirements Practices in Software Startups
     author: John Hoff
     time: 2018-11-17 2:00 PM
     room: Sci 3610
+    slides: hoffslides.pdf
+    distinctionslides: true
 
   - title: Single Image Super-Resolution
     author: Yujing Song
     time: 2018-11-17 2:45 PM
     room: Sci 3610
+    slides: songslides.pdf
 
-  - title: Musical Metacreation - Modeling Polyphony with Neural Networks
+  - title: "Musical Metacreation: Modeling Polyphony with Neural Networks"
     author: Francisco Montanez
     time: 2018-11-17 3:15 PM
     room: Sci 3610
+    slides: montanezslides.pdf
+    distinctionslides: true
 
   - title: Searchable Encryption
     author: Xaitheng Yang
@@ -39,6 +47,7 @@ papers:
     author: Courtney Cook
     time: 2018-11-17 1:30 PM
     room: Sci 3650
+    distinctionslides: true
 
   - title: Application of Machine Learning Algorithms in Cyber-Security
     author: Shawn Saliyev
@@ -49,6 +58,8 @@ papers:
     author: Colin Rabe 
     time: 2018-11-17 2:45 PM
     room: Sci 3650
+    slides: rabeslides.pdf
+    distinctionslides: true
     
   - title: Break
     time: 2018-11-17 2:30 PM
