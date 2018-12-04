@@ -1,9 +1,9 @@
 ---
-title: Senior seminar Conferences
+title: Senior Seminar Conferences
 order: 2
 ---
 
-# Senior seminar conferences
+# Senior Seminar Conferences
 
 ## About the conference
 
