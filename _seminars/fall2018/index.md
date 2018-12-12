@@ -86,5 +86,7 @@ papers:
 
 The CSci discipline invites you to the Fall 2018 Senior Seminar conference on Saturday, November 17, 2018. The talks will be held at 1-4pm in Sci 3610 and 3650. Refreshments will be served.
 
+Many thanks to the alumni reviewers who provided feedback for this semester students: Kevin Arhelger, Mitchell Finzel, Daniel Frazier, Humza Haider, Brian Mitchell, Sydney Richards, Shawn Seymour, Scott Steffes, Dan Stelljes.
+
 
 
