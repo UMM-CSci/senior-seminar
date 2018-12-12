@@ -10,18 +10,21 @@ papers:
     time: 2018-11-17 1:00 PM
     room: Sci 3610
     slides: menneslides.pdf
+    pdf: menne.pdf
     distinctionslides: true
 
   - title: Colorization With Convolutional Neural Network
     author: Yutaro Miyata
     time: 2018-11-17 1:30 PM
     room: Sci 3610
+    pdf: miyata.pdf
     slides: miyataslides.pdf
 
   - title: Requirements Practices in Software Startups
     author: John Hoff
     time: 2018-11-17 2:00 PM
     room: Sci 3610
+    pdf: hoff.pdf
     slides: hoffslides.pdf
     distinctionslides: true
 
@@ -29,12 +32,14 @@ papers:
     author: Yujing Song
     time: 2018-11-17 2:45 PM
     room: Sci 3610
+    pdf: song.pdf
     slides: songslides.pdf
 
   - title: "Musical Metacreation: Modeling Polyphony with Neural Networks"
     author: Francisco Montanez
     time: 2018-11-17 3:15 PM
     room: Sci 3610
+    pdf: montanez.pdf
     slides: montanezslides.pdf
     distinctionslides: true
 
@@ -42,12 +47,14 @@ papers:
     author: Xaitheng Yang
     time: 2018-11-17 1:00 PM
     room: Sci 3650
+    pdf: yang.pdf
     slides: yangslides.pdf
 
   - title: Secure Hash Algorithm 3
     author: Courtney Cook
     time: 2018-11-17 1:30 PM
     room: Sci 3650
+    pdf: cook.pdf
     slides: cookslides.pdf
     distinctionslides: true
 
@@ -55,12 +62,14 @@ papers:
     author: Shawn Saliyev
     time: 2018-11-17 2:00 PM
     room: Sci 3650
+    pdf: saliyev.pdf
     slides: saliyevslides.pdf
 
   - title: Improving Quality of Service in Edge Computing Networks
     author: Colin Rabe 
     time: 2018-11-17 2:45 PM
     room: Sci 3650
+    pdf: rabe.pdf
     slides: rabeslides.pdf
     distinctionslides: true
     
