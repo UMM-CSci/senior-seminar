@@ -36,7 +36,7 @@ papers:
     slides: songslides.pdf
 
   - title: "Musical Metacreation: Modeling Polyphony with Neural Networks"
-    author: Francisco Montanez
+    author: Francisco Montañez
     time: 2018-11-17 3:15 PM
     room: Sci 3610
     pdf: montanez.pdf
