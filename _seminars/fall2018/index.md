@@ -12,6 +12,7 @@ papers:
     slides: menneslides.pdf
     pdf: menne.pdf
     distinctionslides: true
+    distinctionpaper: true
 
   - title: Colorization With Convolutional Neural Network
     author: Yutaro Miyata
@@ -27,6 +28,7 @@ papers:
     pdf: hoff.pdf
     slides: hoffslides.pdf
     distinctionslides: true
+    distinctionpaper: true
 
   - title: Single Image Super-Resolution
     author: Yujing Song
@@ -34,6 +36,7 @@ papers:
     room: Sci 3610
     pdf: song.pdf
     slides: songslides.pdf
+    distinctionpaper: true
 
   - title: "Musical Metacreation: Modeling Polyphony with Neural Networks"
     author: Francisco Montañez
