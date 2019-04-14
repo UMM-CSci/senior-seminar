@@ -100,4 +100,6 @@ The CSci discipline invites you to Spring 2019 Senior Seminar conference on
 Saturday, April 20.
 The talks will be held in Sci 3610 and 3650.
 
+Papers and slides will be added at the end of the semester. 
+
 
