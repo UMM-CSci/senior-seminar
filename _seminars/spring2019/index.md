@@ -9,7 +9,7 @@ papers:
     time: 2019-04-20 11:00 AM
     room: Sci 3610
 
-  - title: An Analysis of IoT System Applications to Global Public Health Issues
+  - title: An Analysis of the goals and requirements of IoT Systems
     author: David Chong
     time: 2019-04-20 11:30 AM
     room: Sci 3610
@@ -34,13 +34,13 @@ papers:
     time: 2019-04-20 11:30 AM
     room: Sci 3650
 
-  - title: Dynamic Load Balancing in Cloud Computing
-    author: Nicholas Plucker
+  - title: Prevention of Use-After-Free Pointer Vulnerability
+    author: Zihan An
     time: 2019-04-20 12:00 PM
     room: Sci 3650
 
-  - title: Prevention of Use-After-Free Pointer Vulnerability
-    author: Zihan An
+  - title: Difficulty Automation in Video Games
+    author: Marshall Hoffmann
     time: 2019-04-20 12:30 PM
     room: Sci 3650
 
@@ -59,8 +59,8 @@ papers:
     time: 2019-04-20 2:30 PM
     room: Sci 3610
 
-  - title: Difficulty Automation in Video Games
-    author: Marshall Hoffmann
+  - title: Evolutionary Computation in the Context of Foil Design
+    author: Leonid Scott
     time: 2019-04-20 3:00 PM
     room: Sci 3610
 
@@ -74,14 +74,9 @@ papers:
     time: 2019-04-20 2:00 PM
     room: Sci 3650
 
-  - title: Evolutionary Computation in the Context of Foil Design
-    author: Leonid Scott
-    time: 2019-04-20 2:30 PM
-    room: Sci 3650
-
   - title: Solving the Security Problems of Free-Floating Car Sharing
     author: Nicholas Bushway
-    time: 2019-04-20 3:00 PM
+    time: 2019-04-20 2:30 PM
     room: Sci 3650
 
   - title: Break
