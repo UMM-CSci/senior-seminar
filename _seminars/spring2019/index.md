@@ -24,7 +24,7 @@ papers:
     time: 2019-04-20 12:30 PM
     room: Sci 3610
 
-  - title: DevOps for Software
+  - title: DevOps for Software Engineering
     author: Khondoker Ahnaf Prio
     time: 2019-04-20 11:00 AM
     room: Sci 3650
