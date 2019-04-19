@@ -61,11 +61,6 @@ papers:
 
   - title: Evolutionary Computation in the Context of Foil Design
     author: Leonid Scott
-    time: 2019-04-20 3:00 PM
-    room: Sci 3610
-
-  - title: Rainbow Tables
-    author: Yukai Zang
     time: 2019-04-20 1:30 PM
     room: Sci 3650
 
