@@ -34,7 +34,7 @@ papers:
     time: 2019-04-20 11:30 AM
     room: Sci 3650
 
-  - title: Prevention of Use-After-Free Pointer Vulnerability
+  - title: Prevention of the C/C++ Pointer Vulnerability
     author: Zihan An
     time: 2019-04-20 12:00 PM
     room: Sci 3650
