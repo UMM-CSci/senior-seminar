@@ -16,19 +16,23 @@
 //$main-nav-color: #8C1919; //Morris Maroon
 $main-nav-color: $bg-blue;
 
+.paginate-container {
+    margin-top: 0;
+    margin-bottom: 0;
+}
 
 .pagination {
     list-style-type: none;
-    margin: 0;
+    margin: 0 !important;
     padding: 0 !important;
     width: 100%;
 
-    @extend .subnav-flush;
+    //@extend .subnav-flush;
 
 
 
     .page {
-        @extend .subnav-item;
+        //@extend .subnav-item;
 
         &:first-child {
           border-top-left-radius: 0px;
@@ -42,11 +46,15 @@ $main-nav-color: $bg-blue;
     }
     .active .page {
         @extend .selected;
+        @extend .current;
+    }
+    .disabled .page {
+        @extend .gap;
     }
 
 
     li {
-        margin: 0;
+        margin: 0 !important;
         padding: 0;
         +li {
             .page {
@@ -250,7 +258,9 @@ $main-nav-color: $bg-blue;
     @media (min-width: 34em) {
         margin-right: 1rem;
     }
-} // Override Markdown styles to restore values from `_type.scss`
+}
+
+// Override Markdown styles to restore values from `_type.scss`
 ul,
 ol {
     padding-left: 0;

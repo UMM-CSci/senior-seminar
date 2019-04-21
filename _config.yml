@@ -18,6 +18,8 @@ repository: UMM-CSci/senior-seminar
 
 sass:
   style: compressed
+  load_paths:
+    - primer/modules/
 
 # Build settings
 markdown: kramdown
@@ -26,6 +28,7 @@ highlighter: rouge
 exclude:
   - Gemfile
   - Gemfile.lock
+  - primer/
 
 plugins:
   - jekyll-readme-index

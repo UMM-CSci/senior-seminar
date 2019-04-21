@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div class="columns docs-layout">
-  <div class="one-fourth column sidebar">
+  <div class="one-fifth column sidebar">
       
-  	<nav class="menu docs-menu">
+  	<nav class="menu ">
   	{% assign sorted_res = site.resources | sort:"order" %}
   	{% for res in sorted_res %}
   <a class="menu-item {% if page.url == res.url %}selected{% endif %}" href="{{ site.baseurl }}{{ res.url }}">
@@ -15,7 +15,7 @@ layout: default
 </nav>
 
   </div>
-  <div class="three-fourths column markdown-body main-content">
+  <div class="four-fifths column markdown-body main-content">
     {% comment %}
     <h1 class="page-title">
       {{ page.title }}
