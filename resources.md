@@ -6,6 +6,14 @@ permalink: /resources/
 match_collection: resources
 ---
 
-Public materials for senior seminar, including assignments, past papers/slides, templates, etc. 
+# Resources
 
-Go to [Senior_seminar_templates](https://github.com/UMM-CSci/Senior_seminar_templates) to fork the paper and talk templates.
+
+Resources for Senior Seminar:
+
+<ul>
+{% assign sorted_res = site.resources | sort:"order" %}
+{% for res in sorted_res %}
+<li><a href="{{res.url | relative_url}}">{{res.excerpt | strip_html }}</a></li>
+{% endfor %}
+</ul>

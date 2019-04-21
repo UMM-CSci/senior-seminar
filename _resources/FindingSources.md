@@ -1,40 +1,46 @@
 ---
-title: Finding sources for your senior seminar paper
+title: Finding Sources
+order: 6
 ---
 
 # Finding sources for your senior seminar paper
+{:.no_toc}
 
 Your paper will be based on recent peer reviewed computer science research literature. We require you to have at least three reasonably recent peer reviewed sources as key sources of your paper. 
 
 It is essential that you use sources that inform you about the topic of your paper in a way that you can understand and summarize in your paper and your presentation. The topic of your paper is ultimately determined by your sources. If the source papers that you are trying to use are too complex or not detailed enough or poorly written, writing your own paper based on these sources would be very challenging and may be frustrating. Thus, choosing good sources at an appropriate level is one of the keys to writing a good senior seminar paper. 
 
-## Finding sources
-
-*Peer reviewed* computer science literature means papers that were published in computer science journals or proceedings of computer science conferences or workshops where publications are selected based on reviews by experts in the field. This writeup explains peer review process: [Meet Science: What is "peer review"?](http://boingboing.net/2011/04/22/meet-science-what-is.html) 
+* Do not remove this line (it will not be displayed)
+{:toc} 
 
 ## Guidelines for sources for your paper
 
 While the general requirement is to have at least three fairly recent published peer-reviewed sources, the specifics of these requirements depend on your topic: 
 
-**Recent sources** For an active area and a sufficiently general topic (e.g. machine learning or network security) we would expect that all your primary sources are published within the last 3-4 years. If your topic is more specific and/or slower developing (e.g. applications of machine learning to medical records or assistive technology for middle school teachers), you might not be able to find all sources within the last 3-4 years. In this case it's ok to have one recent source (within 3-4 years) and the other two be somewhat older. 
-<br />
+### Recent sources
+For an active area and a sufficiently general topic (e.g. machine learning or network security) we would expect that all your primary sources are published within the last 3-4 years. If your topic is more specific and/or slower developing (e.g. applications of machine learning to medical records or assistive technology for middle school teachers), you might not be able to find all sources within the last 3-4 years. In this case it's ok to have one recent source (within 3-4 years) and the other two be somewhat older. 
+
 It is up a responsibility of the student to search for sources and to discuss with their adviser and the senior seminar instructor what is available. If no new sources are available, but the topic is interesting, we may suggest widening the topic or we may be ok with the student using somewhat older sources.
 
 Some senior seminar papers are survey papers and cover more than three sources. For instance, see [Concurrent Compaction in JVM Garbage Collection by Jacob Opdahl](../seminars/fall2015/Opdahl.pdf) ([Fall 2015](../seminars/fall2015)).
 
 We also want to make sure that you are presenting a reasonably complete picture of the state of the art in a specific area. Thus your three primary sources shouldn't all come from the same author or group of authors. 
 
-**Primary vs supplementary sources**
+### Primary vs supplementary sources
 Primary sources are the ones that provide information for the core of your paper. Your paper needs to clearly explain the methods and the results presented in your primary sources in a way that's understandable to students at the Data Structures level. 
 
 In order to better understand methods used in your paper you are likely to use supplementary sources: papers that the primary sources are building upon, textbooks, technical reports, wikipedia articles, talks and blog posts by researchers explaining the concepts, etc. Some of these materials may be peer reviewed, and some wouldn't be. Make sure they are trustworthy. You need to cite them in your paper (we discuss proper citing later). 
 
-**Using your sources**
+### Using your sources
 Typically your primary sources cover the same topic from different angles. Some example of senior seminar papers that follow this approach: [Image Resizing using Seam Carving by Kristin Rachor](../seminars/fall2015/Rachor.pdf) ([Fall 2015](../seminars/fall2015)), [Monte Carlo Tree Search and Its Applications by Max Magnuson](../seminars/spring2015/Magnuson.pdf) ([Spring 2015](../seminars/spring2015)).  
 
 However, sometimes it makes sense to focus on one main source and background information for it, and spend less time on applications of the methods: [Parallel BVH Construction for Real-Time Ray Tracing by Aaron Lemmon](../seminars/spring2016/lemmon.pdf) ([Spring 2016](../seminars/spring2016)).  
 
-Make sure to discuss your paper structure with your adviser and the instructor to figure out what works best for your topic. 
+Make sure to discuss your paper structure with your adviser and the instructor to figure out what works best for your topic.
+ 
+## Finding sources
+
+*Peer reviewed* computer science literature means papers that were published in computer science journals or proceedings of computer science conferences or workshops where publications are selected based on reviews by experts in the field. This writeup explains peer review process: [Meet Science: What is "peer review"?](http://boingboing.net/2011/04/22/meet-science-what-is.html)
 
 ### Sources from journals, conferences, and workshops
 
