@@ -1,15 +1,16 @@
---- 
---- 
-@import "primer-core/index.scss";
+---
+---
+@import "core/index.scss";
 @import "syntax.scss";
 
 
-@import "primer-markdown/index.scss";
+@import "markdown/index.scss";
 
-@import "primer-labels/index.scss";
+@import "labels/index.scss";
 
-@import "primer-blankslate/index.scss";
-@import "primer-alerts/index.scss";
+@import "blankslate/index.scss";
+@import "alerts/index.scss";
+@import "branch-name/index.scss";
 
 
 // Primary nav bar color

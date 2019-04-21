@@ -19,7 +19,7 @@ repository: UMM-CSci/senior-seminar
 sass:
   style: compressed
   load_paths:
-    - primer/modules/
+    - primer/src/
 
 # Build settings
 markdown: kramdown
