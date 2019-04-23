@@ -101,22 +101,6 @@ h2 {
   {% endfor %}
   {% endfor %}
 
-<br>
-<canvas id="qr"></canvas>
-
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/qrious/4.0.2/qrious.min.js" integrity="sha256-25ncr0CpJhgbzkUiR3wu/Fkk9sSykRG2qX+upHfJUos=" crossorigin="anonymous"></script>
-
-<script>
-  (function() {
-    const qr = new QRious({
-      element: document.getElementById('qr'),
-      value: "{{ site.url }}{{ site.baseurl }}{{ recent_sem.url | replace: 'index.html', '' }}",
-      size: 150
-    });
-  })();
-</script>
-
 </div>
 
 </body>
