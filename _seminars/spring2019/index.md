@@ -26,7 +26,7 @@ papers:
     slides: hammerstenslides.pdf
     pdf: hammersten.pdf
     
-  - title: Using Emotion Recognition to Reduce Interruptions
+  - title: Tools to Improve Interruption Management
     author: Matthew Munns
     time: 2019-04-20 12:30 PM
     room: Sci 3610
