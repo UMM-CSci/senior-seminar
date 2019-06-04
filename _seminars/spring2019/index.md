@@ -85,7 +85,7 @@ papers:
     slides: debatesslides.pdf
     pdf: debates.pdf
 
-  - title: Evolutionary Computation in the Context of Foil Design
+  - title: Wing Design Using SAIL
     author: Leonid Scott
     time: 2019-04-20 1:30 PM
     room: Sci 3650
