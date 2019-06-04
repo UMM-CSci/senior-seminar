@@ -10,6 +10,7 @@ papers:
     room: Sci 3610
     slides: holmanslides.pdf
     distinctionslides: true
+    distinctionpaper: true
     pdf: holman.pdf
 
   - title: An Analysis of the Goals and Requirements of IoT Systems
@@ -31,6 +32,7 @@ papers:
     time: 2019-04-20 12:30 PM
     room: Sci 3610
     slides: munnsslides.pdf
+    distinctionpaper: true
     pdf: munns.pdf
 
   - title: DevOps for Software Engineering
@@ -89,6 +91,7 @@ papers:
     room: Sci 3650
     slides: scottslides.pdf
     distinctionslides: true
+    distinctionpaper: true
     pdf: scott.pdf
     
   - title: Fire Detection Based on Convolutional Neural Networks
