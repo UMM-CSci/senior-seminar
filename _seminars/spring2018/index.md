@@ -16,6 +16,7 @@ papers:
     time: 2018-04-12 7:00 PM
     room: Sci 3610
     slides: malikslides.pdf
+    pdf: malik.pdf
     
   - title: Recent Advancements in Cloud Security
     author: Matt Mitchell
