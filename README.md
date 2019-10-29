@@ -23,6 +23,11 @@ You can find all papers from the last few years of senior seminars and most of t
 Fork this repository, make your changes, and then make a pull request back to this repo! There are also "Edit on GitHub" buttons throughout the site you can use to quickly edit and make a pull request for a specific page.
 
 ## Running locally
-To run locally, install make sure you have Ruby and RubyGems installed ([more details](https://jekyllrb.com/docs/installation/)), then install [Jekyll](https://jekyllrb.com/) and [Bundler](https://bundler.io/) with `gem install bundler`.
+
+To run locally, clone this repo and get the [submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) with `git submodule update`.
+
+Then make sure you have Ruby and RubyGems installed ([more details](https://jekyllrb.com/docs/installation/)), then install [Jekyll](https://jekyllrb.com/) and [Bundler](https://bundler.io/) with `gem install bundler`.
 
 Setup the project by running `bundle install` in the root of the repo. You can then run `bundle exec jekyll serve` to build the site and make it available on a local server (it should also automatically rebuild the site when changes are made to the files).
+
+More details on the formatting and structure of the site can be found [here](https://umm-csci.github.io/senior-seminar/resources/about.html).
