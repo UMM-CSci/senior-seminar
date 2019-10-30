@@ -19,6 +19,8 @@ These are some extra pages not in the main navigation:
 
 If you want to contribute to this site, fork [the repository]({{site.github.repository_url}}), make your changes, and then make a pull request back to this repo! There are also "Edit on GitHub" buttons throughout the site you can use to quickly edit and make a pull request for a specific page.
 
+There is information on how to run the site locally in the [README]({{site.github.repository_url}}/blob/master/README.md#running-locally).
+
 ## Seminars Format
 
 A seminar is a single senior seminar event for a specific semester and year. They are directories stored in the `_seminars` directory. An example would be `_seminars/spring2018`. In that directory is an `index.md` file and all of the PDFs for the seminar.
