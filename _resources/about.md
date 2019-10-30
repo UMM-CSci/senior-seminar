@@ -13,7 +13,7 @@ This site uses [Jekyll](https://jekyllrb.com/) and is hosted on [GitHub Pages](h
 
 These are some extra pages not in the main navigation:
 
-- [Current schedule for printing]({{site.baseurl}}/current-schedule)
+- <a data-turbolinks="false" href="{{site.baseurl}}/current-schedule">Current schedule for printing</a>
 
 ## Contributing
 
