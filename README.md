@@ -24,10 +24,24 @@ Fork this repository, make your changes, and then make a pull request back to th
 
 ## Running locally
 
-To run locally, clone this repo and get the [submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) with `git submodule update`.
+To run locally, clone this repo and get the [submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) with `git submodule init` and then `git submodule update`.
 
-Then make sure you have Ruby and RubyGems installed ([more details](https://jekyllrb.com/docs/installation/)), then install [Jekyll](https://jekyllrb.com/) and [Bundler](https://bundler.io/) with `gem install bundler`.
+### Running with Ruby and Bundler
+
+Make sure you have Ruby and RubyGems installed ([more details](https://jekyllrb.com/docs/installation/)), then install [Jekyll](https://jekyllrb.com/) and [Bundler](https://bundler.io/) with `gem install bundler`.
 
 Setup the project by running `bundle install` in the root of the repo. You can then run `bundle exec jekyll serve` to build the site and make it available on a local server (it should also automatically rebuild the site when changes are made to the files).
+
+### Running with Docker
+
+If you have Docker you can run the site with docker using
+
+```bash
+docker run -it --rm -v ${PWD}:/usr/src/app -p 4000:4000 starefossen/github-pages
+```
+
+This will serve the site on port 4000 (it should also automatically rebuild the site when changes are made to the files).
+
+---
 
 More details on the formatting and structure of the site can be found [here](https://umm-csci.github.io/senior-seminar/resources/about.html).
