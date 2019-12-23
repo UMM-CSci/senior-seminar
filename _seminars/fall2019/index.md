@@ -49,6 +49,15 @@ papers:
     time: 2019-11-16 1:00 PM
     room: Sci 3610
 
+  - title: Load Balancing in Cloud Computing
+    author: Nicholas Plucker
+    time: 2019-10-24 6:00 PM
+    room: Sci 2190
+    pdf: plucker.pdf
+    slides: pluckerslides.pdf
+    distinctionslides: true    
+    
+
 ---
 
 The CSci discipline invites you to the {{ page.title }} Senior Seminar conference on
