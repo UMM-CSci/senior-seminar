@@ -76,7 +76,7 @@ papers:
 
   - title: "Analyzing a Software Computer Graphics Pipeline: Implementation, Comparative Benchmarking, and Pipeline Customization"
     author: Kyle Fluto
-    time: 2020-04-18 5:00 PM
+    time: 2020-04-18 5:30 PM
     room: Zoom 2
 ---
 
