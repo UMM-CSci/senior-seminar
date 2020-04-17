@@ -4,10 +4,10 @@ layout: default
 
 <div class="columns docs-layout">
   <div class="one-fifth column sidebar">
-      
+
     <nav class="menu ">
     <a class="menu-item {% if page.url == '/seminars/' %}selected{% endif %}" href="{{ "/seminars/" | relative_url }}">
-      All Seminars 
+      All Seminars
       <span class="Counter">{% include total-paper-count.html %}</span>
     </a>
     {% assign grouped_seminars = site.seminars |  group_by:"year" | reverse %}
@@ -29,7 +29,7 @@ layout: default
 {% if unique-tags.size > 0 %}
 <nav class="menu docs-menu">
 <a class="menu-item {% if page.url == '/seminars/tags' %}selected{% endif %}" href="{{ "/seminars/tags" | relative_url }}">
-      Tags 
+      Tags
     </a>
 </nav>
 {% endif %}
@@ -44,7 +44,7 @@ layout: default
   </h1>
 
   {{ content }}
-  
+
     {% if page.showtable and page.papers %}
     <h2>Papers and Slides</h2>
 
@@ -73,7 +73,7 @@ layout: default
 {% endfor %}
 
 {% assign pageurl = page.url | replace: 'index.html', '' | relative_url %}
-  
+
 {% assign papers_groups_date = page.papers | group_by_exp:"item", 'item.time | date: "%F" ' %}
 {% for group_papers_date in papers_groups_date %}
 {% if group_papers_date.name %}<h3>{{ group_papers_date.name | date: "%A, %-d %B %Y" }}</h3> {% endif %}
@@ -82,7 +82,7 @@ layout: default
 {% for group_papers_room in papers_groups_room %}
 {% if group_papers_room.name %}<h3>{{ group_papers_room.name }}</h3>{% endif %}
 
-  <table>
+  <table class="seminar-table">
   <tr>
   {% if show_time %}<th class="time-cell">Time</th>{% endif %}
   <th>Author</th>

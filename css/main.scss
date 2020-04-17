@@ -274,8 +274,8 @@ ol {
     background-color: $blue-200;
 }
 
-table {
-    width: 100%;
+.seminar-table, .all-seminar-table {
+    display: table !important;
 }
 
 .time-cell, .seminar-cell {
