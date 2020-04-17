@@ -69,7 +69,7 @@ papers:
     time: 2020-04-18 4:30 PM
     room: Zoom 2
 
-  - title: "Decentralized Social Networks: Pros and Cons of the Mastadon Platform"
+  - title: "Decentralized Social Networks: Pros and Cons of the Mastodon Platform"
     author: Charlot Shaw
     time: 2020-04-18 5:00 PM
     room: Zoom 2
