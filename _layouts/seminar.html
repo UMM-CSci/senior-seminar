@@ -57,10 +57,8 @@ layout: default
   {% else %}
     {% assign star_items = 'Presentations' %}
   {% endif %}
-{% else %}
-  {% if paperdistinctions contains true %}
-    {% assign star_items = 'Papers' %}
-  {% endif %}
+{% else if paperdistinctions contains true %}
+  {% assign star_items = 'Papers' %}
 {% endif %}
 
 {% if slidedistinctions contains true or paperdistinctions contains true %}
