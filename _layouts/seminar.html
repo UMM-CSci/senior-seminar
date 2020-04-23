@@ -51,9 +51,21 @@ layout: default
 {% assign slidedistinctions = page.papers | map: "distinctionslides" | compact %}
 
 {% assign paperdistinctions = page.papers | map: "distinctionpaper" | compact %}
+  
+{% if slidedistinctions contains true %}
+  {% if paperdistinctions contains true %}
+    {% assign star_items = 'Papers and presentations' %}
+  {% else %} # slides is true, but papers is false
+    {% assign star_items = 'Presentations' %}
+  {% endif %}
+{% else %} # slidedistinctions is false
+  {% if paperdistinctions contains true %}
+    {% assign star_items = 'Papers' %}
+  {% endif %}
+{% endif %}
 
 {% if slidedistinctions contains true or paperdistinctions contains true %}
-<p>Papers and presentations that were evaluated as deserving a distinction are marked with &#x2B50.</p>
+  <p>{{ star_items }} that were evaluated as deserving a distinction are marked with &#x2B50.</p>
 {% endif %}
 
 {% assign show_time = false %}
