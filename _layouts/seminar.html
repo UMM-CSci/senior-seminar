@@ -49,16 +49,15 @@ layout: default
     <h2>Papers and Slides</h2>
 
 {% assign slidedistinctions = page.papers | map: "distinctionslides" | compact %}
-
 {% assign paperdistinctions = page.papers | map: "distinctionpaper" | compact %}
-  
+
 {% if slidedistinctions contains true %}
   {% if paperdistinctions contains true %}
     {% assign star_items = 'Papers and presentations' %}
-  {% else %} # slides is true, but papers is false
+  {% else %}
     {% assign star_items = 'Presentations' %}
   {% endif %}
-{% else %} # slidedistinctions is false
+{% else %}
   {% if paperdistinctions contains true %}
     {% assign star_items = 'Papers' %}
   {% endif %}
