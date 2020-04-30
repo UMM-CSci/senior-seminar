@@ -49,11 +49,20 @@ layout: default
     <h2>Papers and Slides</h2>
 
 {% assign slidedistinctions = page.papers | map: "distinctionslides" | compact %}
-
 {% assign paperdistinctions = page.papers | map: "distinctionpaper" | compact %}
 
 {% if slidedistinctions contains true or paperdistinctions contains true %}
-<p>Papers and presentations that were evaluated as deserving a distinction are marked with &#x2B50.</p>
+  {% assign star_items = "" | split: "," %}
+
+  {% if paperdistinctions contains true %}
+    {% assign star_items = star_items | push: "papers" %}
+  {% endif %}
+
+  {% if slidedistinctions contains true %}
+    {% assign star_items = star_items | push: "presentations" %}
+  {% endif %}
+
+  <p>{{ star_items | join: " and " | capitalize }} that were evaluated as deserving a distinction are marked with &#x2B50.</p>
 {% endif %}
 
 {% assign show_time = false %}
