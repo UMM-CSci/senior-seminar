@@ -83,3 +83,5 @@ papers:
 The CSci discipline invites you to Spring 2020 Senior Seminar conference on
 Saturday, April 18.
 The talks will be held in two Zoom meetings.
+
+We apologize for a delay in posting the papers and slides - this was a very hectic semester. Please browse other semesters for examples of papers and slides. 
