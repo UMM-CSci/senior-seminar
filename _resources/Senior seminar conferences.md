@@ -17,7 +17,7 @@ evenings, but we try to make it Saturday if at all possible). Talks are schedule
 (roughly 25 minutes per talk, including questions, and 5 minutes for people to stretch their legs and for the next speaker 
 to set up). We usually have half an hour break after the first two hours of talks. Refreshments and snacks are served.
 
-In order to get a passing grade you must attend the entire conference.
+In order to get a passing grade you must attend the entire conference (for larger conferences - an entire session, usually 4-5 talks).
 
 This is a somewhat formal event. The expectation is that presenters wear [Business Casual](https://en.wikipedia.org/wiki/Business_casual) 
 style clothes. Jeans (even in the style described on the wikipedia page) are discouraged. Start thinking about your attire early on so
@@ -30,3 +30,5 @@ restrictions.
 ## Date and time
 
 Senior seminar conference is usually held on a Saturday about three weeks before the end of the semester, starting early afternoon (about 1pm). 
+
+In Spring and Fall 2020, due to COVID 19, the conference is conduced online, via zoom. The link is announced on the CSci mailing list a few days prior to the conference. As always, all CSci students (major, minor, or just interested in CSci), alums, and families/friends of presenters are very welcome to attend.  
