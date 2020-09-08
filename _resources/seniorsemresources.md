@@ -41,11 +41,9 @@ People should feel free to help extend this. Other sources? What sources of pape
 
 [Meet Science: What is "peer review"?](http://boingboing.net/2011/04/22/meet-science-what-is.html)is a nice piece on what peer review is (and isn't).
 
-## Sample annotated bibliography
+## Annotated bibliography
 
-You can keep your annotated bibliography in a notebook or a text file on your computer,
-or you can use things like web-based bookmarking tools. 
-[This example shows](http://del.icio.us/bvisto) how a student used a bookmarking site to store and annotate his bibliography entries.
+You can keep your annotated bibliography in a Google document or a text file. Include the paper's author(s), title, the conference or journal where it was published, a link to the full text if you have it, a short note on how it is relevant to your topic and whether you plan to use it as a primary, supplementary, or a background source. 
 
 ## Writing
 
