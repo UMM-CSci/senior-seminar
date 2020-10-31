@@ -33,6 +33,7 @@ papers:
     author: Paul Friederichsen
     time: 2020-10-31 1:45 PM
     room: Zoom 1
+    distinctionslides: true
 
   - title: Prediction-Based Cyber Analytic Threat Detection
     author: Kedrick Hill
@@ -58,6 +59,7 @@ papers:
     author: Ananya Teklu
     time: 2020-10-31 1:15 PM
     room: Zoom 2
+    distinctionslides: true
 
 ---
 
