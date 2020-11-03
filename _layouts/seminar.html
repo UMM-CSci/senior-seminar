@@ -75,7 +75,7 @@ layout: default
 
 {% assign show_slides = false %}
 {% for paper in page.papers %}
-{% if paper.slides or paper.slidesurl %}
+{% if paper.slides or paper.slidesurl or paper.distinctionslides %}
 {% assign show_slides = true %}
 {% break %}
 {% endif %}
