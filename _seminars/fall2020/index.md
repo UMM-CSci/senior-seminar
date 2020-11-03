@@ -8,11 +8,13 @@ papers:
     author: Vantou Xiong
     time: 2020-10-31 11:30 AM
     room: Zoom 1
+    slides: xiongslides.pdf
 
   - title: Proving Database Migration Correctness with Category Theory
     author: Aaron Walter
     time: 2020-10-31 12:00 PM
     room: Zoom 1
+    slides: walterlides.pdf
 
   - title: Break
     time: 2020-10-31 12:30 PM
@@ -23,27 +25,32 @@ papers:
     author: Utkarsh Kumar
     time: 2020-10-31 12:45 PM
     room: Zoom 1
+    slides: kumarslides.pdf
 
   - title: Breast Cancer Diagnosis through Machine Learning 
     author: Jonah Northwood
     time: 2020-10-31 1:15 PM
     room: Zoom 1
+    slides: northwoodslides.pdf
 
   - title: Recent Advances in Smartphone Computational Photography 
     author: Paul Friederichsen
     time: 2020-10-31 1:45 PM
     room: Zoom 1
     distinctionslides: true
+    slides: friederichsenslides.pdf
 
   - title: Prediction-Based Cyber Analytic Threat Detection
     author: Kedrick Hill
     time: 2020-10-31 11:30 AM
     room: Zoom 2
+    slides: hillslides.pdf
 
   - title: Computer Science in Early Education
     author: Jaydon Smith
     time: 2020-10-31 12:00 PM
     room: Zoom 2
+    slides: smithslides.pdf
 
   - title: Break
     time: 2020-10-31 12:30 PM
@@ -54,12 +61,14 @@ papers:
     author: Leah Judd
     time: 2020-10-31 12:45 PM
     room: Zoom 2
+    slides: juddslides.pdf
 
   - title: Creating Secure Encryptions with Quantum Cryptography 
     author: Ananya Teklu
     time: 2020-10-31 1:15 PM
     room: Zoom 2
     distinctionslides: true
+    slides: tekluslides.pdf
 
 ---
 
