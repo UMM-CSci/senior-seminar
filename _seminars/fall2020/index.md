@@ -14,7 +14,7 @@ papers:
     author: Aaron Walter
     time: 2020-10-31 12:00 PM
     room: Zoom 1
-    slides: walterlides.pdf
+    slides: walterslides.pdf
 
   - title: Break
     time: 2020-10-31 12:30 PM
