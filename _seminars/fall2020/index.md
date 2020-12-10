@@ -9,12 +9,14 @@ papers:
     time: 2020-10-31 11:30 AM
     room: Zoom 1
     slides: xiongslides.pdf
+    pdf: xiong.pdf
 
   - title: Proving Database Migration Correctness with Category Theory
     author: Aaron Walter
     time: 2020-10-31 12:00 PM
     room: Zoom 1
     slides: walterslides.pdf
+    pdf: walter.pdf
 
   - title: Break
     time: 2020-10-31 12:30 PM
@@ -26,12 +28,14 @@ papers:
     time: 2020-10-31 12:45 PM
     room: Zoom 1
     slides: kumarslides.pdf
+    pdf: kumar.pdf
 
   - title: Breast Cancer Diagnosis through Machine Learning 
     author: Jonah Northwood
     time: 2020-10-31 1:15 PM
     room: Zoom 1
     slides: northwoodslides.pdf
+    pdf: northwood.pdf
 
   - title: Recent Advances in Smartphone Computational Photography 
     author: Paul Friederichsen
@@ -39,18 +43,22 @@ papers:
     room: Zoom 1
     distinctionslides: true
     slides: friederichsenslides.pdf
+    pdf: friederichsen.pdf
+    distinctionpaper: true
 
   - title: Prediction-Based Cyber Analytic Threat Detection
     author: Kedrick Hill
     time: 2020-10-31 11:30 AM
     room: Zoom 2
     slides: hillslides.pdf
+    pdf: hill.pdf
 
   - title: Computer Science in Early Education
     author: Jaydon Smith
     time: 2020-10-31 12:00 PM
     room: Zoom 2
     slides: smithslides.pdf
+    pdf: smith.pdf
 
   - title: Break
     time: 2020-10-31 12:30 PM
@@ -69,11 +77,14 @@ papers:
     room: Zoom 2
     distinctionslides: true
     slides: tekluslides.pdf
+    pdf: teklu.pdf
 
 ---
 
 The CSci discipline invites you to Fall 2020 Senior Seminar conference on
 Saturday, October 31.
 The talks will be held in two Zoom meetings.
+
+Many thanks to the alumni reviewers who provided feedback for this semester students: Nathan Beneke, Ian Buck, Ariel Cordes, Humza Haider, Melissa Helgeson, Avery Koranda, Kristin Shirley, and Yujing Song.
 
 
