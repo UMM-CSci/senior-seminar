@@ -24,7 +24,7 @@ papers:
     room: Zoom 1
     break: true
 
-  - title: Neuromorphic Computing with Memristors
+  - title: Neuromorphic Computing with  Spiking Neural Networks
     author: David Escudero
     time: 2021-04-10 1:00 PM
     room: Zoom 1
