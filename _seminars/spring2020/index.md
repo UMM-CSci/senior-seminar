@@ -73,8 +73,8 @@ papers:
     author: Charlot Shaw
     time: 2020-04-18 5:00 PM
     room: Zoom 2
-    pdf: ShawSeminar.pdf
-    slides: ShawSlides.pdf
+    pdf: shawseminar.pdf
+    slides: shawslides.pdf
 
   - title: "Analyzing a Software Computer Graphics Pipeline: Implementation, Comparative Benchmarking, and Pipeline Customization"
     author: Kyle Fluto
