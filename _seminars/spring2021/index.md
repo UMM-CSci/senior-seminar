@@ -8,6 +8,7 @@ papers:
     author: Jonathan Reuvers
     time: 2021-04-10 11:00 AM
     room: Zoom 1
+    distinctionslides: true
 
   - title: Teaching AI to Play Chess Like People
     author: Austin Robinson
@@ -33,16 +34,19 @@ papers:
     author: Jacob Peterson
     time: 2021-04-10 1:30 PM
     room: Zoom 1
+    distinctionslides: true
 
   - title: How To Protect Intellectual Property of Deep Neural Networks 
     author: Nicolas Robertson
     time: 2021-04-10 2:00 PM
     room: Zoom 1
+    distinctionslides: true
 
   - title: Electronic Voting System Implementation Through Bitcoin Blockchain Technology
     author: Cassie Schultz
     time: 2021-04-10 11:00 AM
     room: Zoom 2
+    distinctionslides: true
 
   - title: Unsupervised Machine Translation and Repair
     author: Colt Dahl
@@ -53,13 +57,14 @@ papers:
     author: Elk Oswood
     time: 2021-04-10 12:00 PM
     room: Zoom 2
+    distinctionslides: true
 
   - title: Break
     time: 2021-04-10 12:30 PM
     room: Zoom 2
     break: true
 
-  - title: Lojban Language
+  - title: Lojban Language (presentation only, no paper)
     author: Joe Deglman
     time: 2021-04-10 1:00 PM
     room: Zoom 2
@@ -68,6 +73,7 @@ papers:
     author: Aaron Corpstein
     time: 2021-04-10 1:30 PM
     room: Zoom 2
+    distinctionslides: true
 
 ---
 
