@@ -65,6 +65,7 @@ papers:
     author: Elk Oswood
     time: 2021-04-10 12:00 PM
     room: Zoom 2
+    slides: oswoodslides.pdf
     distinctionslides: true
 
   - title: Break
