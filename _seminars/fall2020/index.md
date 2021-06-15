@@ -85,6 +85,6 @@ The CSci discipline invites you to Fall 2020 Senior Seminar conference on
 Saturday, October 31.
 The talks will be held in two Zoom meetings.
 
-Many thanks to the alumni reviewers who provided feedback for this semester students: Nathan Beneke, Ian Buck, Ariel Cordes, Humza Haider, Melissa Helgeson, Avery Koranda, Kristin Shirley, and Yujing Song.
+Many thanks to the alumni reviewers who provided feedback for this semester students: Mica Beneke, Ian Buck, Ariel Cordes, Humza Haider, Melissa Helgeson, Avery Koranda, Kristin Shirley, and Yujing Song.
 
 

@@ -104,7 +104,7 @@ The CSci discipline invites you to Spring 2021 Senior Seminar conference on
 Saturday, April 10.
 The talks will be held in two Zoom meetings. 
 
-Many thanks to the alumni reviewers who provided feedback for this semester students: Jocelyn Bayer, Nathan Beneke, Adam Casey, Paul Friederichsen, Humza Haider, Avery Koranda, 
+Many thanks to the alumni reviewers who provided feedback for this semester students: Jocelyn Bayer, Mica Beneke, Adam Casey, Paul Friederichsen, Humza Haider, Avery Koranda, 
 Sydney Richards, Tim Snyder, Scott Steffes.
 
 

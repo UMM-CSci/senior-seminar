@@ -56,7 +56,7 @@ papers:
     pdf: lau.pdf
      
   - title: Querying Large Databases
-    author: Nathan Beneke
+    author: Mica Beneke
     time: 2018-04-15 2:00 PM
     room: Sci 3650
     distinctionslides: true
