@@ -6,7 +6,7 @@ order: 6
 # Finding sources for your senior seminar paper
 {:.no_toc}
 
-Your paper will be based on recent peer reviewed computer science research literature. We require you to have at least three reasonably recent peer reviewed sources as key sources of your paper. 
+Your paper will be based on recent peer reviewed computer science research literature. We require you to have reasonably recent peer reviewed publications as key sources of your paper. If your paper is a broad overview of research in an area, you should have at least three such sources. If it's a "deep dive" into a technology or an algorithm then you would have one or two recent peer reviewed paper as a primary source, and use other sources (older papers, textbooks, tutorials, etc.) as supplementary. 
 
 It is essential that you use sources that inform you about the topic of your paper in a way that you can understand and summarize in your paper and your presentation. The topic of your paper is ultimately determined by your sources. If the source papers that you are trying to use are too complex or not detailed enough or poorly written, writing your own paper based on these sources would be very challenging and may be frustrating. Thus, choosing good sources at an appropriate level is one of the keys to writing a good senior seminar paper. 
 
@@ -15,7 +15,7 @@ It is essential that you use sources that inform you about the topic of your pap
 
 ## Guidelines for sources for your paper
 
-While the general requirement is to have at least three fairly recent published peer-reviewed sources, the specifics of these requirements depend on your topic: 
+While the general requirement is to use fairly recent published peer-reviewed sources, the specifics of these requirements depend on your topic: 
 
 ### Recent sources
 For an active area and a sufficiently general topic (e.g. machine learning or network security) we would expect that all your primary sources are published within the last 3-4 years. If your topic is more specific and/or slower developing (e.g. applications of machine learning to medical records or assistive technology for middle school teachers), you might not be able to find all sources within the last 3-4 years. In this case it's ok to have one recent source (within 3-4 years) and the other two be somewhat older. 
