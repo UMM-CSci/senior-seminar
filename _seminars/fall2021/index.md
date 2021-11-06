@@ -49,7 +49,7 @@ papers:
     time: 2021-11-13 11:30 AM
     room: Sci 3650
 
-  - title: Using Temporal Session Types to Analyze Time-Complexities of Concurrent Programs
+  - title: Using Temporal Session Types to Analyze Time Complexities of Concurrent Programs
     author: Joseph Moonan Walbran
     time: 2021-11-13 12:00 PM
     room: Sci 3650
