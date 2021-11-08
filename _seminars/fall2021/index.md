@@ -64,7 +64,7 @@ papers:
     time: 2021-11-13 12:45pm
     room: Sci 3650
 
-  - title: GPT-3
+  - title: GPT-3 and Generating Human Like Text with Transformer Neural Networks
     author: Nahum Damte
     time: 2021-11-13 1:15pm
     room: Sci 3650
