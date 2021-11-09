@@ -39,7 +39,7 @@ papers:
     time: 2021-11-13 1:45 PM
     room: Sci 3610
 
-  - title: Applications of Deep Learning in Cyber Security
+  - title: Applications of Artificial Intelligence in Cyber Security
     author: Elmurad Abbasov
     time: 2021-11-13 11:00 AM
     room: Sci 3650
