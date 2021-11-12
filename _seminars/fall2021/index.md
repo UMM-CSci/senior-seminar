@@ -64,7 +64,7 @@ papers:
     time: 2021-11-13 12:45pm
     room: Sci 3650
 
-  - title: Transformer Neural Networks as Basis for GPT-3
+  - title: Transformer Neural Networks as a Basis for GPT-3
     author: Nahum Damte
     time: 2021-11-13 1:15pm
     room: Sci 3650
