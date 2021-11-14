@@ -8,16 +8,20 @@ papers:
     author: Chineng Vang
     time: 2021-11-13 11:00 AM
     room: Sci 3610
+    distinctionslides: true
+    slides: vangslides.pdf
 
   - title: Application of Deep Learning with Brain Computer Interfaces
     author: Michael Fairbanks
     time: 2021-11-13 11:30 AM
     room: Sci 3610
+    slides: fairbanksslides.pdf
 
   - title: Using Board Games to Support Learning in the Classroom
     author: Shawn Reuter
     time: 2021-11-13 12:00 PM
     room: Sci 3610
+    slides: reuterslides.pdf
 
   - title: Break
     time: 2021-11-13 12:30 PM
@@ -28,31 +32,39 @@ papers:
     author: Tyler Rowland
     time: 2021-11-13 12:45 PM
     room: Sci 3610
+    slides: rowlandslides.pdf
 
   - title: Improving Vision in Retinal Prostheses with Artificial Intelligence
     author: Jacob Perala
     time: 2021-11-13 1:15 PM
     room: Sci 3610
+    slides: peralaslides.pdf
 
   - title: Fighting Gerrymandering by Automating Congressional Redistricting
     author: Jacob Jenness
     time: 2021-11-13 1:45 PM
     room: Sci 3610
+    distinctionslides: true
+    slides: jennessslides.pdf
 
   - title: Applications of Artificial Intelligence in Cyber Security
     author: Elmurad Abbasov
     time: 2021-11-13 11:00 AM
     room: Sci 3650
+    slides: abbasovslides.pdf
 
   - title: End-to-End License Plate Detection and Recognition Using Region Proposal Networks
     author: Firas Naber
     time: 2021-11-13 11:30 AM
     room: Sci 3650
+    slides: naberslides.pdf
 
   - title: Using Temporal Session Types to Analyze Time Complexities of Concurrent Programs
     author: Joseph Moonan Walbran
     time: 2021-11-13 12:00 PM
     room: Sci 3650
+    distinctionslides: true
+    slides: walbranslides.pdf
 
   - title: Break
     time: 2021-11-13 12:30 PM
@@ -63,16 +75,19 @@ papers:
     author: Halley Paulson
     time: 2021-11-13 12:45pm
     room: Sci 3650
+    slides: paulsonslides.pdf
 
   - title: Transformer Neural Networks as a Basis for GPT-3
     author: Nahum Damte
     time: 2021-11-13 1:15pm
     room: Sci 3650
+    slides: damteslides.pdf
 
   - title: Scheduling Aircraft Departures to Avoid Enroute Congestion
     author: Johannes Martinez Zuviria
     time: 2021-11-13 1:45pm
     room: Sci 3650
+    slides: martinezslides.pdf
 
 ---
 
