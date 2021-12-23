@@ -25,6 +25,11 @@ is would be useful).
 
 ## During the course:
 
+- Set aside time 4 hours at least each week to try and work on the assignment due for next week so that you are prepared.
+- Trust in the cookie system. Go through the process one step at a time, and it's never bad to be thinking ahead. 
+It definitely seems overwhelming at times, but that's why you have an advisor to help keep you on track and provide insight. 
+Also pick a topic you find interesting, but don't pick one too difficult, or else you won't be able to explain it and that's what senior sem ultimately comes down to.
+- You can totally do this 🙂
 - Don't get stressed out. The professors are there to help you.
 - Expect to put a lot of time into it.
 - Do not procrastinate.
