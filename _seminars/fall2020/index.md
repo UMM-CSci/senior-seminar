@@ -70,6 +70,7 @@ papers:
     time: 2020-10-31 12:45 PM
     room: Zoom 2
     slides: juddslides.pdf
+    pdf: judd.pdf
 
   - title: Creating Secure Encryptions with Quantum Cryptography 
     author: Ananya Teklu
