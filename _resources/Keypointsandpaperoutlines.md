@@ -17,11 +17,12 @@ They may be written as a bullet list or 2-4 paragraphs. You should answer the fo
 
 - What main problem(s) or question(s) does the research address?
     Be specific about the important context or assumptions. For example, are the approaches applicable to centralized networks, or peer-to-peer networks? Can you effectively train the systems on smaller data sets, or do you need hundreds of thousands of classified training instances?
-    Clearly position it within the areas of the discipline. For example, if one of your papers is in machine learning, are their algorithms unsupervised or guided? Are their parallel algorithms intended to be run on a large distributed cluster or on tightly coupled graphics processing units (GPUs)? 
+    Clearly position it within the areas of the discipline. For example, if one of your papers is in machine learning, are their algorithms unsupervised or supervised? Are their parallel algorithms intended to be run on a large distributed cluster or on GPUs? 
 - What are the key contributions of each of your main sources? Describe what each approach assumes as initially given and what it produces or provides. Essentially what are the paper's "inputs" and what are its subsequent "outputs"?
 - How are the main sources related to each other? Does one approach extend another? Is it possible to compare different approaches, or are their assumptions different enough that they are essentially apples and oranges?
-- What is the state of the research that you are describing. Has it been implemented? Tested? If yes, do they provide appropriate and detailed result data? Can you summarize and share those results?
+- What is the state of the research that you are describing: Has it been implemented? Tested? If yes, do they provide appropriate and detailed result data? Can you summarize and share those results?
 - What background material will you need to present in order for your audience to understand the research? What do you assume your audience already knows? 
+- What do you see as the biggest challenges in understanding the sources and how do you plan on addressing them? What resources would you use? If there are multiple challenging subtopics, perhaps you can focus on one of them. Make sure to discuss this with your adviser and develop a plan. 
 
 Some items may not apply directly to papers in all areas. If that's the case with your sources, find analogous questions that are applicable. Your advisor and the instructor will be happy to help you.
 
