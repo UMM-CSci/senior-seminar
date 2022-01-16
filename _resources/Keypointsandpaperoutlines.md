@@ -38,4 +38,4 @@ It's easy to not give this outlining the time it's due, but time spent here will
 
 Don't forget to include your *paper title* and the *bibliography* in the outline.
 
-[samplekeypointsandoutline.pdf](samplekeypointsandoutline.pdf): A sample key points submission 
+[samplekeypointsandoutline.pdf](samplekeypointsandoutline.pdf): A sample key points submission (note: more questions were added in Spring 2022)
