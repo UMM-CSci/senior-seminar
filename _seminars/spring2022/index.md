@@ -20,7 +20,7 @@ papers:
     room: Sci 2190
 
   - title: Using Blockchain to Improve Security of the Internet of Things
-    author: Joshua Quist
+    author: Josh Quist
     time: 2022-04-14 5:30 PM
     room: Sci 2200
 
