@@ -9,7 +9,7 @@ papers:
     time: 2022-04-14 5:30 PM
     room: Sci 2190
 
-  - title: ntuitR : A Theorem Prover for Intuitionistic Propositional Logic
+  - title: intuitR - A Theorem Prover for Intuitionistic Propositional Logic
     author: Erik Rauer
     time: 2022-04-14 6:00 PM
     room: Sci 2190
