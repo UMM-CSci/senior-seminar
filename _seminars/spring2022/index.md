@@ -34,7 +34,7 @@ papers:
     time: 2022-04-14 6:30 PM
     room: Sci 2200
 
-  - title: The Identification of Open Chromatin Regions with RNA Polymerase Activity
+  - title: The Identification of Transcriptionally Active Regions
     author: Dante Miller
     time: 2022-04-20 5:00 PM
     room: Sci 2190
