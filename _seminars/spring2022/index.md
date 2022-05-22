@@ -10,6 +10,8 @@ papers:
     room: Sci 2190
     distinctionslides: true
     slides: lussierslides.pdf
+    distinctionpaper: true
+    pdf: lussier.pdf
 
   - title: intuitR - A Theorem Prover for Intuitionistic Propositional Logic
     author: Erik Rauer
@@ -17,18 +19,23 @@ papers:
     room: Sci 2190
     distinctionslides: true
     slides: rauerslides.pdf
+    distinctionpaper: true
+    pdf: rauer.pdf
 
   - title: Activity Recognition by Using Neural Networks in IoT Environment
     author: Machi Iwata
     time: 2022-04-14 6:30 PM
     room: Sci 2190
     slides: iwataslides.pdf
+    pdf: iwata.pdf
 
   - title: Using Blockchain to Improve Security of the Internet of Things
     author: Josh Quist
     time: 2022-04-14 5:30 PM
     room: Sci 2200
     slides: quistslides.pdf
+    distinctionpaper: true
+    pdf: quist.pdf
 
   - title: Detecting Anti-Patterns of Continuous Integration
     author: Thomas Dahlgren
@@ -36,6 +43,7 @@ papers:
     room: Sci 2200
     distinctionslides: true
     slides: dahlgrenslides.pdf
+    pdf: dahlgren.pdf
 
   - title: Approaches to Broadening Participation with AP Computer Science Principles
     author: Audrey Le Meur
@@ -43,23 +51,29 @@ papers:
     room: Sci 2200
     distinctionslides: true
     slides: lemeurslides.pdf
+    distinctionpaper: true
+    pdf: lemeur.pdf
 
   - title: The Identification of Transcriptionally Active Regions
     author: Dante Miller
     time: 2022-04-20 5:00 PM
     room: Sci 2190
     slides: millerslides.pdf
+    pdf: miller.pdf
 
   - title: Redirected Walking in Virtual Reality
     author: Benjamin Goldstein
     time: 2022-04-20 5:30 PM
     room: Sci 2190
+    distinctionpaper: true
+    pdf: goldstein.pdf
 
   - title: Evolution of Web Bots and How They Are Detected
     author: Robert Beane
     time: 2022-04-20 5:00 PM
     room: Sci 2200
     slides: beaneslides.pdf
+    pdf: beane.pdf
 
   - title: Promoting Human Collaboration in Procedural Content Generation Tools for Game Development
     author: Benjamin Burgess
@@ -67,6 +81,7 @@ papers:
     room: Sci 2200
     distinctionslides: true
     slides: burgessslides.pdf
+    pdf: burgess.pdf
 
   - title: Break
     time: 2022-04-20 6:00 PM
@@ -78,6 +93,7 @@ papers:
     time: 2022-04-20 6:10 PM
     room: Sci 2200
     slides: zebrevslides.pdf
+    pdf: zebrev.pdf
 
   - title: Real-World Applications of Genetic Programming in Financial Trading
     author: Luke Burdette
@@ -85,6 +101,7 @@ papers:
     room: Sci 2200
     distinctionslides: true
     slides: burdetteslides.pdf
+    pdf: burdette.pdf
 
 ---
 
