@@ -39,7 +39,7 @@ papers:
     time: 2022-11-12 1:00 PM
     room: Sci 3650
 
-  - title: Security Interventions: Pushing Programmers to Become the Solution
+  - title: Security Interventions Pushing Programmers to Become the Solution
     author: Lloyd Hilsgen
     time: 2022-11-12 1:30 PM
     room: Sci 3650
