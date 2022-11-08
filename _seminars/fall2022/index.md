@@ -2,6 +2,7 @@
 title: "Fall 2022"
 year: 2022
 semester: fall
+seminar_date: 2022-11-12
 
 papers:
   - title: Using Semantic Models to Create Password Cracking Tools
@@ -63,8 +64,6 @@ papers:
     author: Zeke Krug
     time: 2022-11-12 3:15 PM
     room: Sci 3650
-
-
 
 ---
 
