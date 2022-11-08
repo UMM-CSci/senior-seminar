@@ -2,7 +2,6 @@
 title: "Fall 2022"
 year: 2022
 semester: fall
-seminar_date: 2022-11-12
 
 papers:
   - title: Using Semantic Models to Create Password Cracking Tools
