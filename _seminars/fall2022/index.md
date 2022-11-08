@@ -16,7 +16,7 @@ papers:
     room: Sci 3610
 
   - title: Break
-    time: 2021-11-13 2:00 PM
+    time: 2022-11-12 2:00 PM
     room: Sci 3610
     break: true
 
@@ -46,7 +46,7 @@ papers:
     room: Sci 3650
 
   - title: Break
-    time: 2021-11-13 2:00 PM
+    time: 2022-11-12 2:00 PM
     room: Sci 3650
     break: true
 
