@@ -66,7 +66,7 @@ papers:
 
 ---
 
-The CSci discipline invites you to Spring 2022 Senior Seminar conference on
+The CSci discipline invites you to Fall 2022 Senior Seminar conference on
 Saturday November 12th.
 The talks will be held in Sci 3610 and Sci 3650. 
 Zoom attendance is also available - please contact CSci faculty for zoom links.  
