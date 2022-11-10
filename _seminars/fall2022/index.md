@@ -49,7 +49,7 @@ papers:
     room: Sci 3650
     break: true
 
-  - title: The Role of Iterative Co-Design in the Development of Aphasia and Dimentia-Related Assistive Technology 
+  - title: An Iterative Co-Design Approach to Developing Aphasia-Related Assistive Technologies 
     author: Kyle Day
     time: 2022-11-12 2:15 PM
     room: Sci 3650
