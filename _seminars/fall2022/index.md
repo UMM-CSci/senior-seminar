@@ -34,7 +34,7 @@ papers:
     time: 2022-11-12 3:15 PM
     room: Sci 3610
 
-  - title: Comparing and Contrasting Deep-Learning Methods Used For Face Swapping
+  - title: Exploring Methods Used in Face Swapping
     author: Joshua Eklund
     time: 2022-11-12 1:00 PM
     room: Sci 3650
