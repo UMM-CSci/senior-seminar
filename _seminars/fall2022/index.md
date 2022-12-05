@@ -4,7 +4,7 @@ year: 2022
 semester: fall
 
 papers:
-  - title: Using Probabilistic Context-Free Grammar in Password-Guessing Models
+  - title: Using Probabilistic Context-Free Grammar to Create Password-Guessing Models
     author: Isabelle Hjelden
     time: 2022-11-12 1:00 PM
     room: Sci 3610
