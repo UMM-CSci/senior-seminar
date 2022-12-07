@@ -52,7 +52,7 @@ papers:
     author: Lloyd Hilsgen
     time: 2022-11-12 1:30 PM
     room: Sci 3650
-    slides: eklundslides.pdf
+    slides: hilsgenslides.pdf
 
   - title: Break
     time: 2022-11-12 2:00 PM
