@@ -9,12 +9,15 @@ papers:
     time: 2022-11-12 1:00 PM
     room: Sci 3610
     slides: hjeldenslides.pdf
+    distinctionpaper: true
+    pdf: hjelden.pdf
 
   - title: Making Secure Multi-Party Computation Scalable
     author: Nicholas Gilbertson
     time: 2022-11-12 1:30 PM
     room: Sci 3610
     slides: gilbertsonslides.pdf
+    pdf: gilbertson.pdf
 
   - title: Break
     time: 2022-11-12 2:00 PM
@@ -27,6 +30,8 @@ papers:
     room: Sci 3610
     distinctionslides: true
     slides: cramerslides.pdf
+    distinctionpaper: true
+    pdf: cramer.pdf
 
   - title: Exploring Chess Variants with AlphaZero
     author: Conner Hettinger
@@ -34,12 +39,15 @@ papers:
     room: Sci 3610
     slides: hettingerslides.pdf
     distinctionslides: true
+    pdf: hettinger.pdf
 
   - title: A Summary of Multipath TCP, Performance Metrics, and Packet Scheduling Methods
     author: Cole Maxwell
     time: 2022-11-12 3:15 PM
     room: Sci 3610
     slides: maxwellslides.pdf
+    distinctionpaper: true
+    pdf: maxwell.pdf
 
   - title: Exploring Methods Used in Face Swapping
     author: Joshua Eklund
@@ -47,12 +55,15 @@ papers:
     room: Sci 3650
     slides: eklundslides.pdf
     distinctionslides: true
+    distinctionpaper: true
+    pdf: eklund.pdf
 
   - title: "Security Interventions: Pushing Programmers to Become the Solution"
     author: Lloyd Hilsgen
     time: 2022-11-12 1:30 PM
     room: Sci 3650
     slides: hilsgenslides.pdf
+    pdf: hilsgen.pdf
 
   - title: Break
     time: 2022-11-12 2:00 PM
@@ -64,18 +75,21 @@ papers:
     time: 2022-11-12 2:15 PM
     room: Sci 3650
     slides: dayslides.pdf
+    pdf: day.pdf
 
   - title: Haptic Feedback Mechanisms to Enhance Virtual Reality Experiences
     author: Noah Constable
     time: 2022-11-12 2:45 PM
     room: Sci 3650
     slides: constableslides.pdf
+    pdf: constable.pdf
 
   - title: Detecting Cheating in Online Multiplayer Video Games 
     author: Zeke Krug
     time: 2022-11-12 3:15 PM
     room: Sci 3650
     slides: krugslides.pdf
+    pdf: krug.pdf
 
 ---
 
