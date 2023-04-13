@@ -21,7 +21,7 @@ papers:
 
   - title: LiDAR-based adversarial attacks on Autonomous Vehicles
     author: Blake Johnson
-    time: 2023-04-22 noon
+    time: 2023-04-22 12:00 PM
     room: Sci 3610
 
   - title: Break
