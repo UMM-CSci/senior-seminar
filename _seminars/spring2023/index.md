@@ -51,6 +51,7 @@ papers:
     author: Ollie Willette
     time: 2023-04-22 2:00 PM
     room: Sci 3610
+    slides: willetteslides.pdf
 
   - title: Possible Attacks on Match-In-Database Fingerprint Authentication
     author: Jadyn Sondrol
