@@ -68,6 +68,9 @@ Saturday, April 22.
 The talks will be held in Sci 3610. 
 Zoom attendance is also available - please contact CSci faculty for zoom links.  
 
+Many thanks to the alumni reviewers who provided feedback for this semester students: 
+Ariel Cordes, Dylan Cramer, Thomas Harren, Andy Lau, Aaron Lemmon, Charlot Shaw, Chineng (Cookie) Vang, Joseph Walbran
+
 
 
 
