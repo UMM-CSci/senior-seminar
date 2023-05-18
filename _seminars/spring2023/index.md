@@ -9,6 +9,7 @@ papers:
     time: 2023-04-22 10:30 AM
     room: Sci 3610
     slides: millerslides.pdf
+    pdf: miller.pdf
 
   - title: Probing as a Technique to Understand Abstract Spaces
     author: Ashlen Plasek
@@ -16,6 +17,8 @@ papers:
     room: Sci 3610
     distinctionslides: true
     slides: plasekslides.pdf
+    pdf: plasek.pdf
+    distinctionpaper: true
 
   - title: Deep-Learning Realtime Upsampling Techniques in Video Games
     author: Biruk Mengistu
@@ -23,12 +26,16 @@ papers:
     room: Sci 3610
     distinctionslides: true
     slides: mengistuslides.pdf
+    pdf: mengistu.pdf
+    distinctionpaper: true
 
   - title: LiDAR Segmentation-based Adversarial Attacks on Autonomous Vehicles
     author: Blake Johnson
     time: 2023-04-22 12:00 PM
     room: Sci 3610
     slides: johnsonslides.pdf
+    pdf: johnson.pdf
+    distinctionpaper: true
 
   - title: Break
     time: 2023-04-22 12:30 PM
@@ -40,18 +47,21 @@ papers:
     time: 2023-04-22 1:00 PM
     room: Sci 3610
     slides: baileyslides.pdf
+    pdf: bailey.pdf
 
   - title: An Edge Gaming Overview
     author: Matthew Spilman
     time: 2023-04-22 1:30 PM
     room: Sci 3610
     slides: spilmanslides.pdf
+    pdf: spilman.pdf
 
   - title: Programming Aided by Machine Learning
     author: Ollie Willette
     time: 2023-04-22 2:00 PM
     room: Sci 3610
     slides: willetteslides.pdf
+    pdf: willette.pdf
 
   - title: Possible Attacks on Match-In-Database Fingerprint Authentication
     author: Jadyn Sondrol
@@ -59,6 +69,8 @@ papers:
     room: Sci 3610
     distinctionslides: true
     slides: sondrolslides.pdf
+    pdf: sondrol.pdf
+    distinctionpaper: true
 
 
 ---
