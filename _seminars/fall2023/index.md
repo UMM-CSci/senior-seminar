@@ -8,16 +8,21 @@ papers:
     author: Joshua Engelkes
     time: 2023-11-16 7:00 PM
     room: Sci 2190
+    distinctionslides: true
+    slides: engelkesslides.pdf
+
 
   - title: An Analysis of “Deep learning Methods for Forecasting COVID-19 Time-Series Data”
     author: Gregory Peterson
     time: 2023-11-16 6:30 PM
     room: Sci 2190
+    slides: petersonslides.pdf
 
   - title: Deep Learning in Feature Detection and Matching
     author: Yubo Mao
     time: 2023-11-16 7:30 PM
     room: Sci 2190
+    slides: maoslides.pdf
 
 ---
 
