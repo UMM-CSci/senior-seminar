@@ -1,5 +1,5 @@
 ---
-title: Seminars
+title: All Seminars
 order: 2
 permalink: /seminars/
 layout: seminar
@@ -7,6 +7,7 @@ match_collection: seminars
 ---
 
 <div id="papers">
+  <p>As applicable, papers and presentations that were evaluated by the faculty as deserving a distinction are marked with &#x2B50.</p>
   <input class="search form-control input-block" id="search-box" type="text" placeholder="Search" style="display: none;" />
   <br>
   <table class="all-seminar-table">
@@ -38,6 +39,9 @@ match_collection: seminars
               {% if paper.pdf %}
                 </a>
               {% endif %}
+              {% if paper.distinctionpaper %}
+                &#x2B50
+              {% endif %}
             </div>
             {% if paper.tags %}
               <div class="paper-tags">
@@ -52,6 +56,9 @@ match_collection: seminars
               <a href="{{ pageurl }}{{ paper.slides }}">Slides</a>
             {% elsif paper.slidesurl %}
               <a href="{{ paper.slidesurl }}">Slides</a>
+            {% endif %}
+            {% if paper.distinctionslides %}
+              &#x2B50
             {% endif %}
           </td>
         </tr>
