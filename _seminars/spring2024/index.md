@@ -7,7 +7,7 @@ papers:
   - title: Procedural Quest Generation
     author: Max Quintavalle
     time: 2024-04-13 1:00 PM
-    room: Sci 3650
+    room: Sci 3610
 
   - title: Using Internet of Things for Wildlife Tracking
     author: Collin Beane
