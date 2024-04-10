@@ -39,7 +39,7 @@ papers:
     time: 2024-04-13 2:00 PM
     room: Sci 3650
 
-  - title: The Role of Natural Language Processing in Identifying Misinformation on Social Media
+  - title: "Unmasking Misinformation: The Potential of Natural Language Processing (NLP)"
     author: Dongting Cai
     time: 2024-04-13 2:30 PM
     room: Sci 3650
