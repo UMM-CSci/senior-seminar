@@ -59,7 +59,7 @@ papers:
     pdf: wanner.pdf
 
 
-  - title: "Unmasking Misinformation: The Potential of Natural Language Processing (NLP)"
+  - title: "Unmasking Misinformation: The Potential of Natural Language Processing (NLP) - presentation only"
     author: Dongting Cai
     time: 2024-04-13 2:30 PM
     room: Sci 3650
