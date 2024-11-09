@@ -29,7 +29,7 @@ papers:
     time: 2024-11-16 1:00 PM
     room: Sci 3650
 
-  - title: Latent Diffusion Model and “Language of Audio” in Generative Audio
+  - title: Latent Diffusion Model and &quot;Language of Audio&quot; in Generative Audio
     author: Ethan Graybar
     time: 2024-11-16 1:30 PM
     room: Sci 3650
