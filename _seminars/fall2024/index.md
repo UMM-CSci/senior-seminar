@@ -4,7 +4,7 @@ year: 2024
 semester: fall
 
 papers:
-  - title: Securing Agile: Assessing the Impact of Incorporating Security into Agile Development
+  - title: "Securing Agile: Assessing the Impact of Incorporating Security into Agile Development"
     author: Ryan Sajulga
     time: 2024-11-16 1:00 PM
     room: Sci 3610
@@ -14,7 +14,7 @@ papers:
     time: 2024-11-16 1:30 PM
     room: Sci 3610
 
-  - title: Forecasting Health: Deep Learning’s Prescription for Time Series Precision
+  - title: "Forecasting Health: Deep Learning’s Prescription for Time Series Precision"
     author: Alija Wosti
     time: 2024-11-16 2:00 PM
     room: Sci 3610
