@@ -4,7 +4,7 @@ year: 2024
 semester: fall
 
 papers:
-  - title: "Securing Agile: Assessing the Impact of Incorporating Security into Agile Development"
+  - title: "Securing Agile: Assessing the Impact of Incorporating Security on Agile Development"
     author: Ryan Sajulga
     time: 2024-11-16 1:00 PM
     room: Sci 3610
