@@ -8,36 +8,45 @@ papers:
     author: Ryan Sajulga
     time: 2024-11-16 1:00 PM
     room: Sci 3610
+    slides: sajulgaslides.pdf
 
   - title: Exploring Deep Recurrent and Spiking Neural Networks in Hand Gesture Recognition
     author: Alwin Lor
     time: 2024-11-16 1:30 PM
     room: Sci 3610
+    slides: lorslides.pdf
 
   - title: "Forecasting Health: Deep Learning’s Prescription for Time Series Precision"
     author: Alija Wosti
     time: 2024-11-16 2:00 PM
     room: Sci 3610
+    slides: wostislides.pdf
 
   - title: Improving the Reasoning Abilities of Language Models
     author: William Marsan
     time: 2024-11-16 2:30 PM
     room: Sci 3610
+    distinctionslides: true
+    slides: marsanslides.pdf
 
   - title: Energy Efficiency and Sustainability in Data Centers
     author: Simon Harrison-Michaels
     time: 2024-11-16 1:00 PM
     room: Sci 3650
+    slides: harrisonmichaelsslides.pdf
 
   - title: 'Latent Diffusion Model and “Language of Audio” in Generative Audio'
     author: Ethan Graybar
     time: 2024-11-16 1:30 PM
     room: Sci 3650
+    distinctionslides: true
+    slides: graybarslides.pdf
 
   - title: Deep Reinforcement Learning for Non-Player Character Navigation in Open-World Games
     author: Zerui (Harry) Lyu
     time: 2024-11-16 2:00 PM
     room: Sci 3650
+    slides: lyuslides.pdf
 
 ---
 
