@@ -8,26 +8,32 @@ papers:
     author: Malena Mahoney
     time: 2025-04-13 11:00 AM
     room: Sci 3610
+    distinctionslides: true
+    slides: mahoneyslides.pdf
 
   - title: Ethical Considerations of AI use in Law
     author: Ty Beasley
     time: 2025-04-13 11:30 AM
     room: Sci 3610
+    slides: beasleyslides.pdf
 
   - title: Security Risks of AI Generated Code
     author: Andreas Nelson
     time: 2025-04-13 12:00 PM
     room: Sci 3610
+    slides: nelsonslides.pdf
   
   - title: Machine Learning in SQL Injections
     author: Armando Valdez
     time: 2025-04-13 12:30 AM
     room: Sci 3610
+    slides: valdezslides.pdf
 
   - title: Using AI for Automated Penetration Testing
     author: Linnea Gilbertson
     time: 2025-04-13 1:00 PM
     room: Sci 3610
+    slides: gilbertsonslides.pdf
 
 ---
 
