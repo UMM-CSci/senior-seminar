@@ -8,8 +8,8 @@ papers:
     author: Malena Mahoney
     time: 2025-04-13 11:00 AM
     room: Sci 3610
-    distinctionslides: true
     slides: mahoneyslides.pdf
+    distinctionslides: true
 
   - title: Ethical Considerations of AI use in Law
     author: Ty Beasley
