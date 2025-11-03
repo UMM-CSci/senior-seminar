@@ -4,7 +4,7 @@ year: 2025
 semester: fall
 
 papers:
-  - title: Manipulating Artificial Intelligence Models Via Poisoning Attacks
+  - title: Manipulating Artificial Intelligence Models via Poisoning Attacks
     author: Josie Barber
     time: 2025-11-12 6:00 PM
     room: Sci 3610
@@ -14,7 +14,7 @@ papers:
     time: 2025-11-12 6:30 PM
     room: Sci 3610
 
-  - title: Improving Urban Planning Through Agent Based Modeling and Q-Learning
+  - title: Improving Urban Planning through Agent Based Modeling and Q-Learning
     author: Tristan Kalvoda
     time: 2025-11-12 7:00 PM
     room: Sci 3610
