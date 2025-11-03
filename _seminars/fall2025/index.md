@@ -4,8 +4,7 @@ year: 2025
 semester: fall
 
 papers:
-  - title: Manipulating Artificial Intelligence Models Via
-Poisoning Attacks
+  - title: Manipulating Artificial Intelligence Models Via Poisoning Attacks
     author: Josie Barber
     time: 2025-11-12 6:00 PM
     room: Sci 3610
