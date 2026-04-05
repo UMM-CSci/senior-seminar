@@ -9,7 +9,7 @@ papers:
     time: 2026-04-09 06:00 PM
     room: Sci 3610
 
-  - title: Bot Detection and the User Experience: A Survey of CAPTCHA Design, Tradeoffs, and Failure
+  - title: "Bot Detection and the User Experience: A Survey of CAPTCHA Design, Tradeoffs, and Failure"
     author: Nate Ferrell
     time: 2026-04-09 06:30 PM
     room: Sci 3610
