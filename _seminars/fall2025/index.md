@@ -56,6 +56,7 @@ papers:
     time: 2025-11-13 7:30 PM
     room: Sci 3610
     slides: packerslides.pdf
+
 ---
 
 The CSci discipline invites you to Fall 2025 Senior Seminar conference on
