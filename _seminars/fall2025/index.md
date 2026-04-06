@@ -50,7 +50,7 @@ papers:
     room: Sci 3610
     distinctionslides: true
     slides: andersonslides.pdf
-    slides: anderson.pdf
+    pdf: anderson.pdf
 
   - title: Assessing Flaws in CAPTCHA Security through Progress in AI    
     author: Jaydon Stanislowski
@@ -73,7 +73,7 @@ papers:
 The CSci discipline invites you to Fall 2025 Senior Seminar conference on
 Wednesday November 12th and Thursday November 13th 6-8pm in Sci 3610.
 
-Many thanks to the alumni reviewers who provided feedback for this semester students: Paul Friederichsen, Tom Harren, Melissa Helgeson, Richard Lussier, Skatje Myers, Joseph Thelen, Chineng Vang, and Joseph Walbran
+Many thanks to the alumni reviewers who provided feedback for this semester students: Paul Friederichsen, Tom Harren, Melissa Helgeson, Richard Lussier, Skatje Myers, Joseph Thelen, Chineng Vang, and Joseph Walbran.
 
 
 
