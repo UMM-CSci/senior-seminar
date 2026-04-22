@@ -8,21 +8,26 @@ papers:
     author: Anton Olson
     time: 2026-04-09 06:00 PM
     room: Sci 3610
+    slides: olsonslides.pdf
 
   - title: "Bot Detection and the User Experience: A Survey of CAPTCHA Design, Tradeoffs, and Failure"
     author: Nate Ferrell
     time: 2026-04-09 06:30 PM
     room: Sci 3610
+    slides: ferrellslides.pdf
 
   - title: AI Support Systems in the Military
     author: John P. Gulon
     time: 2026-04-09 07:00 PM
     room: Sci 3610
+    slides: gulonslides.pdf
+    distinctionslides: true
 
   - title: Zero Trust Architecture and Ransomware Mitigation
     author: Ely Johnson
     time: 2026-04-09 07:30 PM
     room: Sci 3610
+    slides: johnsonslides.pdf
 
 ---
 
