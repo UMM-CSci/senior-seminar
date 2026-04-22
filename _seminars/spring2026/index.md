@@ -28,6 +28,7 @@ papers:
     time: 2026-04-09 07:30 PM
     room: Sci 3610
     slides: johnsonslides.pdf
+    distinctionslides: true
 
 ---
 
