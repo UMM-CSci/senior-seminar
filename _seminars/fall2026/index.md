@@ -4,8 +4,7 @@ year: 2026
 semester: fall
 
 papers:
-  - title: Instruction Based Backdoor and Preference Learning
-Attacks in Large Language Models
+  - title: Instruction Based Backdoor and Preference Learning Attacks in Large Language Models
     author: Fiona Hussen
     time: 2026-11-14 12:00 PM
     room: Sci 3610
@@ -15,14 +14,12 @@ Attacks in Large Language Models
     time: 2026-11-14 12:30 PM
     room: Sci 3610
 
-  - title: "Admin, He's Doing It Sideways! Modern Solutions to
-Prevent Cheating in Video Games"
+  - title: "Admin, He's Doing It Sideways! Modern Solutions to Prevent Cheating in Video Games"
     author: Georgios Savvas
     time: 2026-11-14 1:00 PM
     room: Sci 3610
 
-  - title: "AI Builds itself: How far have we come to recursive
-self-improvement?"
+  - title: "AI Builds itself: How far have we come to recursive self-improvement?"
     author: Keenan McCall
     time: 2026-11-14 12:00 PM
     room: Sci 3650
@@ -37,8 +34,7 @@ self-improvement?"
     time: 2026-11-14 1:00 PM
     room: Sci 3650
 
-  - title: "Algorithmic Personalization: Mitigating Filter Bubbles
-in Social Media Recommendations"
+  - title: "Algorithmic Personalization: Mitigating Filter Bubbles in Social Media Recommendations"
     author: Harley Hannahs
     time: 2026-11-14 1:45 PM
     room: Sci 3610
