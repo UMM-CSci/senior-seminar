@@ -19,7 +19,7 @@ papers:
     time: 2026-11-14 1:00 PM
     room: Sci 3610
 
-  - title: "AI Builds itself: How far have we come to recursive self-improvement?"
+  - title: "AI Builds itself: How close have we come to recursive self-improvement?"
     author: Keenan McCall
     time: 2026-11-14 12:00 PM
     room: Sci 3650
