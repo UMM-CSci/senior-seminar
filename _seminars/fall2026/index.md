@@ -54,14 +54,14 @@ papers:
     time: 2026-11-14 2:15 PM
     room: Sci 3610
 
-  - title: Deep Learning for Anomaly Detection in Software Systems
-    author: Jakob Linscheid
-    time: 2026-11-19 4:30 PM
-    room: Sci 3610
-
   - title: Machine Learning-Assisted Static Analysis
     author: Blake Thompson
     time: 2026-11-19 5:00 PM
+    room: Sci 3610
+
+  - title: Deep Learning for Anomaly Detection in Software Systems
+    author: Jakob Linscheid
+    time: 2026-11-19 4:30 PM
     room: Sci 3610
 
 ---
