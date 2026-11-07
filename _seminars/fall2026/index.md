@@ -6,7 +6,7 @@ semester: fall
 papers:
   - title: Instruction Based Backdoor and Preference Learning Attacks in Large Language Models
     author: Fiona Hussen
-    time: 2026-11-14 12:00 PM
+    time: 2026-11-14 12:00 PM 
     room: Sci 3610
 
   - title: AI Proofs in Mathematics
