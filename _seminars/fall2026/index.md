@@ -42,7 +42,7 @@ papers:
   - title: Large Language Model Hallucinations and Mitigation Techniques
     author: Abhineswari Seelam
     time: 2026-11-14 2:15 PM
-    room: Sci 3650
+    room: Sci 3610
 
   - title: "From Q-Tables to Deep Q-Networks: Q-Learning for Autonomous Military UAVs"
     author: Max Matejka
@@ -52,7 +52,7 @@ papers:
   - title: Consistency of Distributed Caching in Serverless Computing
     author: Gabriel Nelson
     time: 2026-11-14 2:15 PM
-    room: Sci 3610
+    room: Sci 3650
 
   - title: Machine Learning-Assisted Static Analysis
     author: Blake Thompson
