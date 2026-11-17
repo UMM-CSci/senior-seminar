@@ -67,7 +67,7 @@ papers:
 ---
 
 The CSci discipline invites you to Fall 2026 Senior Seminar conference on
-Saturday November 14th noon-3pm in Sci 3610 & Sci 3650 and on Thursday November 19th 4:30-5:30pm in Sci 3610.
+Saturday November 14th noon-3pm in Sci 3610 & Sci 3650 and on Thursday November 19th 4:30-6pm in Sci 3650.
 
 
 
