@@ -11,12 +11,12 @@ papers:
 
   - title: AI Proofs in Mathematics
     author: Owen Beyer
-    time: 2026-11-14 12:30 PM
+    time: 2026-11-19 5:30 PM
     room: Sci 3610
 
   - title: "Admin, He's Doing It Sideways! Modern Solutions to Prevent Cheating in Video Games"
     author: Georgios Savvas
-    time: 2026-11-14 1:00 PM
+    time: 2026-11-14 12:30 PM
     room: Sci 3610
 
   - title: "AI Builds itself: How close have we come to recursive self-improvement?"
