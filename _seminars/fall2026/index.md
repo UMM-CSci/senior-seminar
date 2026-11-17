@@ -12,7 +12,7 @@ papers:
   - title: AI Proofs in Mathematics
     author: Owen Beyer
     time: 2026-11-19 5:30 PM
-    room: Sci 3610
+    room: Sci 3650
 
   - title: "Admin, He's Doing It Sideways! Modern Solutions to Prevent Cheating in Video Games"
     author: Georgios Savvas
@@ -57,12 +57,12 @@ papers:
   - title: Machine Learning-Assisted Static Analysis
     author: Blake Thompson
     time: 2026-11-19 5:00 PM
-    room: Sci 3610
+    room: Sci 3650
 
   - title: Deep Learning for Anomaly Detection in Software Systems
     author: Jakob Linscheid
     time: 2026-11-19 4:30 PM
-    room: Sci 3610
+    room: Sci 3650
 
 ---
 
